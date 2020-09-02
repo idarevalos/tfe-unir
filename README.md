@@ -18,3 +18,4 @@ TFE Unir Master Inteligencia Artificual
 5. Revisar el entrenamiento de modelos.
 6. Revisar la consolidadción de un modelo y usarlo posteriormente en una implementación.
 
+abc
