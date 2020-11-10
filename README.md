@@ -25,3 +25,6 @@ TFE Unir Master Inteligencia Artificual
 2. Hacer peticiones a Facebook de perfiles públicos para traer información.
 
 3. Ampliar información de documentos científicos de identificación de menores de edad, con el uso de formas de escritura y lenguaje natural.
+
+# Fuentes
+https://towardsdatascience.com/web-scraping-using-selenium-python-8a60f4cf40ab

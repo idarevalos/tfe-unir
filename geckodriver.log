@@ -1,0 +1,278 @@
+1604989588048	geckodriver	INFO	Listening on 127.0.0.1:61319
+1604989591077	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofileptVWCl"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604989593204	Marionette	INFO	Listening on port 61327
+1604989593708	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+[Parent 50724, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1604989875858	Marionette	INFO	Stopped listening on port 61327
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604989654852	Marionette	INFO	Listening on port 61394
+1604989655349	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604989670759	Marionette	INFO	Stopped listening on port 61394
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604989729878	geckodriver	INFO	Listening on 127.0.0.1:61463
+1604989732914	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofileXqXhU5"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604989735180	Marionette	INFO	Listening on port 61471
+1604989735547	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 42800, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1604989874799	Marionette	INFO	Stopped listening on port 61471
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ozprofilemjSfAm"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604989797953	Marionette	INFO	Listening on port 61551
+1604989798278	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yy/r/GIXd1mQP3Bw.js?_nc_x=U-0yNKru5s9, line 44: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yy/r/GIXd1mQP3Bw.js?_nc_x=U-0yNKru5s9, line 44: unreachable code after return statement
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3/yy/r/GIXd1mQP3Bw.js?_nc_x=U-0yNKru5s9, line 44: unreachable code after return statement
+[Parent 48540, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1604989872454	Marionette	INFO	Stopped listening on port 61551
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604989878590	geckodriver	INFO	Listening on 127.0.0.1:61627
+1604989881643	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofileu83i2s"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604989883706	Marionette	INFO	Listening on port 61636
+1604989883780	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 52704, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1604990698970	Marionette	INFO	Stopped listening on port 61636
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604990731623	geckodriver	INFO	Listening on 127.0.0.1:61830
+1604990734679	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofileT65wpZ"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604990736709	Marionette	INFO	Listening on port 61838
+1604990736804	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604991008533	Marionette	INFO	Stopped listening on port 61838
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofileN3GGQ4"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604990834705	Marionette	INFO	Listening on port 61934
+1604990834751	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "can't access property \"rawNode\", node is null"
+console.error: "getApplied@resource://devtools/server/actors/styles.js:566:5\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new TypeError("can't access property \"getFront\", container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2252))
+console.error: (new Error("Protocol error (TypeError): can't access property \"rawNode\", node is null from: server0.conn0.child3/pagestyle26 (resource://devtools/server/actors/styles.js:566:5)", "resource://devtools/shared/protocol/Front.js", 353))
+1604991003925	Marionette	INFO	Stopped listening on port 61934
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+a\\Local\\Temp\\rust_mozprofilexxk79v"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604990965572	Marionette	INFO	Listening on port 62026
+1604990966023	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604991004902	Marionette	INFO	Stopped listening on port 62026
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604991303770	geckodriver	INFO	Listening on 127.0.0.1:62256
+1604991306823	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofileMgRjxq"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604991308828	Marionette	INFO	Listening on port 62265
+1604991308849	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 53712, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1604991336939	Marionette	INFO	Stopped listening on port 62265
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604991338907	geckodriver	INFO	Listening on 127.0.0.1:62340
+1604991341954	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofileQvbRK3"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604991344043	Marionette	INFO	Listening on port 62350
+1604991344081	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604991509201	Marionette	INFO	Stopped listening on port 62350
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604991511810	geckodriver	INFO	Listening on 127.0.0.1:62616
+1604991514858	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofilekqhqgf"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604991516895	Marionette	INFO	Listening on port 62627
+1604991516983	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604991713013	Marionette	INFO	Stopped listening on port 62627
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+a\\Local\\Temp\\rust_mozprofileGXcL7o"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604991550834	Marionette	INFO	Listening on port 62719
+1604991550876	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 51060, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1604991715430	Marionette	INFO	Stopped listening on port 62719
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604991718803	geckodriver	INFO	Listening on 127.0.0.1:62879
+1604991721858	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofileKXZMHl"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604991723864	Marionette	INFO	Listening on port 62888
+1604991723893	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.facebook.com/rsrc.php/v3iUDj4/yF/l/es_LA/I0wI3ptd8qfpzJFICi8D4FFHEGx2pvhVWnBvsO2-GbCIuwwIklgTmKtiIZ8LyKrxkyDbBcVnBhv8RHbVdKH0vB78WV3wMCFfNpLy26C_OAaIgBjhr8DnYq4finWk8VoXRWFqU3_TtvKWYv3Dz2vArkzbtc-gQl9FcLR6ZybCSnfh3y_FySWKwR_yjAv5FUkxO2XJTXvFQuni_8RHdOzSkrxWa1oaKVON-c-ph1KWt-NtR0g-mmVzeG2bG4QOWZllPSj1vndZM0jSpeD0b8dKnRu0VWYC97YjWaFJTv16je4x0IMvB4sDXwEp0T9LWO5Lo4jPzeYreZ.js?_nc_x=U-0yNKru5s9, line 391: Script terminated by timeout at:
+F@https://www.facebook.com/rsrc.php/v3iUDj4/yF/l/es_LA/I0wI3ptd8qfpzJFICi8D4FFHEGx2pvhVWnBvsO2-GbCIuwwIklgTmKtiIZ8LyKrxkyDbBcVnBhv8RHbVdKH0vB78WV3wMCFfNpLy26C_OAaIgBjhr8DnYq4finWk8VoXRWFqU3_TtvKWYv3Dz2vArkzbtc-gQl9FcLR6ZybCSnfh3y_FySWKwR_yjAv5FUkxO2XJTXvFQuni_8RHdOzSkrxWa1oaKVON-c-ph1KWt-NtR0g-mmVzeG2bG4QOWZllPSj1vndZM0jSpeD0b8dKnRu0VWYC97YjWaFJTv16je4x0IMvB4sDXwEp0T9LWO5Lo4jPzeYreZ.js?_nc_x=U-0yNKru5s9:391:1168
+E@https://www.facebook.com/rsrc.php/v3iUDj4/yF/l/es_LA/I0wI3ptd8qfpzJFICi8D4FFHEGx2pvhVWnBvsO2-GbCIuwwIklgTmKtiIZ8LyKrxkyDbBcVnBhv8RHbVdKH0vB78WV3wMCFfNpLy26C_OAaIgBjhr8DnYq4finWk8VoXRWFqU3_TtvKWYv3Dz2vArkzbtc-gQl9FcLR6ZybCSnfh3y_FySWKwR_yjAv5FUkxO2XJTXvFQuni_8RHdOzSkrxWa1oaKVON-c-ph1KWt-NtR0g-mmVzeG2bG4QOWZllPSj1vndZM0jSpeD0b8dKnRu0VWYC97YjWaFJTv16je4x0IMvB4sDXwEp0T9LWO5Lo4jPzeYreZ.js?_nc_x=U-0yNKru5s9:391:1106
+G@https://www.facebook.com/rsrc.php/v3iUDj4/yF/l/es_LA/I0wI3ptd8qfpzJFICi8D4FFHEGx2pvhVWnBvsO2-GbCIuwwIklgTmKtiIZ8LyKrxkyDbBcVnBhv8RHbVdKH0vB78WV3wMCFfNpLy26C_OAaIgBjhr8DnYq4finWk8VoXRWFqU3_TtvKWYv3Dz2vArkzbtc-gQl9FcLR6ZybCSnfh3y_FySWKwR_yjAv5FUkxO2XJTXvFQuni_8RHdOzSkrxWa1oaKVON-c-ph1KWt-NtR0g-mmVzeG2bG4QOWZllPSj1vndZM0jSpeD0b8dKnRu0VWYC97YjWaFJTv16je4x0IMvB4sDXwEp0T9LWO5Lo4jPzeYreZ.js?_nc_x=U-0yNKru5s9:391:1454
+
+JavaScript warning: https://www.facebook.com/rsrc.php/v3/yn/r/MYjiVCUUNJz.js?_nc_x=U-0yNKru5s9, line 41: Script terminated by timeout at:
+y@https://www.facebook.com/rsrc.php/v3/yn/r/MYjiVCUUNJz.js?_nc_x=U-0yNKru5s9:41:1299
+k@https://www.facebook.com/rsrc.php/v3ikiS4/yi/l/es_LA/3TzF6WxmQy5C6fx19QgzrlBmxIzc2vEP5fpCIoayz7mBTz8agkJRpN9gGS_UUmtAmEI0wI3ptd8qfpzJFICi8D4FFHEGx2pvhVWnBvsO2-GbCIuwwIklgTmKtiIZ8LyKrxkyDbBcVnBhv8RHbVdKH0vB78WV3wMCFfNpLjhr8DnYq4fiybCSnfh3y_FySWKwR_yjAv5FUkxO2XJTX.js?_nc_x=U-0yNKru5s9:488:532
+j@https://www.facebook.com/rsrc.php/v3ikiS4/yi/l/es_LA/3TzF6WxmQy5C6fx19QgzrlBmxIzc2vEP5fpCIoayz7mBTz8agkJRpN9gGS_UUmtAmEI0wI3ptd8qfpzJFICi8D4FFHEGx2pvhVWnBvsO2-GbCIuwwIklgTmKtiIZ8LyKrxkyDbBcVnBhv8RHbVdKH0vB78WV3wMCFfNpLjhr8DnYq4fiybCSnfh3y_FySWKwR_yjAv5FUkxO2XJTX.js?_nc_x=U-0yNKru5s9:488:474
+B@https://www.facebook.com/rsrc.php/v3ikiS4/yi/l/es_LA/3TzF6WxmQy5C6fx19QgzrlBmxIzc2vEP5fpCIoayz7mBTz8agkJRpN9gGS_UUmtAmEI0wI3ptd8qfpzJFICi8D4FFHEGx2pvhVWnBvsO2-GbCIuwwIklgTmKtiIZ8LyKrxkyDbBcVnBhv8RHbVdKH0vB78WV3wMCFfNpLjhr8DnYq4fiybCSnfh3y_FySWKwR_yjAv5FUkxO2XJTX.js?_nc_x=U-0yNKru5s9:486:1233
+c@https://www.facebook.com/rsrc.php/v3ikiS4/yi/l/es_LA/3TzF6WxmQy5C6fx19QgzrlBmxIzc2vEP5fpCIoayz7mBTz8agkJRpN9gGS_UUmtAmEI0wI3ptd8qfpzJFICi8D4FFHEGx2pvhVWnBvsO2-GbCIuwwIklgTmKtiIZ8LyKrxkyDbBcVnBhv8RHbVdKH0vB78WV3wMCFfNpLjhr8DnYq4fiybCSnfh3y_FySWKwR_yjAv5FUkxO2XJTX.js?_nc_x=U-0yNKru5s9:486:1547
+c@https://www.facebook.com/rsrc.php/v3ikiS4/yi/l/es_LA/3TzF6WxmQy5C6fx19QgzrlBmxIzc2vEP5fpCIoayz7mBTz8agkJRpN9gGS_UUmtAmEI0wI3ptd8qfpzJFICi8D4FFHEGx2pvhVWnBvsO2-GbCIuwwIklgTmKtiIZ8LyKrxkyDbBcVnBhv8RHbVdKH0vB78WV3wMCFfNpLjhr8DnYq4fiybCSnfh3y_FySWKwR_yjAv5FUkxO2XJTX.js?_nc_x=U-0yNKru5s9:488:882
+j@https://www.facebook.com/rsrc.php/v3ikiS4/yi/l/es_LA/3TzF6WxmQy5C6fx19QgzrlBmxIzc2vEP5fpCIoayz7mBTz8agkJRpN9gGS_UUmtAmEI0wI3ptd8qfpzJFICi8D4FFHEGx2pvhVWnBvsO2-GbCIuwwIklgTmKtiIZ8LyKrxkyDbBcVnBhv8RHbVdKH0vB78WV3wMCFfNpLjhr8DnYq4fiybCSnfh3y_FySWKwR_yjAv5FUkxO2XJTX.js?_nc_x=U-0yNKru5s9:716:262
+
+JavaScript warning: https://www.facebook.com/rsrc.php/v3/yn/r/MYjiVCUUNJz.js?_nc_x=U-0yNKru5s9, line 41: Script terminated by timeout at:
+y@https://www.facebook.com/rsrc.php/v3/yn/r/MYjiVCUUNJz.js?_nc_x=U-0yNKru5s9:41:1203
+a/<@https://www.facebook.com/rsrc.php/v3iFLV4/yv/l/es_LA/VkWWxBIfuzDtL6kvYfo9gUNDg517ndiOagccgYIOhA25FCChYMhfZ4rc32B5bRGN2S_vcZ1fit5BDkE8QA3ie9owozoXJZ9P6YXJPJ8hTErhX5QZDmz7vblaz5E1ID4fjgn6b66nYa4IQ369ClhbvW_7QS731R6RTjXYja7J_P8jgw6Mue_XLF-tEbhRo6Pk85NXlPtdHeb_6mnuypEIrGTI5x3JaEJFE2TFpNnemdrFNUoXLD0CnUyvtLB9D2YNer4azgAiQi7waibauLJTRI_oAWhazWViZJbQL9yVx8IkLe-uo_KtBdyNKjbNqKK8Iwrf2r2hKt.js?_nc_x=U-0yNKru5s9:42:514
+t/b<@https://www.facebook.com/rsrc.php/v3iJTD4/yH/l/es_LA/C6fx19QgzrlBmxIzc2vEP5fpCIoayz7mBTz8agkJRpN9gGS_UUmtAmEI0wI3ptd8qfpzJFICi8D4FFHEGx2pvhVWnBvsO2-GbCIuwwIklgTmKtiIZ8LyKrxkyDbBcVnBhv8RHbVdKH0vB78WV3wMCFfNpLy26C_OAaIgBjhr8DnYq4finWk8VoXRWFqU3_TtvKWYv3-gQl9FcLR6ZybCSnfh3y_FySWKwR_yjAv5FUkxO2XJTXOzSkrxWa1oaWt-NtR0g-mmVzeG2bG4QOWM0jSpeD0b8d.js?_nc_x=U-0yNKru5s9:861:628
+applyWithGuard@https://www.facebook.com/rsrc.php/v3/yn/r/MYjiVCUUNJz.js?_nc_x=U-0yNKru5s9:65:632
+a</c.__emitToSubscription@https://www.facebook.com/rsrc.php/v3/yn/r/MYjiVCUUNJz.js?_nc_x=U-0yNKru5s9:74:1477
+a</c.emit@https://www.facebook.com/rsrc.php/v3/yn/r/MYjiVCUUNJz.js?_nc_x=U-0yNKru5s9:74:1303
+F@https://www.facebook.com/rsrc.php/v3iJTD4/yH/l/es_LA/C6fx19QgzrlBmxIzc2vEP5fpCIoayz7mBTz8agkJRpN9gGS_UUmtAmEI0wI3ptd8qfpzJFICi8D4FFHEGx2pvhVWnBvsO2-GbCIuwwIklgTmKtiIZ8LyKrxkyDbBcVnBhv8RHbVdKH0vB78WV3wMCFfNpLy26C_OAaIgBjhr8DnYq4finWk8VoXRWFqU3_TtvKWYv3-gQl9FcLR6ZybCSnfh3y_FySWKwR_yjAv5FUkxO2XJTXOzSkrxWa1oaWt-NtR0g-mmVzeG2bG4QOWM0jSpeD0b8d.js?_nc_x=U-0yNKru5s9:861:1353
+E@https://www.facebook.com/rsrc.php/v3iJTD4/yH/l/es_LA/C6fx19QgzrlBmxIzc2vEP5fpCIoayz7mBTz8agkJRpN9gGS_UUmtAmEI0wI3ptd8qfpzJFICi8D4FFHEGx2pvhVWnBvsO2-GbCIuwwIklgTmKtiIZ8LyKrxkyDbBcVnBhv8RHbVdKH0vB78WV3wMCFfNpLy26C_OAaIgBjhr8DnYq4finWk8VoXRWFqU3_TtvKWYv3-gQl9FcLR6ZybCSnfh3y_FySWKwR_yjAv5FUkxO2XJTXOzSkrxWa1oaWt-NtR0g-mmVzeG2bG4QOWM0jSpeD0b8d.js?_nc_x=U-0yNKru5s9:861:1106
+G@https://www.facebook.com/rsrc.php/v3iJTD4/yH/l/es_LA/C6fx19QgzrlBmxIzc2vEP5fpCIoayz7mBTz8agkJRpN9gGS_UUmtAmEI0wI3ptd8qfpzJFICi8D4FFHEGx2pvhVWnBvsO2-GbCIuwwIklgTmKtiIZ8LyKrxkyDbBcVnBhv8RHbVdKH0vB78WV3wMCFfNpLy26C_OAaIgBjhr8DnYq4finWk8VoXRWFqU3_TtvKWYv3-gQl9FcLR6ZybCSnfh3y_FySWKwR_yjAv5FUkxO2XJTXOzSkrxWa1oaWt-NtR0g-mmVzeG2bG4QOWM0jSpeD0b8d.js?_nc_x=U-0yNKru5s9:861:1454
+
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 280: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Parent 42036, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1604991795021	Marionette	INFO	Stopped listening on port 62888
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604991806713	geckodriver	INFO	Listening on 127.0.0.1:63001
+1604991809795	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofileYUTeuu"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604991811880	Marionette	INFO	Listening on port 63009
+1604991811962	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 52932, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1604991862021	Marionette	INFO	Stopped listening on port 63009
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604991864150	geckodriver	INFO	Listening on 127.0.0.1:63077
+1604991867216	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofile9IfW4B"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604991869376	Marionette	INFO	Listening on port 63086
+1604991869873	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 52660, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1604992005825	Marionette	INFO	Stopped listening on port 63086
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604991906155	Marionette	INFO	Listening on port 63167
+1604991906270	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 53296, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1604992006636	Marionette	INFO	Stopped listening on port 63167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604991968868	Marionette	INFO	Listening on port 63244
+1604991968935	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 43084, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1604992007736	Marionette	INFO	Stopped listening on port 63244
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

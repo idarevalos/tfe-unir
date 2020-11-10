@@ -1,28 +1,28 @@
 # importacion de libreria modulos
 from flask import Flask, jsonify
-from data import products
-import urllib.request
-
 
 app = Flask(__name__)
 
-# Creacion de Rutas
+# Ruta principal
 @app.route('/home')
-def start():
+def home():
     return jsonify(
         {
             "status":"OK",
-            "data":products
+            "data":'empty'
         }
     )
 
 # Peticion a servicio
-@app.route('/getdata')
-def getData():
-    response = urllib.request.urlopen('http://localhost/home')
-    html = response.read()
-    return html
+@app.route('/getdata/<facebook_path>', methods=['GET'])
+def getData(facebook_path):
+    return jsonify(
+        {
+            "status":"OK",
+            "facebook_path":facebook_path
+        }
+    )
 
 # Inicializarlo
 if __name__ == '__main__':
-    app.run(debug=True, port=80)
+    app.run(debug=True, port=8080)
