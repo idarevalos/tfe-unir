@@ -2,29 +2,16 @@
 TFE Unir Master Inteligencia Artificual
 ** URL web: https://idarevalos-tfe-unir.web.app/
 
-# Seguimiento del proyecto
-200827 - 
-1. Se crea versión base del proyecto en Flask Python 
-2. Primeros usos de peticiones "Esto con el objetivo de posteriormente hacer las peticiones a Facebook"
-3. Se crea dominio público en firebase para hacer uso de facebook login [200827]
+# Clasificador de edad no válida en Facebook
 
-# Siguientes pasos
+Mediante técnicas de Inteligencia Artificial, aplicando algoritmos de aprendizaje automático no supervisado. Se hace un perfilamiento de perfiles de Facebook, para identificar si su perfil en Facebook es de edad no válida, y si tiene algunas características que puedan sugerir una vulnerabilidad para el usuario.
 
+# Liberías usadas
 
-1. Hacer peticiones a Facebook de perfiles públicos para traer información.
-2. Ampliar información de documentos científicos de identificación de menores de edad, con el uso de formas de escritura y lenguaje natural.
-3. Solicitar permisos adicionales a facebook para traer información de perfil.
-4. Búsqueda de fuentes de datos de palabras de uso de menores de edad.
-5. Revisar el entrenamiento de modelos.
-6. Revisar la consolidadción de un modelo y usarlo posteriormente en una implementación.
+[Selenium with Python] (https://selenium-python.readthedocs.io/)
+[Beautiful Soup] (https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+[Bootstrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
 
-
-# Siguientes pasos
-
-1. Configurar un dominio público para solicitar a Facebook la creación de APP, para solicitar permisos.
-2. Hacer peticiones a Facebook de perfiles públicos para traer información.
-
-3. Ampliar información de documentos científicos de identificación de menores de edad, con el uso de formas de escritura y lenguaje natural.
-
-# Fuentes
-https://towardsdatascience.com/web-scraping-using-selenium-python-8a60f4cf40ab
+# Recursos usados
+[Google Firebase] (https://firebase.google.com/docs/hosting/)
+[Amazon Web Services - Lambda] (https://aws.amazon.com/es/lambda/)
