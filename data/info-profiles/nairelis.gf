@@ -1,0 +1,1 @@
+{'leorianny.gil': {'me': 'nairelis.gf', 'friend': 'leorianny.gil', 'estudy': 'Estudió en Armando Reveron', 'live': 'Vive en Barquisimeto', 'from': '', 'marital_status': '', 'phone': ''}}
