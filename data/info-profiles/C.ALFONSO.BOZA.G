@@ -1,1 +1,0 @@
-{'leorianny.gil': {'me': 'C.ALFONSO.BOZA.G', 'friend': 'leorianny.gil', 'estudy': '', 'live': '', 'from': '', 'marital_status': '', 'phone': ''}}

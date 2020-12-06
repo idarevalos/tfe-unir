@@ -1,0 +1,25 @@
+{
+    "unir": {
+        "lambda_description": "idarevalos-unir-lambda",
+        "app_function": "main.app",
+        "aws_region": "us-east-1",
+        "profile_name": "default",
+        "project_name": "idarevalos-unir",
+        "runtime": "python3.8",
+        "s3_bucket": "idarevalos",
+        "timeout_seconds": 60,
+        "memory_size": 128,
+        "role_name": "idarevalos-lambda",
+        "role_arn": "arn:aws:iam::557126045124:role/idarevalos-lambda",
+        "cors": true,
+        "use_precompiled_packages":true,
+        "aws_environment_variables": {
+          "EMAIL_BCC": "",
+          "EMAIL_CC": "arevaloivan1073@gmail.com",
+          "EMAIL_D": "aircopson@hotmail.com",
+          "EMAIL_S": "idarevalos@hotmail.com",
+          "TIMEZONE": "America/Bogota", 
+          "APP_ALLOW_REFERERS":"http://localhost"
+      }      
+    }   
+}

@@ -50,7 +50,6 @@ def getDataProfile(facebook_path):
 
     return result
 
-
 # recorrer todas los perfiles obtenidos
 @app.route('/readProfiles')
 def readProfiles():
@@ -64,6 +63,8 @@ def readProfiles():
     return content
 
 
+# # Leer perfiles, para convertirlos a un csv o json consolidado
+# @app.route('/readProfiles')
 
 # Inicializarlo
 if __name__ == '__main__':
