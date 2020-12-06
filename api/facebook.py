@@ -7,7 +7,7 @@ class seleniumFacebook():
 
     def __init__(self, **kwargs):
         self.u = "ivandaniel.arevalo884@comunidadunir.net"
-        self.p = "XXXXXX"
+        self.p = "TFFMKMGZEN"
 
     def saveResult(self, txt, folder, name_file):
         file = codecs.open('data/'+folder+'/'+name_file,'w',"utf-8")
