@@ -4228,3 +4228,1507 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1607294175358	geckodriver	INFO	Listening on 127.0.0.1:62857
+1607294178423	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofile0tKliz"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607294186272	Marionette	INFO	Listening on port 62865
+1607294186379	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("can't access property \"treeChildren\", parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: can't access property "treeChildren", parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+console.error: (new TypeError("can't access property \"getFront\", container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2252))
+console.error: "Error writing request: getGrids"
+[Parent 22152, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607294523223	Marionette	INFO	Stopped listening on port 62865
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607294538119	geckodriver	INFO	Listening on 127.0.0.1:63002
+1607294541186	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofileHPgCFu"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607294546682	Marionette	INFO	Listening on port 63010
+1607294546980	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 28668, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607294667954	Marionette	INFO	Stopped listening on port 63010
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607294671928	geckodriver	INFO	Listening on 127.0.0.1:63108
+1607294674985	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofileYtxr6m"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607294680427	Marionette	INFO	Listening on port 63117
+1607294680788	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/client/jsonview/Sniffer.jsm, line 56: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+[Parent 24080, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607296311278	Marionette	INFO	Stopped listening on port 63117
+1607296313341	geckodriver	INFO	Listening on 127.0.0.1:63704
+1607296316397	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofile4YR7x2"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607296323209	Marionette	INFO	Listening on port 63712
+1607296323370	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1607296331469	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[Parent 24652, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607296408440	Marionette	INFO	Stopped listening on port 63712
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+iz"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607296408304	Marionette	INFO	Listening on port 63814
+1607296408667	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 315: TypeError: can't access property "addListToBuild", this._builder is undefined
+[Parent 24448, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607296528682	Marionette	INFO	Stopped listening on port 63814
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607296530049	geckodriver	INFO	Listening on 127.0.0.1:63904
+1607296533097	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofileFW1E0c"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607296539534	Marionette	INFO	Listening on port 63912
+1607296540021	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 28596, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607296678663	Marionette	INFO	Stopped listening on port 63912
+1607296680650	geckodriver	INFO	Listening on 127.0.0.1:64073
+1607296683716	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofilehSoFv7"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607296685624	Marionette	INFO	Listening on port 64081
+1607296685740	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607296934787	Marionette	INFO	Stopped listening on port 64081
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607296938040	geckodriver	INFO	Listening on 127.0.0.1:64194
+1607296941109	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofile6XD1UV"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607296942971	Marionette	INFO	Listening on port 64204
+1607296943133	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607296997410	Marionette	INFO	Stopped listening on port 64204
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607297000575	geckodriver	INFO	Listening on 127.0.0.1:64309
+1607297003606	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofile6HrwbL"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607297005508	Marionette	INFO	Listening on port 64317
+1607297005625	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 26756, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607297031049	Marionette	INFO	Stopped listening on port 64317
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607297033660	geckodriver	INFO	Listening on 127.0.0.1:64398
+1607297036693	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofileRWM6qB"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607297038605	Marionette	INFO	Listening on port 64406
+1607297038712	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 13064, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607297080100	Marionette	INFO	Stopped listening on port 64406
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+vR"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607297074958	Marionette	INFO	Listening on port 64499
+1607297075100	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607297131203	Marionette	INFO	Stopped listening on port 64499
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+efox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofileIz1aka"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607297126738	Marionette	INFO	Listening on port 64594
+1607297126935	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+[Parent 8096, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607297275513	Marionette	INFO	Stopped listening on port 64594
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+NtB"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607297271050	Marionette	INFO	Listening on port 64697
+1607297271167	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+[Parent 13232, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607297305096	Marionette	INFO	Stopped listening on port 64697
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607297306822	geckodriver	INFO	Listening on 127.0.0.1:64783
+1607297309866	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofile1ICpgQ"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607297311930	Marionette	INFO	Listening on port 64791
+1607297311990	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 2308, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607297335132	Marionette	INFO	Stopped listening on port 64791
+1607297338619	geckodriver	INFO	Listening on 127.0.0.1:64874
+1607297341660	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofilegeaEyO"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607297343562	Marionette	INFO	Listening on port 64883
+1607297343684	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+[Parent 15028, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607297424543	Marionette	INFO	Stopped listening on port 64883
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607297427963	geckodriver	INFO	Listening on 127.0.0.1:64975
+1607297431017	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofilennvluE"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607297433056	Marionette	INFO	Listening on port 64983
+1607297433145	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 28064, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607297670997	Marionette	INFO	Stopped listening on port 64983
+1607297692621	geckodriver	INFO	Listening on 127.0.0.1:65143
+1607297695680	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofile6HPwNA"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607297697503	Marionette	INFO	Listening on port 65152
+1607297697700	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 24356, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607298082376	Marionette	INFO	Stopped listening on port 65152
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607298101906	geckodriver	INFO	Listening on 127.0.0.1:65298
+1607298104936	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofileNePY0Y"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607298107003	Marionette	INFO	Listening on port 65306
+1607298107067	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 20812, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607298406509	Marionette	INFO	Stopped listening on port 65306
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607298408418	geckodriver	INFO	Listening on 127.0.0.1:65460
+1607298411446	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofilergr0bm"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607298413476	Marionette	INFO	Listening on port 65468
+1607298413593	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 25472, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607298565701	Marionette	INFO	Stopped listening on port 65468
+1607298567755	geckodriver	INFO	Listening on 127.0.0.1:49193
+1607298570810	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofilei0Sf7y"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607298572769	Marionette	INFO	Listening on port 49202
+1607298572835	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 20680, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607298600162	Marionette	INFO	Stopped listening on port 49202
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607298601742	geckodriver	INFO	Listening on 127.0.0.1:49275
+1607298604806	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofileCVkLam"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607298606704	Marionette	INFO	Listening on port 49284
+1607298606828	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 25052, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607298635613	Marionette	INFO	Stopped listening on port 49284
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607298637263	geckodriver	INFO	Listening on 127.0.0.1:49366
+1607298640307	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofileivCB5C"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607298642357	Marionette	INFO	Listening on port 49374
+1607298642438	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 8564, Gecko_IOThread] WARNING: file /builds/worker/c1607298696811	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofileLovzix"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607298698878	Marionette	INFO	Listening on port 49474
+1607298698951	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 7980, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607298741155	Marionette	INFO	Stopped listening on port 49474
+1607298745093	geckodriver	INFO	Listening on 127.0.0.1:49551
+1607298748135	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofile84Iguz"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607298750098	Marionette	INFO	Listening on port 49559
+1607298750163	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iRSp4/y9/l/es_LA/wzlop81R43Hv3Xd1eYlM4N231WN1YiTh-YS61r1Tq5ZvLnyBKgPtx5O47nMrWlvotXnGiFscIcO_onwNKTm6BHLTl46_xXrmm34uhiIubAHRyd65fqs12GJWzLWkSy4DCKoaAZE-95tJQCDTFdUszNCTMujbo-eY2nTxUQ1U7GVHxMZhNS8p-aIgg2Xy2NKqLRthrUJFvOok3MX9v41l-ogGJeO2x6XvMsg_AHW.js?_nc_x=U-0yNKru5s9, line 189: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iRSp4/y9/l/es_LA/wzlop81R43Hv3Xd1eYlM4N231WN1YiTh-YS61r1Tq5ZvLnyBKgPtx5O47nMrWlvotXnGiFscIcO_onwNKTm6BHLTl46_xXrmm34uhiIubAHRyd65fqs12GJWzLWkSy4DCKoaAZE-95tJQCDTFdUszNCTMujbo-eY2nTxUQ1U7GVHxMZhNS8p-aIgg2Xy2NKqLRthrUJFvOok3MX9v41l-ogGJeO2x6XvMsg_AHW.js?_nc_x=U-0yNKru5s9, line 188: cancelled: operation is cancelled
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iRSp4/y9/l/es_LA/wzlop81R43Hv3Xd1eYlM4N231WN1YiTh-YS61r1Tq5ZvLnyBKgPtx5O47nMrWlvotXnGiFscIcO_onwNKTm6BHLTl46_xXrmm34uhiIubAHRyd65fqs12GJWzLWkSy4DCKoaAZE-95tJQCDTFdUszNCTMujbo-eY2nTxUQ1U7GVHxMZhNS8p-aIgg2Xy2NKqLRthrUJFvOok3MX9v41l-ogGJeO2x6XvMsg_AHW.js?_nc_x=U-0yNKru5s9, line 186: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1607298918166	Marionette	INFO	Stopped listening on port 49559
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607298977655	geckodriver	INFO	Listening on 127.0.0.1:49682
+1607298980714	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofileaAUYba"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607298982702	Marionette	INFO	Listening on port 49691
+1607298982748	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 21652, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607299061856	Marionette	INFO	Stopped listening on port 49691
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607299063741	geckodriver	INFO	Listening on 127.0.0.1:49782
+1607299066781	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofileT7wwR1"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607299068714	Marionette	INFO	Listening on port 49790
+1607299068811	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 22272, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607299176551	Marionette	INFO	Stopped listening on port 49790
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+uz"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607299173839	Marionette	INFO	Listening on port 49893
+1607299174011	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 15536, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607299187563	Marionette	INFO	Stopped listening on port 49893
+1607299196398	geckodriver	INFO	Listening on 127.0.0.1:49965
+1607299199437	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofileKVYbwh"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607299201514	Marionette	INFO	Listening on port 49974
+1607299201569	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 13972, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607299295586	Marionette	INFO	Stopped listening on port 49974
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+XG"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607299289295	Marionette	INFO	Listening on port 50083
+1607299289355	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 23068, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607299340943	Marionette	INFO	Stopped listening on port 50083
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607299352181	geckodriver	INFO	Listening on 127.0.0.1:50168
+1607299355229	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofileWJqLbM"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607299357211	Marionette	INFO	Listening on port 50177
+1607299357249	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 22852, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607299437100	Marionette	INFO	Stopped listening on port 50177
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607299439355	geckodriver	INFO	Listening on 127.0.0.1:50298
+1607299442409	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofileOkxW1T"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607299444372	Marionette	INFO	Listening on port 50311
+1607299444442	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 26740, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607299532065	Marionette	INFO	Stopped listening on port 50311
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607299533809	geckodriver	INFO	Listening on 127.0.0.1:50390
+1607299536844	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofiledlOBQC"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607299538742	Marionette	INFO	Listening on port 50398
+1607299538873	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 14900, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607299681231	Marionette	INFO	Stopped listening on port 50398
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607299683623	geckodriver	INFO	Listening on 127.0.0.1:50498
+1607299686657	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofileXAmDrV"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607299688881	Marionette	INFO	Listening on port 50507
+1607299689278	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/client/fronts/node.js, line 418: TypeError: can't access property "parentFront", this.parentFront is null
+[Parent 27156, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607300118393	Marionette	INFO	Stopped listening on port 50507
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+WE"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607299978767	Marionette	INFO	Listening on port 50613
+1607299978957	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 20148, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607300260280	Marionette	INFO	Stopped listening on port 50613
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+SL"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607300125113	Marionette	INFO	Listening on port 50710
+1607300125140	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 26340, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607300260801	Marionette	INFO	Stopped listening on port 50710
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607300263118	geckodriver	INFO	Listening on 127.0.0.1:50803
+1607300266162	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofilefIBBqt"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607300268193	Marionette	INFO	Listening on port 50812
+1607300268288	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 27200, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607300695461	Marionette	INFO	Stopped listening on port 50812
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607300697606	geckodriver	INFO	Listening on 127.0.0.1:61411
+1607300700647	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofile3oyIiK"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607300702751	Marionette	INFO	Listening on port 61419
+1607300702781	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 19272, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607300910662	Marionette	INFO	Stopped listening on port 61419
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+T2"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607300801048	Marionette	INFO	Listening on port 61514
+1607300801243	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 20700, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607300961416	Marionette	INFO	Stopped listening on port 61514
+1607300969201	geckodriver	INFO	Listening on 127.0.0.1:61612
+1607300972248	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofileqE4l12"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607300974223	Marionette	INFO	Listening on port 61620
+1607300974276	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 13956, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607301114669	Marionette	INFO	Stopped listening on port 61620
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607301116364	geckodriver	INFO	Listening on 127.0.0.1:61726
+1607301119395	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofileuH5w9U"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607301121349	Marionette	INFO	Listening on port 61734
+1607301121420	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 1432, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607301162015	Marionette	INFO	Stopped listening on port 61734
+1607301165743	geckodriver	INFO	Listening on 127.0.0.1:61812
+1607301168804	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofileLisZFc"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607301170634	Marionette	INFO	Listening on port 61820
+1607301170827	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/client/fronts/node.js, line 418: TypeError: can't access property "parentFront", this.parentFront is null
+[Parent 11404, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607301264262	Marionette	INFO	Stopped listening on port 61820
+1607301265880	geckodriver	INFO	Listening on 127.0.0.1:61909
+1607301268925	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofile1H0ljo"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607301271144	Marionette	INFO	Listening on port 61917
+1607301271546	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 9932, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607301293010	Marionette	INFO	Stopped listening on port 61917
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+lVR"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607301294303	Marionette	INFO	Listening on port 62002
+1607301294807	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 5400, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607301318239	Marionette	INFO	Stopped listening on port 62002
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607301320131	geckodriver	INFO	Listening on 127.0.0.1:62069
+1607301323195	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofilevVj7NO"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607301325117	Marionette	INFO	Listening on port 62077
+1607301325227	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 22884, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607301358200	Marionette	INFO	Stopped listening on port 62077
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607301361311	geckodriver	INFO	Listening on 127.0.0.1:62160
+1607301364355	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofilePUN8kd"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607301366349	Marionette	INFO	Listening on port 62168
+1607301366393	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 24356, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607301437186	Marionette	INFO	Stopped listening on port 62168
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607301451135	geckodriver	INFO	Listening on 127.0.0.1:62383
+1607301454179	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofile6EQn9y"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607301455956	Marionette	INFO	Listening on port 62392
+1607301456201	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 11628, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607301558206	Marionette	INFO	Stopped listening on port 62392
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607301561219	geckodriver	INFO	Listening on 127.0.0.1:62474
+1607301564260	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofileZJHpcs"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607301566109	Marionette	INFO	Listening on port 62482
+1607301566290	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+[Parent 24716, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607301671180	Marionette	INFO	Stopped listening on port 62482
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607301673253	geckodriver	INFO	Listening on 127.0.0.1:62587
+1607301676305	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofileUmh3o6"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607301678074	Marionette	INFO	Listening on port 62596
+1607301678329	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 25420, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607301746578	Marionette	INFO	Stopped listening on port 62596
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607301748521	geckodriver	INFO	Listening on 127.0.0.1:62683
+1607301751562	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofile10DqhE"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607301753456	Marionette	INFO	Listening on port 62691
+1607301753584	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 10724, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607301822535	Marionette	INFO	Stopped listening on port 62691
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607301824818	geckodriver	INFO	Listening on 127.0.0.1:62780
+1607301828920	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofileo7ZWsV"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607301831473	Marionette	INFO	Listening on port 62809
+1607301831554	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 25816, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607301872478	Marionette	INFO	Stopped listening on port 62809
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607301899000	geckodriver	INFO	Listening on 127.0.0.1:62895
+1607301902042	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofile4WXdOJ"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607301903829	Marionette	INFO	Listening on port 62903
+1607301904061	Marionette	WARN	TLS certificate errors will be ignored for this session
+Handler function _httpStopRequest threw an exception: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsITraceableChannel.setNewListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _setupResponseListener :: line 1086"  data: no]
+Stack: _setupResponseListener@resource://devtools/server/actors/network-monitor/network-observer.js:1086:38
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:912:12
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:409:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1086, column: 0
+console.error: ({})
+[Parent 19504, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607301991382	Marionette	INFO	Stopped listening on port 62903
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607301993463	geckodriver	INFO	Listening on 127.0.0.1:62992
+1607301996506	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofileLltknA"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607301998327	Marionette	INFO	Listening on port 63000
+1607301998527	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 25352, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607302048486	Marionette	INFO	Stopped listening on port 63000
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607302050205	geckodriver	INFO	Listening on 127.0.0.1:63091
+1607302053269	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofilevJYvZg"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607302055160	Marionette	INFO	Listening on port 63103
+1607302055294	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 26460, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607302126233	Marionette	INFO	Stopped listening on port 63103
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607302127977	geckodriver	INFO	Listening on 127.0.0.1:63198
+1607302131026	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofilelVjAjd"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607302132928	Marionette	INFO	Listening on port 63208
+1607302133045	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 3020, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607302176179	Marionette	INFO	Stopped listening on port 63208
+1607302178356	geckodriver	INFO	Listening on 127.0.0.1:63287
+1607302181403	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofile3PALpK"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607302183362	Marionette	INFO	Listening on port 63295
+1607302183431	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 27352, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607302238239	Marionette	INFO	Stopped listening on port 63295
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607302240254	geckodriver	INFO	Listening on 127.0.0.1:63378
+1607302243314	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofileNuQj1s"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607302245213	Marionette	INFO	Listening on port 63388
+1607302245336	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 21524, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607302276046	Marionette	INFO	Stopped listening on port 63388
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607302277882	geckodriver	INFO	Listening on 127.0.0.1:63458
+1607302280932	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofileNkEVcK"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607302282845	Marionette	INFO	Listening on port 63466
+1607302282951	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 25780, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607302651540	Marionette	INFO	Stopped listening on port 63466
+1607302653659	geckodriver	INFO	Listening on 127.0.0.1:63603
+1607302656716	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofileqoaKQZ"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607302658648	Marionette	INFO	Listening on port 63614
+1607302658741	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 18280, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607303188319	Marionette	INFO	Stopped listening on port 63614
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Ei"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607303183531	Marionette	INFO	Listening on port 63821
+1607303183583	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 10820, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607303239160	Marionette	INFO	Stopped listening on port 63821
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607303243650	geckodriver	INFO	Listening on 127.0.0.1:63905
+1607303246712	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofilewIcALQ"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607303248576	Marionette	INFO	Listening on port 63913
+1607303248737	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 27156, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607303311629	Marionette	INFO	Stopped listening on port 63913
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607303313685	geckodriver	INFO	Listening on 127.0.0.1:63992
+1607303316751	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofileUBd8Hl"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607303318577	Marionette	INFO	Listening on port 64000
+1607303318782	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 21916, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607303377146	Marionette	INFO	Stopped listening on port 64000
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607303379177	geckodriver	INFO	Listening on 127.0.0.1:64077
+1607303382239	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofile7bEZU2"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607303384097	Marionette	INFO	Listening on port 64086
+1607303384265	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 29060, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607303424400	Marionette	INFO	Stopped listening on port 64086
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607303428777	geckodriver	INFO	Listening on 127.0.0.1:64166
+1607303431831	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofileYvw45Q"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607303433805	Marionette	INFO	Listening on port 64175
+1607303433861	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 360, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607303467815	Marionette	INFO	Stopped listening on port 64175
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Czrp"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607303469240	Marionette	INFO	Listening on port 64252
+1607303469653	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 16596, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607307946208	Marionette	INFO	Stopped listening on port 64252
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607307950693	geckodriver	INFO	Listening on 127.0.0.1:64417
+1607307953743	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofilemlzePi"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607307958760	Marionette	INFO	Listening on port 64426
+1607307959020	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+[Parent 32032, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607308025950	Marionette	INFO	Stopped listening on port 64426
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+aT"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607308020667	Marionette	INFO	Listening on port 64517
+1607308020791	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 10428, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607308056777	Marionette	INFO	Stopped listening on port 64517
+1607308059800	geckodriver	INFO	Listening on 127.0.0.1:64600
+1607308062833	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofileWQfy16"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607308069321	Marionette	INFO	Listening on port 64608
+1607308069903	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 24300, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607308151513	Marionette	INFO	Stopped listening on port 64608
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607308154992	geckodriver	INFO	Listening on 127.0.0.1:64712
+1607308158013	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofilemv1ZP8"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607308164787	Marionette	INFO	Listening on port 64720
+1607308164904	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 11252, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607308309756	Marionette	INFO	Stopped listening on port 64720
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607308321708	geckodriver	INFO	Listening on 127.0.0.1:64826
+1607308324776	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofilehaK4Tp"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607308330388	Marionette	INFO	Listening on port 64834
+1607308330572	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 31316, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607308402175	Marionette	INFO	Stopped listening on port 64834
+e" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofilehZFy0J"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607308409069	Marionette	INFO	Listening on port 64926
+1607308409385	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 4552, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607308463099	Marionette	INFO	Stopped listening on port 64926
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607308464854	geckodriver	INFO	Listening on 127.0.0.1:65014
+1607308467928	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofileGmnS1H"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607308474713	Marionette	INFO	Listening on port 65022
+1607308474850	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 31496, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607308588286	Marionette	INFO	Stopped listening on port 65022
+1607308599813	geckodriver	INFO	Listening on 127.0.0.1:65117
+1607308602863	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofileWpPw8N"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607308608389	Marionette	INFO	Listening on port 65126
+1607308608660	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 31140, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607308644793	Marionette	INFO	Stopped listening on port 65126
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607308646914	geckodriver	INFO	Listening on 127.0.0.1:65207
+1607308649994	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofileRzPFvC"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607308655395	Marionette	INFO	Listening on port 65216
+1607308655790	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/client/fronts/node.js, line 418: TypeError: can't access property "parentFront", this.parentFront is null
+[Parent 29796, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607308742935	Marionette	INFO	Stopped listening on port 65216
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607308745392	geckodriver	INFO	Listening on 127.0.0.1:65302
+1607308748432	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofileRonzFy"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607308753978	Marionette	INFO	Listening on port 65310
+1607308754229	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 27252, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607308918119	Marionette	INFO	Stopped listening on port 65310
+e" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofileAGYKdT"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607308795306	Marionette	INFO	Listening on port 65397
+1607308795580	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 29900, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607308917069	Marionette	INFO	Stopped listening on port 65397
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607308920455	geckodriver	INFO	Listening on 127.0.0.1:65492
+1607308923506	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofileFeVsZC"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607308929116	Marionette	INFO	Listening on port 65500
+1607308929307	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 17068, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607309160937	Marionette	INFO	Stopped listening on port 65500
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607309164002	geckodriver	INFO	Listening on 127.0.0.1:49215
+1607309167073	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofilesysfI4"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607309172447	Marionette	INFO	Listening on port 49224
+1607309172865	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 17560, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607309474764	Marionette	INFO	Stopped listening on port 49224
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607309477019	geckodriver	INFO	Listening on 127.0.0.1:49362
+1607309480067	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofileaOXpgK"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607309485650	Marionette	INFO	Listening on port 49371
+1607309485865	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 30892, Gecko_IOThread] WARNING: file /builds/worker/1607309719192	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionett
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Lk"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607309725259	Marionette	INFO	Listening on port 49471
+1607309725501	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 26332, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607310053216	Marionette	INFO	Stopped listening on port 49471
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607310055057	geckodriver	INFO	Listening on 127.0.0.1:49594
+1607310058097	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofileFIKKjv"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607310064069	Marionette	INFO	Listening on port 49602
+1607310064394	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 29828, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607310172116	Marionette	INFO	Stopped listening on port 49602
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607310175294	geckodriver	INFO	Listening on 127.0.0.1:49700
+1607310178358	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofilehq3oQE"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607310183816	Marionette	INFO	Listening on port 49708
+1607310184161	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 31624, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607310217346	Marionette	INFO	Stopped listening on port 49708
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607310221699	geckodriver	INFO	Listening on 127.0.0.1:49789
+1607310224750	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofiles6iHb1"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607310230565	Marionette	INFO	Listening on port 49797
+1607310231053	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 9632, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607310331343	Marionette	INFO	Stopped listening on port 49797
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607310338580	geckodriver	INFO	Listening on 127.0.0.1:49901
+1607310341628	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofile9VM5rJ"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607310347245	Marionette	INFO	Listening on port 49910
+1607310347430	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 31428, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607310500101	Marionette	INFO	Stopped listening on port 49910
+e" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofileJNAHts"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607310394142	Marionette	INFO	Listening on port 50009
+1607310394344	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 31072, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607310499178	Marionette	INFO	Stopped listening on port 50009
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607310502454	geckodriver	INFO	Listening on 127.0.0.1:50115
+1607310505526	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofileHu1MKg"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607310511153	Marionette	INFO	Listening on port 50123
+1607310511339	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+[Parent 30888, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607310604689	Marionette	INFO	Stopped listening on port 50123
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+DT"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607310599621	Marionette	INFO	Listening on port 50224
+1607310599707	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 31512, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607310631421	Marionette	INFO	Stopped listening on port 50224
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607310644411	geckodriver	INFO	Listening on 127.0.0.1:50305
+1607310647476	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofilelKVDl0"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607310652974	Marionette	INFO	Listening on port 50313
+1607310653264	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 32192, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607310730856	Marionette	INFO	Stopped listening on port 50313
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607310734412	geckodriver	INFO	Listening on 127.0.0.1:50410
+1607310737469	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofiledjvaxn"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607310743973	Marionette	INFO	Listening on port 50419
+1607310744376	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 21944, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607311197648	Marionette	INFO	Stopped listening on port 50419
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607311200988	geckodriver	INFO	Listening on 127.0.0.1:50680
+1607311204060	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofilekJbcAQ"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607311210011	Marionette	INFO	Listening on port 50688
+1607311210393	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 32556, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607311304594	Marionette	INFO	Stopped listening on port 50688
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607311308991	geckodriver	INFO	Listening on 127.0.0.1:50776
+1607311312037	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofilet73f7U"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607311319934	Marionette	INFO	Listening on port 50784
+1607311320489	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 13188, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607311620769	Marionette	INFO	Stopped listening on port 50784
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607311623810	geckodriver	INFO	Listening on 127.0.0.1:50911
+1607311626879	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofiler96BP8"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607311632846	Marionette	INFO	Listening on port 50919
+1607311633166	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 22056, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607311698346	Marionette	INFO	Stopped listening on port 50919
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607311700665	geckodriver	INFO	Listening on 127.0.0.1:51000
+1607311703734	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofiledPER6g"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607311709379	Marionette	INFO	Listening on port 51009
+1607311709533	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 31540, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607311752869	Marionette	INFO	Stopped listening on port 51009
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607311754824	geckodriver	INFO	Listening on 127.0.0.1:51090
+1607311757886	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofilemgWMEH"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607311763519	Marionette	INFO	Listening on port 51099
+1607311763674	Marionette	WARN	TLS certificate errors will be ignored for this session
+Handler function _httpStopRequest threw an exception: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsITraceableChannel.setNewListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _setupResponseListener :: line 1086"  data: no]
+Stack: _setupResponseListener@resource://devtools/server/actors/network-monitor/network-observer.js:1086:38
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:912:12
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:409:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1086, column: 0
+console.error: ({})
+console.error: (new TypeError("can't access property \"treeChildren\", parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: can't access property "treeChildren", parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+console.error: (new TypeError("can't access property \"treeChildren\", parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: can't access property "treeChildren", parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+console.error: (new TypeError("can't access property \"on\", nodeFront.walkerFront is null", "resource://devtools/client/inspector/markup/markup.js", 885))
+TypeError: can't access property "on", nodeFront.walkerFront is null: _onNewSelection@resource://devtools/client/inspector/markup/markup.js:885:7
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+setNodeFront@resource://devtools/client/framework/selection.js:161:10
+onDetached@resource://devtools/client/inspector/inspector.js:1641:20
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+console.error: (new Error("Can not send request 'getAllSelectors' because front 'domnode' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 28))
+Error: Can not send request 'getAllSelectors' because front 'domnode' is already destroyed.: generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:28:15
+updateSelectionCssSelectors@resource://devtools/client/inspector/inspector.js:1455:32
+onNewSelection@resource://devtools/client/inspector/inspector.js:1526:10
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+setNodeFront@resource://devtools/client/framework/selection.js:161:10
+onDetached@resource://devtools/client/inspector/inspector.js:1641:20
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+console.error: (new TypeError("can't access property \"treeChildren\", parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: can't access property "treeChildren", parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+console.error: (new TypeError("can't access property \"treeChildren\", parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: can't access property "treeChildren", parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+console.error: (new TypeError("can't access property \"treeChildren\", parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: can't access property "treeChildren", parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+console.error: (new TypeError("can't access property \"treeChildren\", parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: can't access property "treeChildren", parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:405:10
+
+[Parent 29880, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607311892239	Marionette	INFO	Stopped listening on port 51099
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607311899724	geckodriver	INFO	Listening on 127.0.0.1:51193
+1607311902796	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofileVFTLOL"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607311908894	Marionette	INFO	Listening on port 51203
+1607311909081	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 24020, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607312014009	Marionette	INFO	Stopped listening on port 51203
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607312016660	geckodriver	INFO	Listening on 127.0.0.1:51292
+1607312019725	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofileqI6m4S"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607312025730	Marionette	INFO	Listening on port 51301
+1607312026012	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+[Parent 30172, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607312255522	Marionette	INFO	Stopped listening on port 51301
+1607312259500	geckodriver	INFO	Listening on 127.0.0.1:51407
+1607312262568	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofilevfarBb"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607312268287	Marionette	INFO	Listening on port 51415
+1607312268388	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 28472, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607312460837	Marionette	INFO	Stopped listening on port 51415
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607312579848	geckodriver	INFO	Listening on 127.0.0.1:51550
+1607312582923	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofileNyrrvp"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607312588344	Marionette	INFO	Listening on port 51558
+1607312588702	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 32208, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607313062968	Marionette	INFO	Stopped listening on port 51558
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607313118735	geckodriver	INFO	Listening on 127.0.0.1:51700
+1607313121821	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofilejAXEQB"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607313127449	Marionette	INFO	Listening on port 51708
+1607313127608	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 21652, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607313354416	Marionette	INFO	Stopped listening on port 51708
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607313426590	geckodriver	INFO	Listening on 127.0.0.1:49993
+1607313429680	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofilehKkRL1"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607313435803	Marionette	INFO	Listening on port 50001
+1607313435985	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iUYq4/yM/l/es_LA/47nMrWlvotXmzBazD27sKrl46_xXrmm34uhiIubAHRyd3elHnROY0MhSkmN_1ZborgvgMbcuXnEL4AZE-95tJQCDI9AtM0YCNPq-Bsnx-41pjoE5myO5ctx-VF0nk8o2DUeYTFdUszNCTMu_LpWkyfSPVjy2NKqLRthrU3GQV0FcnK3sQWLSZ9v1DtuuCvcKVmxaIDEFl9hZ946i3E8RmfQHDnN7MwZs1WBsHfLyn4NLdfHTYLbRVqaPCYril1UvX0DN0dYY_nWnX_b7kBl2PERTMIMMd9SW2IPivRz9U.js?_nc_x=U-0yNKru5s9, line 97: cancelled: operation is cancelled
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iUYq4/yM/l/es_LA/47nMrWlvotXmzBazD27sKrl46_xXrmm34uhiIubAHRyd3elHnROY0MhSkmN_1ZborgvgMbcuXnEL4AZE-95tJQCDI9AtM0YCNPq-Bsnx-41pjoE5myO5ctx-VF0nk8o2DUeYTFdUszNCTMu_LpWkyfSPVjy2NKqLRthrU3GQV0FcnK3sQWLSZ9v1DtuuCvcKVmxaIDEFl9hZ946i3E8RmfQHDnN7MwZs1WBsHfLyn4NLdfHTYLbRVqaPCYril1UvX0DN0dYY_nWnX_b7kBl2PERTMIMMd9SW2IPivRz9U.js?_nc_x=U-0yNKru5s9, line 97: cancelled: operation is cancelled
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3iUYq4/yM/l/es_LA/47nMrWlvotXmzBazD27sKrl46_xXrmm34uhiIubAHRyd3elHnROY0MhSkmN_1ZborgvgMbcuXnEL4AZE-95tJQCDI9AtM0YCNPq-Bsnx-41pjoE5myO5ctx-VF0nk8o2DUeYTFdUszNCTMu_LpWkyfSPVjy2NKqLRthrU3GQV0FcnK3sQWLSZ9v1DtuuCvcKVmxaIDEFl9hZ946i3E8RmfQHDnN7MwZs1WBsHfLyn4NLdfHTYLbRVqaPCYril1UvX0DN0dYY_nWnX_b7kBl2PERTMIMMd9SW2IPivRz9U.js?_nc_x=U-0yNKru5s9, line 95: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[Child 25764, MediaDecoderStateMachine #1] WARNING: Decoder=22732943000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+[Parent 2884, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607313557814	Marionette	INFO	Stopped listening on port 50001
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+fId"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607313552370	Marionette	INFO	Listening on port 50107
+1607313552567	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 28008, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607313590778	Marionette	INFO	Stopped listening on port 50107
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607313640045	geckodriver	INFO	Listening on 127.0.0.1:50188
+1607313643116	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofilejWGshN"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607313648773	Marionette	INFO	Listening on port 50198
+1607313648936	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0005,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0005,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+[Pare[Parent 21264, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607313921149	Marionette	INFO	Stopped listening on port 50305
+!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ev7Irso"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607313799166	Marionette	INFO	Listening on port 50396
+1607313799708	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 16608, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607313918471	Marionette	INFO	Stopped listening on port 50396
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+XW"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607313828907	Marionette	INFO	Listening on port 50497
+1607313829362	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 1476, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607313920003	Marionette	INFO	Stopped listening on port 50497
+1607314103779	geckodriver	INFO	Listening on 127.0.0.1:50715
+1607314106838	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofileL7QV2s"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607314112516	Marionette	INFO	Listening on port 50725
+1607314112635	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+Marionette threw an error: NotFoundError: WindowGlobalParent.getActor: No such JSWindowActor 'MarionetteCommands'
+getMarionetteCommandsActorProxy/get/<@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:330:69
+GeckoDriver.prototype.deleteSession@chrome://marionette/content/driver.js:3034:17
+onClosed@chrome://marionette/content/server.js:196:17
+close@chrome://marionette/content/transport.js:225:18
+onInputStreamReady@chrome://marionette/content/transport.js:379:14
+
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteCommands'
+[Parent 25560, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607314399113	Marionette	INFO	Stopped listening on port 50725
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+GeckoDriver.prototype.deleteSession@chrome://marionette/content/driver.js:3034:17
+onClosed@chrome://marionette/content/server.js:196:17
+close@chrome://marionette/content/transport.js:225:18
+onInputStreamReady@chrome://marionette/content/transport.js:379:14
+
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteCommands'
+[Parent 29672, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607314375962	Marionette	INFO	Stopped listening on port 50837
+0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+Marionette threw an error: TypeError: can't access property "focus", this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.navigateTo@chrome://marionette/content/driver.js:1[Parent 14216, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607314409933	Marionette	INFO	Stopped listening on port 51004
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607315043425	geckodriver	INFO	Listening on 127.0.0.1:51731
+1607315046490	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofileftSJXp"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607315052106	Marionette	INFO	Listening on port 51741
+160731607315054476	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox 1607315063272	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[Parent 30548, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607315245869	Marionette	INFO	Stopped listening on port 51741
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607315061850	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 21836, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607315219348	Marionette	INFO	Stopped listening on port 51797
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ort 51853
+1607315069169	Marionette	WARN	TLS certificate errors will be ignored for this session
+Marionette threw an error: TypeError: can't access property "focus", this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.navigateTo@chrome://marionette/content/driver.js:1207:3
+
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+[Parent 28516, G[Parent 26592, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607315206797	Marionette	INFO	Stopped listening on port 51914
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+on
+[Parent 20128, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607315202999	Marionette	INFO	Stopped listening on port 51966
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Error: PWebGL::Msg_Initialize Processing console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607315104595	Marionette	INFO	Listening on port 52118
+1607315104885	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 27768, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607315197485	Marionette	INFO	Stopped listening on port 52118
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+.php/v3i2_p4/yt/l/es_ES/pYDPyeLxpDO.js?_nc_x=Ij3Wp8lg5Kz, line 18: Failed to create WebGL context: WebGL actor Initialize failed
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchSyncMessage] Error: PWebGL::Msg_Initialize Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i3Fo4/yR/l/es_LA/SeKb9CGQsE15fCj9iocHTklqMDQKjHNh3h9vCafl6btHmauk8HdHd3QyD97eZ7Z_I7IPhY1WmfOFcgUcX0wr3VHAzp8XQOf68e2E8RmfQHDnN7MwZs1WBsHfLTPbWyh8YquGdK-jUKWdSpk1QfWf70JhsBxuX-9BgNkMOyn4NLdfHTYLq1_5o8j8cZ78yus4XqsPLCudpldZR9vGdM_iT1o2531BFuAMi4PQuNrZfoOF-5UElS2PERTMIMMd9hKwr3l47Ec7GgNSKsoytMa7bkA3crI_LtI6DG4Nyjj9kbjjzWGIofep2In7UQe1WmGSW2IPivRz9U.js?_nc_x=U-0yNKru5s9, line 928: Failed to create WebGL context: WebGL actor Initialize failed
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchSyncMessage] Error: PWebGL::Msg_Initialize Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i3Fo4/yR/l/es_LA/SeKb9CGQsE15fCj9iocHTklqMDQKjHNh3h9vCafl6btHmauk8HdHd3QyD97eZ7Z_I7IPhY1WmfOFcgUcX0wr3VHAzp8XQOf68e2E8RmfQHDnN7MwZs1WBsHfLTPbWyh8YquGdK-jUKWdSpk1QfWf70JhsBxuX-9BgNkMOyn4NLdfHTYLq1_5o8j8cZ78yus4XqsPLCudpldZR9vGdM_iT1o2531BFuAMi4PQuNrZfoOF-5UElS2PERTMIMMd9hKwr3l47Ec7GgNSKsoytMa7bkA3crI_LtI6DG4Nyjj9kbjjzWGIofep2In7UQe1WmGSW2IPivRz9U.js?_nc_x=U-0yNKru5s9, line 928: Failed to create WebGL context: WebGL actor Initialize failed
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchSyncMessage] Error: PWebGL::Msg_Initialize Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3idGl4/yB/l/es_LA/zlNzXsHcVkSSeKb9CGQsE15fCj9iocHTkpr84TtF3N1wlqMDQKjHNh3h9vCafl6btHmauk8HdHd3QyD97eZ7Z_I7liif-OxDMksIPhY1WmfOFcgUcX0wr3VHAzp8XQOf68e2E8RmfQHDnN7TPbWyh8YquGdK-jUKWdSpk1QfWf70JhsBxuX-9BgNkMOq1_5o8j8cZ7udpldZR9vGdM_iT1o2531BFuAMi4PQuNr2PERTMIMMd987wjqZakoaXhKwr3l47Ec7mnGuLJCM6s0GgNSKsoytMa7bkA3crI_LtI6DG4Nyjj9kbjjzWGIofep2In7UQe1WmG.js?_nc_x=U-0yNKru5s9, line 948: Failed to create WebGL context: WebGL actor Initialize failed
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchSyncMessage] Error: PWebGL::Msg_Initialize Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3idGl4/yB/l/es_LA/zlNzXsHcVkSSeKb9CGQsE15fCj9iocHTkpr84TtF3N1wlqMDQKjHNh3h9vCafl6btHmauk8HdHd3QyD97eZ7Z_I7liif-OxDMksIPhY1WmfOFcgUcX0wr3VHAzp8XQOf68e2E8RmfQHDnN7TPbWyh8YquGdK-jUKWdSpk1QfWf70JhsBxuX-9BgNkMOq1_5o8j8cZ7udpldZR9vGdM_iT1o2531BFuAMi4PQuNr2PERTMIMMd987wjqZakoaXhKwr3l47Ec7mnGuLJCM6s0GgNSKsoytMa7bkA3crI_LtI6DG4Nyjj9kbjjzWGIofep2In7UQe1WmG.js?_nc_x=U-0yNKru5s9, line 948: Failed to create WebGL context: WebGL actor Initialize failed
+Marionette threw an error: TypeError: can't access property "focus", this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.navigateTo@chrome://marionette/content/driver.js:1207:3
+
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+[Parent 32544, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607315189749	Marionette	INFO	Stopped listening on port 52019
+1607315346254	geckodriver	INFO	Listening on 127.0.0.1:52490
+1607315349321	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofile3GuCHD"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607315355728	Marionette	INFO	Listening on port 52498
+1607315356247	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 33312, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607316213671	Marionette	INFO	Stopped listening on port 52498
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+mV"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607315368772	Marionette	INFO	Listening on port 52568
+1607315369318	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 16060, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607316164950	Marionette	INFO	Stopped listening on port 52568
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Pn"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607315930602	Marionette	INFO	Listening on port 52977
+1607315931027	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 19120, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607317461633	Marionette	INFO	Stopped listening on port 52977
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+uz"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607316098343	Marionette	INFO	Listening on port 53151
+1607316098461	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 24740, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607317460848	Marionette	INFO	Stopped listening on port 53151
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Hj"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607316179905	Marionette	INFO	Listening on port 53273
+1607316180401	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 33624, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607317460125	Marionette	INFO	Stopped listening on port 53273
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+AH"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607316227244	Marionette	INFO	Listening on port 53383
+1607316227438	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: can't access property "removeEventListener", this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: can't access property "removeEventListener", this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: can't access property "removeEventListener", this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: can't access property "removeEventListener", this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 225: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: can't access property "removeEventListener", this.contentWJavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: can't access property "removeEventListener", this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: can't access property "removeEventListener", this.contentWindow is null
+[Parent 30652, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607318051461	Marionette	INFO	Stopped listening on port 54392
+19	Marionette	INFO	Listening on port 54555
+1607317640549	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 30724, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607317703046	Marionette	INFO	Stopped listening on port 54555
+e" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofileTeGW6B"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607317691444	Marionette	INFO	Listening on port 54655
+1607317691878	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: can't access property "removeEventListener", this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: can't access property "removeEventListener", this.contentWindow is null
+[Parent 16624, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607318050491	Marionette	INFO	Stopped listening on port 54655
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: can't access property "removeEventListener", this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: can't access property "removeEventListener", this.contentWindow is null
+[Parent 17100, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607318049545	Marionette	INFO	Stopped listening on port 54749
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+w profile?" (new Error("", "(unknown module)"))
+1607317783725	Marionette	INFO	Listening on port 54861
+1607317784026	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: can't access property "removeEventListener", this.contentWindow is null
+[Parent 4552, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607318047808	Marionette	INFO	Stopped listening on port 54861

@@ -1,0 +1,26 @@
+perfiles
+
+dany.segura.5036
+gabriela.gonzalezfuentes.35
+jaikerlyssaidelys.torresmendoza
+leorianny.gil
+rhandy.steveromerotorres
+clara.garzon.9674
+vane.guevara.77964
+
+
+
+
+variables
+cantidad de amigos
+detalles	
+
+
+
+URL
+https://linuxhint.com/using_selenium_firefox_driver/
+https://pythonforundergradengineers.com/deploy-serverless-web-app-aws-lambda-zappa.html
+
+
+## OUR SERVICE
+https://bvqgr8pfv8.execute-api.us-east-1.amazonaws.com/unir/welcome
