@@ -53,18 +53,22 @@ def getDataProfile(facebook_path):
 # recorrer todas los perfiles obtenidos
 @app.route('/readProfiles')
 def readProfiles():
-    files = os.listdir('data/search-profiles/')
-    content = ''
-
+    files = os.listdir('data/info-profiles/')
+    content = []
+    
+    ## recorrer todos los archivos
     for file in files:
-        c_file = codecs.open('data/search-profiles/'+file,'r',"utf-8")
-        content = c_file.read()
+        c_file = codecs.open('data/info-profiles/'+file,'r',"utf-8")
+        txt_file = c_file.read().replace("'",'"')
+        content.append(json.loads(txt_file))       
+        
+    # return jsonify({
+    #     "status":"success",
+    #     "data": content,
+    #     "count_files": len(files)
+    # })
+    return jsonify(content)
 
-    return content
-
-
-# # Leer perfiles, para convertirlos a un csv o json consolidado
-# @app.route('/readProfiles')
 
 # Inicializarlo
 if __name__ == '__main__':

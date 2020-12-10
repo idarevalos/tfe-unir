@@ -3,6 +3,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 import time
 import codecs
 from bs4 import BeautifulSoup
+import json
 
 class seleniumFacebook():
 
@@ -147,7 +148,7 @@ class seleniumFacebook():
                         ## recorriendo todos los elementos
                         it = str(item.get_text())
                         if at['target'] in it:
-                            profile_information[at['name_target']] = it
+                            profile_information[at['name_target']] = it.replace('"','').replace('/','')
                 else:
                     item = soup.select(at['selector'])
                     profile_information[at['name_target']] = self.processElementHtml(item)
@@ -177,19 +178,9 @@ class seleniumFacebook():
 
             ## END 
             
-
-            # profile_information['estudy'] = self.processElementHtml(navigator.find_elements_by_xpath('/html/body/div[1]/div/div[1]/div[1]/div[3]/div/div/div[1]/div[1]/div/div/div[4]/div/div/div/div[1]/div/div/div/div[2]/div/div/div/div[2]/div/div/div[2]/div'))
-            # profile_information['live'] = self.processElementHtml(navigator.find_elements_by_xpath('/html/body/div[1]/div/div[1]/div[1]/div[3]/div/div/div[1]/div[1]/div/div/div[4]/div/div/div/div[1]/div/div/div/div[2]/div/div/div/div[3]/div/div/div[2]/div'))
-            # profile_information['from'] = self.processElementHtml(navigator.find_elements_by_xpath('/html/body/div[1]/div/div[1]/div[1]/div[3]/div/div/div[1]/div[1]/div/div/div[4]/div/div/div/div[1]/div/div/div/div[2]/div/div/div/div[4]/div/div/div[2]/div'))
-            # profile_information['marital_status'] = self.processElementHtml(navigator.find_elements_by_xpath('/html/body/div[1]/div/div[1]/div[1]/div[3]/div/div/div[1]/div[1]/div/div/div[4]/div/div/div/div[1]/div/div/div/div[2]/div/div/div/div[5]/div/div/div[2]'))
-            # profile_information['phone'] = self.processElementHtml(navigator.find_elements_by_xpath('/html/body/div[1]/div/div[1]/div[1]/div[3]/div/div/div[1]/div[1]/div/div/div[4]/div/div/div/div[1]/div/div/div/div[2]/div/div/div/div[6]/div/div/div[2]/div[1]'))
-
-            result_obj = {
-                facebook_path: profile_information
-            }
-
+            
             if save_data:
-                self.saveResult(result_obj, 'info-profiles', self.decodePathFacebook(k['link']))
+                self.saveResult(profile_information, 'info-profiles', self.decodePathFacebook(k['link']))
             time.sleep(0.5)
         
         time.sleep(1)
@@ -201,7 +192,7 @@ class seleniumFacebook():
         """
         txt_r = ''
         for element in ele:
-            txt_r += str(element.get_text())+' '
+            txt_r += str(element.get_text().replace('"','').replace("'",'').replace('/',''))+' '
         
         return txt_r
 

@@ -5732,3 +5732,294 @@ w profile?" (new Error("", "(unknown module)"))
 JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: can't access property "removeEventListener", this.contentWindow is null
 [Parent 4552, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
 1607318047808	Marionette	INFO	Stopped listening on port 54861
+1607470971698	geckodriver	INFO	Listening on 127.0.0.1:59655
+1607470974718	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofilefoeWRV"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607470980697	Marionette	INFO	Listening on port 59663
+1607470981020	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"ContentParent: id=25970ad2000","state":{"remoteTypePrefix":"web"},"filename":"/builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp","lineNumber":3341,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:162","chrome://global/content/elements/browser-custom-element.js:get loadContext:353","chrome://global/content/elements/browser-custom-element.js:construct:1012","chrome://global/content/elements/browser-custom-element.js:connectedCallback:291","chrome://browser/content/tabbrowser.js:_setupInitialBrowserAndTab:381","chrome://browser/content/tabbrowser.js:init:42","chrome://browser/content/browser.js:onDOMContentLoaded:1793"]}] Barrier: profile-before-change
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2312: TypeError: subject.QueryInterface is not a function
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xAD0001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1607471864949	Marionette	INFO	Stopped listening on port 59663
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ontentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: can't access property "removeEventListener", this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: can't access property "removeEventListener", this.contentWindow is null
+1607471842767	Marionette	INFO	Stopped listening on port 59797
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+efox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofile950I22"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607471844083	Marionette	INFO	Listening on port 60083
+1607471844577	Marionette	WARN	TLS certificate errors will be ignored for this session
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"ContentParent: id=150526d4800","state":{"remoteTypePrefix":"web"},"filename":"/builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp","lineNumber":3341,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:162","chrome://global/content/elements/browser-custom-element.js:get loadContext:353","chrome://global/content/elements/browser-custom-element.js:construct:1012","chrome://global/content/elements/browser-custom-element.js:connectedCallback:291","chrome://browser/content/tabbrowser.js:_setupInitialBrowserAndTab:381","chrome://browser/content/tabbrowser.js:init:42","chrome://browser/content/browser.js:onDOMContentLoaded:1793"]}] Barrier: profile-before-change
+Marionette threw an error: TypeError: can't access property "currentWindowGlobal", browsingContextFn() is null
+getMarionetteCommandsActorProxy/get/<@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:330:29
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xAD0001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2312: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1607472160770	Marionette	INFO	Stopped listening on port 60083
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607472265295	geckodriver	INFO	Listening on 127.0.0.1:60254
+1607472268332	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofileVZbRNG"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607472274398	Marionette	INFO	Listening on port 60262
+1607472274654	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 7608, MediaDecoderStateMachine #1] WARNING: Decoder=256c8586400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: can't access property "removeEventListener", this.contentWindow is null
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: can't access property "removeEventListener", this.contentWindow is null
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1607472799693	Marionette	INFO	Stopped listening on port 60262
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1607472795425	Marionette	INFO	Stopped listening on port 60382
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+vr"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607472800470	Marionette	INFO	Listening on port 60604
+1607472800550	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: can't access property "removeEventListener", this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: can't access property "removeEventListener", this.contentWindow is null
+[Child 28272, MediaDecoderStateMachine #1] WARNING: Decoder=1660020c400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ifDN4/y1/l/es_LA/E8RmfQHDnN7MwZs1WBsHfLUDW0oVTmBTsVmRXJD6Q8j5Lmsbm57DD84veqc3ozuZ-3IZaRQpToq3_uBTeTibxLHJ29X6iBd42nZHKPvjSRlZo_mknbHPc_dQgAZE-95tJQCD8FgVcHbAdGkrfd8mzaFLECB2l0IJXcTuCQlEMzoERnjyXDhm9nxLHFX12UnSx3ls9buhiIubAHRydDst9AugsEiVKHpcvjL3kNnIcbh2fb8jM4z6GnIx8xjAYuu3QHFbxs1y.js?_nc_x=U-0yNKru5s9, line 120: cancelled: operation is cancelled
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3ifDN4/y1/l/es_LA/E8RmfQHDnN7MwZs1WBsHfLUDW0oVTmBTsVmRXJD6Q8j5Lmsbm57DD84veqc3ozuZ-3IZaRQpToq3_uBTeTibxLHJ29X6iBd42nZHKPvjSRlZo_mknbHPc_dQgAZE-95tJQCD8FgVcHbAdGkrfd8mzaFLECB2l0IJXcTuCQlEMzoERnjyXDhm9nxLHFX12UnSx3ls9buhiIubAHRydDst9AugsEiVKHpcvjL3kNnIcbh2fb8jM4z6GnIx8xjAYuu3QHFbxs1y.js?_nc_x=U-0yNKru5s9, line 118: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 298: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iAbX4/yb/l/es_LA/MTpq0ocDJqajNrHqJMXbMv89jXGDUoxf8XCiwZVDLWEQ9QV-NMrSkOUSol7qrbS0PH73623BAHeZXnNfsKNKrSufQyFN1_jHdl1snqXaE0-bswUDSnOYBLVey8eAvvcbEYRb9FVoImFdrB13dpMwxjxieRh4LpMhZ23wCCKZsrlDfLADvreSgX9PtAM2roBnnwN5_uGOvlMHjAxQGI4e5Up6x6k9Q0Y2ABdE0WyibshAuPg4GH6lPDXumRY57d5jKRLlAxkYGRkRpx7p9tP6vwT3VfoqMyNCtDcLjzoXmn5JeGv-F7vPHl4gq9TigmUfrFbJSwvuqD.js?_nc_x=U-0yNKru5s9, line 1284: Script terminated by timeout at:
+nj@https://static.xx.fbcdn.net/rsrc.php/v3iAbX4/yb/l/es_LA/MTpq0ocDJqajNrHqJMXbMv89jXGDUoxf8XCiwZVDLWEQ9QV-NMrSkOUSol7qrbS0PH73623BAHeZXnNfsKNKrSufQyFN1_jHdl1snqXaE0JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: can't access property "removeEventListener", this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: can't access property "removeEventListener", this.contentWindow is null
+1607473839048	Marionette	INFO	Stopped listening on port 60815
+AvvcbEYRb9FVoImFdrB13dpMwxjxieRh4LpMhZ23wCCKZsrlDfLADvreSgX9PtAM2roBnnwN5_uGOvlMHjAxQGI4e5Up6x6k9Q0Y2ABdE0WyibshAuPg4GH6lPDXumRY57d5jKRLlAxkYGRkRpx7p9tP6vwT3VfoqMyNCtDcLjzoXmn5JeGv-F7vPHl4gq9TigmUfrFbJSwvuqD.js?_nc_x=U-0yNKru5s9:1284:107219
+O@https://static.xx.fbcdn.net/rsrc.php/v3/yS/r/pyuyD8WceEC.js?_nc_x=U-0yNKru5s9:204:2747
+N@https://static.xx.fbcdn.net/rsrc.php/v3/yS/r/pyuyD8WceEC.js?_nc_x=U-0yNKru5s9:204:2388
+c.port1.onmessage@https://static.xx.fbcdn.net/rsrc.php/v3/yS/r/pyuyD8WceEC.js?_nc_x=U-0yNKru5s9:204:3451
+
+Marionette threw an error: TypeError: can't access property "focus", this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.navigateTo@chrome://marionette/content/driver.js:1207:3
+
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1607473226280	Marionette	INFO	Stopped listening on port 60604
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607511039413	geckodriver	INFO	Listening on 127.0.0.1:64362
+1607511042454	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofileF6d5pX"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607511044425	Marionette	INFO	Listening on port 64371
+1607511044473	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607511058619	Marionette	INFO	Stopped listening on port 64371
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607514039521	geckodriver	INFO	Listening on 127.0.0.1:65321
+1607514042557	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofileXpEZsY"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607514044696	Marionette	INFO	Listening on port 65330
+1607514045186	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607514183207	Marionette	INFO	Stopped listening on port 65330
+7514164014	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofile3VacwV"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607514166008	Marionette	INFO	Listening on port 65468
+1607514166049	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607514203000	Marionette	INFO	Stopped listening on port 65468
+1607514204851	geckodriver	INFO	Listening on 127.0.0.1:49164
+1607514207894	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofileL2rajR"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607514209833	Marionette	INFO	Listening on port 49172
+1607514209916	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607514742407	Marionette	INFO	Stopped listening on port 49172
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607514930596	geckodriver	INFO	Listening on 127.0.0.1:49533
+1607514933621	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofileSvqYNv"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607514935596	Marionette	INFO	Listening on port 49541
+1607514935646	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607514983992	Marionette	INFO	Stopped listening on port 49541
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607515170362	geckodriver	INFO	Listening on 127.0.0.1:49762
+1607515173398	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofile6jEcgz"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607515175397	Marionette	INFO	Listening on port 49770
+1607515175432	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607515241452	Marionette	INFO	Stopped listening on port 49770
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607515243854	geckodriver	INFO	Listening on 127.0.0.1:49848
+1607515246893	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofileXSW5Ma"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607515248882	Marionette	INFO	Listening on port 49856
+1607515248926	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607515348983	Marionette	INFO	Stopped listening on port 49856
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607515367608	geckodriver	INFO	Listening on 127.0.0.1:49952
+1607515370657	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofileOojpw1"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607515372599	Marionette	INFO	Listening on port 49960
+1607515372682	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: can't access property "requestIdleCallback", this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: can't access property "removeEventListener", this.contentWindow is null
+1607516028625	Marionette	INFO	Stopped listening on port 49960
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607515835739	Marionette	INFO	Listening on port 50157
+1607515835914	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: can't access property "requestIdleCallback", this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: can't access property "removeEventListener", this.contentWindow is null
+1607516029624	Marionette	INFO	Stopped listening on port 50157
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607516063356	geckodriver	INFO	Listening on 127.0.0.1:50341
+1607516066400	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofile98Zelj"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607516068495	Marionette	INFO	Listening on port 50349
+1607516068533	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607516069832	Marionette	INFO	Stopped listening on port 50349
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607516306639	geckodriver	INFO	Listening on 127.0.0.1:50488
+1607516309676	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofilezOYncl"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607516311637	Marionette	INFO	Listening on port 50496
+1607516311706	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607516359187	Marionette	INFO	Stopped listening on port 50496
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+efox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofileTsPSsS"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607516360592	Marionette	INFO	Listening on port 50585
+1607516360972	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: can't access property "removeEventListener", this.contentWindow is null
+1607516551536	Marionette	INFO	Stopped listening on port 50585
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607516672866	geckodriver	INFO	Listening on 127.0.0.1:50765
+1607516675882	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofile2GKLAH"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607516677858	Marionette	INFO	Listening on port 50774
+1607516677917	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1607516776147	Marionette	INFO	Stopped listening on port 50774
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+efox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofilesN79Zy"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607516733116	Marionette	INFO	Listening on port 50862
+1607516733317	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607516733372	Marionette	ERROR	[21] No reply from Marionette:Register
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 376))
+1607516733551	Marionette	INFO	Stopped listening on port 50862
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1607516738986	geckodriver	INFO	Listening on 127.0.0.1:50890
+1607516742022	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofileypRqZn"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607516744049	Marionette	INFO	Listening on port 50898
+1607516744163	Marionette	WARN	TLS certificate errors will be ignored for this session
+1607516919148	Marionette	INFO	Stopped listening on port 50898
+7516911218	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\AIRCO\\AppData\\Local\\Temp\\rust_mozprofileAXYQxf"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1607516913088	Marionette	INFO	Listening on port 51024
+1607516913253	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: can't access property "removeEventListener", this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 225: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: can't access property "removeEventListener", this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 452: TypeError: can't access property "requestIdleCallback", this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: can't access property "removeEventListener", this.contentWJavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: can't access property "removeEventListener", this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: can't access property "removeEventListener", this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: can't access property "removeEventListener", this.contentWindow is null
+1607521251103	Marionette	INFO	Stopped listening on port 51121
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: can't access property "removeEventListener", this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: can't access property "removeEventListener", this.contentWindow is null
+1607521245806	Marionette	INFO	Stopped listening on port 51024
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rce://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: can't access property "removeEventListener", this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 568: TypeError: can't access property "removeEventListener", this.contentWindow is null
+1607521252151	Marionette	INFO	Stopped listening on port 51231
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
