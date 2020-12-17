@@ -23,13 +23,13 @@
         </div>
       </header>
 
-      <main role="main" class="inner cover">
+      <section role="main" class="inner cover" id="div_query">
         <h1 class="cover-heading">Pruebe su perfil en Facebook</h1>
         <p class="lead">Identifique si su perfil es de edad no válida para Facebook. </p>
         
         <div class="form-group">
             <label for="url_facebook">Ingrese la URL de su perfil en Facebook</label>
-            <input class="form-control form-control-lg" id="input_url" type="text" placeholder="https://www.facebook.com/idarevalo1/">
+            <input class="form-control form-control-lg" id="input_url" value="https://www.facebook.com/idarevalo1" type="text" placeholder="https://www.facebook.com/idarevalo1/">
             <small class="form-text text-muted">Puede encontrar su perfil en el ícono de su perfil.</small>
 
         </div>
@@ -40,7 +40,24 @@
             </svg>
         </button>
 
-      </main>
+      </section>
+
+      <section role="main" class="inner cover" id="div_result" style="display: none;">
+        <h1 class="cover-heading">Resultado</h1>
+        <p class="lead" id="text_result"></p>
+        <!-- 
+        <div class="form-group">
+            <label for="url_facebook">Ingrese la URL de su perfil en Facebook</label>
+            <input class="form-control form-control-lg" id="input_url" value="https://www.facebook.com/idarevalo1" type="text" placeholder="https://www.facebook.com/idarevalo1/">
+            <small class="form-text text-muted">Puede encontrar su perfil en el ícono de su perfil.</small>
+
+        </div>
+         -->
+        <button type="button" class="btn btn-light" onclick="tryAgain()" > 
+            Intentar de nuevo
+        </button>
+
+      </section>
 
       <footer class="mastfoot mt-auto">
         <div class="inner">

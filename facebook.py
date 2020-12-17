@@ -19,7 +19,7 @@ class seleniumFacebook():
     
     def start(self, facebook_path, limit):
         # Seleccionar navegador
-        navigator = webdriver.Firefox(executable_path=r'C:\xampp\htdocs\idarevalos\unir\tfe-unir\api\assets\webdriver\geckodriver.exe')
+        navigator = webdriver.Firefox(executable_path=r'https://idarevalos.s3.amazonaws.com/tfe-unir/webdrivers/geckodriver.exe') #C:\xampp\htdocs\idarevalos\unir\tfe-unir\api\assets\webdriver\geckodriver.exe
         navigator.get("http://www.facebook.com")
         # Step 3) Search & Enter the Email or Phone field & Enter Password
         username = navigator.find_element_by_id("email")
