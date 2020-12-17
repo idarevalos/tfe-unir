@@ -1,10 +1,10 @@
 {
-    "unir": {
-        "lambda_description": "idarevalos-unir-lambda",
+    "tfe": {
+        "lambda_description": "idarevalos-tfe-lambda",
         "app_function": "main.app",
         "aws_region": "us-east-1",
         "profile_name": "default",
-        "project_name": "idarevalos-unir",
+        "project_name": "idarevalos-tfe",
         "runtime": "python3.8",
         "s3_bucket": "idarevalos",
         "timeout_seconds": 60,

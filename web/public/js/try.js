@@ -1,3 +1,8 @@
+const url_api = 'http://localhost:8080/',
+m = 'queryProfile/'
+
+
+
 /**
  * Listeners
  */
@@ -11,5 +16,14 @@ $('#btn_search').on('click', function(){
 
     }else
         $(this).html(resources.svg.loading)
-    
+        queryProfile(btoa(i)) // consutar el perfil
 })
+
+/** Consulta perfil */
+function queryProfile(profile){
+    fetch(url_api+m+profile)
+    .then(response => response.json())
+    .then(data => {
+        swal('En proceso',data.description,'info')
+    })
+}

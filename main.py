@@ -1,27 +1,20 @@
 from flask import Flask, jsonify
-import boto3
-from credentials_aws import key, sec_key, region_name
-from botocore.exceptions import ClientError
-import json
+from flask_cors import CORS
+import base64
 
 app = Flask(__name__)
+domains_allowed = ['http://idarevalos.co']
+cors = CORS(app, resources={r"/*": {"origins": domains_allowed}}) # 
 
-# Ruta principal
-@app.route('/home')
-def home():
+
+@app.route('/queryProfile/<profile>')
+def queryProfile(profile):
+    p = base64.b64decode(profile).decode("utf-8", "strict")
+
     return jsonify(
         {
             "status":"OK",
-            "data":'empty'
-        }
-    )
-
-@app.route('/welcome')
-def welcome():
-    return jsonify(
-        {
-            "status":"OK",
-            "data":'success welcome update unir'
+            "description":'Se está procesando información para el perfil de: '+str(p)
         }
     )
 
