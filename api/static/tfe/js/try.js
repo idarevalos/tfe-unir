@@ -48,7 +48,7 @@ function processResponde(data){
     function processText(tx, tag, class_ = '', addText=''){
         let ft = ''
         if (tx) {
-            ft = `<${tag} class="${class_}">${addText} ${tx}</${tag}>`
+            ft = `<${tag} class="${class_}"> <b class="label">${addText}</b> ${tx}</${tag}>`
         }
         return ft
     }
@@ -64,15 +64,15 @@ function processResponde(data){
             <img src="${data['facebook_result']['profile_image']}" class="img-radius" alt="User-Profile-Image">
         </div>
         <hr>
-        <h6 class="f-w-600 m-t-25 m-b-10">${data['facebook_result']['name']}</h6>
+        <h6 class="f-w-600 m-t-25 m-b-10">${data['facebook_result']['name'].replace('Notificaciones','')}</h6>
         ${processText(data['facebook_result']['name_user_sub'],'code')}
         <p class="text-muted m-t-15">De acuerdo a la información publicada su perfil es: <br><span class="badge badge-light">${data['result_prediction']}</span></p>        
         <p class="alert alert-info">La información de su perfil que nos ayudó a identificarlo es:</p>
-        ${processText(data['result_process_data']['number_friends'],'p','','Amigos')}
-        ${processText(data['result_process_data']['followers'],'p','', 'Seguidores')}
-        ${processText(data['facebook_result']['job'],'p','','Dice que actualmente trabaja en: ')}
-        ${processText(data['facebook_result']['live'],'p','')}
-        ${processText(data['facebook_result']['study_finish'],'p','')}
+        ${processText(data['result_process_data']['number_friends'],'p','txt_item','Amigos')}
+        ${processText(data['result_process_data']['followers'],'p','txt_item', 'Seguidores')}
+        ${processText(data['facebook_result']['job'],'p','txt_item','Dice que actualmente trabaja en: ')}
+        ${processText(data['facebook_result']['live'],'p','txt_item')}
+        ${processText(data['facebook_result']['study_finish'],'p','txt_item')}
         
         <div class="row justify-content-center user-social-link">
             <div class="col-auto"><a href="https://facebook.com/${data['facebook_path']}" target="_blank"> Visitar Perfil</a></div>
