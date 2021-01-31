@@ -20,4 +20,16 @@
     .bd-placeholder-img-lg {
       font-size: 3.5rem;
     }
+
+    
+  }
+
+  @media (max-width: 600px){
+    h1{
+      font-size: 2.0rem !important;
+    }
+
+    .lead{
+      font-size: 1.0rem !important;
+    }
   }

@@ -1,5 +1,5 @@
 # importacion de libreria modulos
-from flask import Flask, jsonify, request
+from flask import Flask, jsonify, request, redirect
 from flask_cors import CORS
 from flask import render_template
 from facebook import seleniumFacebook
@@ -7,115 +7,19 @@ import os
 import json
 import codecs
 
-import pickle
-import numpy as np
-import pandas as pd
-import base64
-import requests 
-
 app = Flask(__name__)
 domains_allowed = ['http://ec2-54-84-79-47.compute-1.amazonaws.com']
 cors = CORS(app, resources={r"/*": {"origins": domains_allowed}}) # 
 
-
-
-'''
-/*
-    PRACTICAS
-*/
-'''
-
-@app.route('/practicas')
-def practicasHome():
-    return render_template('practicas/index.html')
-
-
-# Peticion a servicio
-@app.route('/processPreferences/<preferences>', methods=['GET'])
-def processPreferences(preferences):
-    
-    J = base64.b64decode(preferences).decode("utf-8", "strict")
-    X = pd.DataFrame(data=json.loads(J))
-        
-    result = jsonify(
-        {
-            "status":"OK",
-            "data": valideIAModel(X),
-            'related': getRelated(json.loads(J))
-        }
-    )
-
-    return result
-
-# Validacion de modelo
-def valideIAModel(data):
-    
-    pkl_filename = '/var/www/html/jd/00_model_desition_tree.pkl'
-    # pkl_filename = 'api/00_model_desition_tree.pkl'
-    # Load from file
-    with open(pkl_filename, 'rb') as file:
-        pickle_model = pickle.load(file)
-    
-    Ypredict = pickle_model.predict(data)
-    return processResponcePredict(Ypredict[0])
-
-# Procesar con prediccion
-@app.route('/searchOtherInfo/<predict_data>', methods=['GET'])
-def processResponcePredict(predict_data):
-    URL = 'https://api.ciencuadras.com/api/realestate?realEstateCode='+predict_data
-    r = requests.get(url = URL) 
-
-    return r.json()
-
-
-def getRelated(data):
-    
-    arr_result = {}
-    arr_result['count'] = 0
-    arr_result['result'] = []
-
-    # f = codecs.open('api/PROCESS_DATA.txt', "r", "utf-8")
-    f = codecs.open('/var/www/html/jd/PROCESS_DATA.txt', "r", "utf-8")
-    data_json = json.loads(f.read())
-
-    
-    
-    for e in data_json[0:100]:
-        
-        if e['precio_venta_original'] == data['precio_venta_original'][0]:
-            if e not in arr_result['result']:
-                arr_result['count'] = arr_result['count'] + 1
-                arr_result['result'].append(e)
-        
-        if int(e['antiguedad']) == int(data['antiguedad'][0]):
-            if e not in arr_result['result']:
-                arr_result['count'] = arr_result['count'] + 1
-                arr_result['result'].append(e)
-
-        if int(e['valor_administracion']) == int(data['valor_administracion'][0]):
-            if e not in arr_result['result']:
-                arr_result['count'] = arr_result['count'] + 1
-                arr_result['result'].append(e)
-
-        if int(e['num_depositos']) == int(data['num_depositos'][0]):
-            if e not in arr_result['result']:
-                arr_result['count'] = arr_result['count'] + 1
-                arr_result['result'].append(e)
-
-        if int(e['zona_infantil']) == int(data['zona_infantil'][0]):
-            if e not in arr_result['result']:
-                arr_result['count'] = arr_result['count'] + 1
-                arr_result['result'].append(e)
-
-    return arr_result
-
-
+# BASE = '/var/www/html/jd/'
+BASE = 'api/'
 
 '''
-/*
-TFE - PRACTICAS UNIR
-*/
+# RUTAS DE TEMPLATES
 '''
+@app.route('/')
+def home():
+    return redirect('tfe-idarevalos-train', code=301)
 
 @app.route('/tfe-idarevalos')
 def tfe_Home():
@@ -125,27 +29,14 @@ def tfe_Home():
 def tfe_Train():
     return render_template('tfe/try.html')
 
-# Peticion a servicio
-@app.route('/getdata/<facebook_path>/<limit>', methods=['GET'])
-def getData(facebook_path, limit):
-
-    face = seleniumFacebook()
-    data_facebook = face.start(facebook_path, limit)
-
-    result = jsonify(
-        {
-            "status":"OK",
-            "facebook_path":facebook_path,
-            "facebook_result": data_facebook
-        }
-    )
-
-    return result
-
-# Peticion a servicio
+'''
+# METODOS WEB DE EXTRACCION DE INFORMACION Y VALIDACION CON MODELO
+'''
 @app.route('/getDataProfile/<facebook_path>', methods=['GET'])
 def getDataProfile(facebook_path):
     face = seleniumFacebook()
+    
+    # Extraccion de caracteristicas
     data_facebook = face.getDataProfile(facebook_path)
     process_data = readProfilesProcessRow(data_facebook)
     prediction_data = valideIAModelFacebook(process_data)
@@ -162,54 +53,21 @@ def getDataProfile(facebook_path):
 
     return result
 
-# recorrer todas los perfiles obtenidos
-@app.route('/readProfiles')
-def readProfiles():
-    files = os.listdir('data/info-profiles/')
-    content = []
-    
-    ## recorrer todos los archivos
-    for file in files:
-        c_file = codecs.open('data/info-profiles/'+file,'r',"utf-8")
-        txt_file = c_file.read().replace("'",'"')
-        content.append(readProfilesProcessRow(json.loads(txt_file)))
-
-    return jsonify({
-        "status":"success",
-        "data": content,
-        "count_files": len(files),
-        "saved" : saveResult(str(content).replace("'",''),'final_data','00_json_result_scraping.json')
-    })
-    
-    # return jsonify(content)
-
-## Procesar cada linea para extraer informacion de los perfiles
-@app.route('/readProfilesProcessRow', methods=['POST'])
+# Lectura por filas de los perfiles almacenados en local
+# Para la extraccion de caracteristicas
 def readProfilesProcessRow(row_param = 0):
-
+    
     new_row = {}
+
     ## Asignacion de Row con request cuando no se usa en funcion
     if row_param != 0:
         row = row_param
     else:
         row =  request.json
     
+    # ## Numero de amigos   
+    new_row['number_friends'] = row['number_friends']
 
-    ## Numero de amigos
-    
-    t = row['number_friends'].split(' ')      
-    it = t[0]
-    
-    ## Validando cuando existe texto de nombre de perfil
-    ## daniel
-    if t[0] == 'Daniel':
-        it = t[1]
-
-    if it.isnumeric():
-        new_row['number_friends'] = int(it)
-    else:
-        new_row['number_friends'] = 0
-    
     ## Folowers
     if 'followers' in row:
         f = row['followers'].split(' ')
@@ -226,9 +84,9 @@ def readProfilesProcessRow(row_param = 0):
     
     # joined in
     if 'joined_in' in row:
-        tj = row['joined_in'].split(' ')
-        new_row['joined_in'] = int(tj[5]) ## numero del anio
-        new_row['joined_in_since'] = (2021 - row['joined_in'])
+        new_row['joined_in'] = cleanData('joined', row['joined_in'])
+        new_row['joined_in_since'] = (2021 - cleanData('joined', row['joined_in']))
+
     else:
         new_row['joined_in'] = 0
         new_row['joined_in_since'] = 0
@@ -254,13 +112,13 @@ def readProfilesProcessRow(row_param = 0):
     new_row['name_user_sub'] = 1
     new_row['study_finish'] = 1
 
-    # new_row = str(new_row).replace("'",'"')
-
     ## RETORNO
     return new_row
 
-# Validacion de modelo
 def valideIAModelFacebook(data):
+    
+    ## Import Module
+    import pickle
 
     array_to_prediction = []
     # return array_to_prediction
@@ -275,8 +133,8 @@ def valideIAModelFacebook(data):
     ## CLASES DEFINIDAS
     group = ['Válido','No Válido']
     
-    pkl_filename = '/var/www/html/jd/00_model_kmeans_supervise.pkl'
-    # pkl_filename = 'api/00_model_kmeans_supervise.pkl'
+    # pkl_filename = BASE+'00_model_kmeans_supervise.pkl'
+    pkl_filename = BASE+'00_model_kmeans_supervise.pkl'
     # Load from file
     with open(pkl_filename, 'rb') as file:
         pickle_model = pickle.load(file)
@@ -284,21 +142,98 @@ def valideIAModelFacebook(data):
     Ypredict = pickle_model.predict([array_to_prediction])
     return group[Ypredict[0]]
 
+'''
+# METODOS INTERNOS DE EXTRACCION DE INFORMACION
+'''
+## Extraer informacion de amigos
+@app.route('/getdata/<facebook_path>/<limit>', methods=['GET'])
+def getData(facebook_path, limit):
+
+    face = seleniumFacebook()
+    data_facebook = face.start(facebook_path, limit)
+
+    result = jsonify(
+        {
+            "status":"OK",
+            "facebook_path":facebook_path,
+            "facebook_result": data_facebook
+        }
+    )
+
+    return result
+
+## Lectura de perfiles almacenados en local
+@app.route('/readProfiles')
+def readProfiles():
+    files = os.listdir('data/info-profiles/')
+    content = []
+    
+    ## recorrer todos los archivos
+    for file in files: # 90:200
+        c_file = codecs.open('data/info-profiles/'+file,'r',"utf-8")
+        txt_file = c_file.read().replace("'",'"')
+        # print(file)
+        content.append(readProfilesProcessRow(json.loads(txt_file)))
+
+    return jsonify({
+        "status":"success",
+        "data": content,
+        "count_files": len(files),
+        "saved" : saveResult(str(content).replace("'",''),'final_data','00_json_result_scraping.json')
+    })
 
 '''
-/*
-END TFE - PRACTICAS UNIR
-*/
+# METODOS AUXILIARES
 '''
-
-
 def saveResult(txt, folder, name_file):
-        file = codecs.open('data/'+folder+'/'+name_file,'w',"utf-8")
+        file = codecs.open('data/'+folder+'/'+name_file+'.txt','w',"utf-8")
         file.write(str(txt))
         file.close()
         return True
 
+def cleanData(clean_to, txt_to_clean):
+    final_txt = ''
+
+    if clean_to == 'friends':
+        if 'Daniel' in txt_to_clean:
+            final_txt = txt_to_clean.replace('Daniel','')
+        else:
+            final_txt = txt_to_clean
+        
+        final_txt = final_txt.split(' ')
+                    
+        ## Recorre elementos con espacios
+        all_empty = True
+
+        for f_tx in final_txt:
+            if f_tx != '':
+                final_txt = f_tx
+                all_empty = False
+
+        ## Si esta vacio y no tiene amigos
+        if all_empty:
+            final_txt = '0'
+    
+        ## Comprobar si es un numero
+        if final_txt.isnumeric():
+            final_txt = int(final_txt)
+        else:
+            final_txt = 0
+
+    if clean_to == 'joined':
+        final_txt = txt_to_clean.split(' ')
+
+        if len(final_txt) == 6:
+
+            if final_txt[5].isnumeric():
+                final_txt = int(final_txt[5])
+            else:
+                final_txt = 0
+    
+            
+    return final_txt
+
 
 # Inicializarlo
-# if __name__ == '__main__':
-#     app.run(debug=True, port=8080)
+if __name__ == '__main__':
+    app.run(debug=True, port=8080)

@@ -1,0 +1,1 @@
+{'name': 'Ka Ren ', 'name_user_sub': '.🥰⛓️I know Im in your heart, maybe deep down🌙😻. ', 'number_friends': 1499, 'study_finish': 'Estudió en I. E. D La Victoria', 'live': 'Vive en Mesitas, Cundinamarca, Colombia', 'job': 'Estudió en I.E.D EL TRIUNFO ', 'profile_image': 'none'}

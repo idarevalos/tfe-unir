@@ -1,0 +1,1 @@
+{'name': 'Notificaciones Jisel Escalona ', 'name_user_sub': 'Ig:Jiselescalona18Seamos lo que queremos ser y soñemos lo que algún día seremos.🦋 ', 'number_friends': 4343, 'study_finish': 'Estudió en COLEGIO DON BERNABE PLANAS', 'study_actually': 'Estudia en Colegio Leon de Greiff', 'live': 'Vive en Barquisimeto', 'job': 'Cantante ', 'profile_image': 'none'}

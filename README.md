@@ -1,10 +1,10 @@
 # tfe-unir
 TFE Unir Master Inteligencia Artificual
-** URL web: https://idarevalos-tfe-unir.web.app/
+[Dirección Web:] (https://idarevalos-tfe-unir.web.app/)
 
 # Clasificador de edad no válida en Facebook
 
-Mediante técnicas de Inteligencia Artificial, aplicando algoritmos de aprendizaje automático no supervisado. Se hace un perfilamiento de perfiles de Facebook, para identificar si su perfil en Facebook es de edad no válida, y si tiene algunas características que puedan sugerir una vulnerabilidad para el usuario.
+Mediante técnicas de Inteligencia Artificial, aplicando algoritmos de aprendizaje automático no supervisado. Se identifica si un perfil es o no VÁLIDO para Facebook, de acuerdo a la extracción de características que se hace con Web Scraping.
 
 # Liberías usadas
 

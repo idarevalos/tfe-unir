@@ -1,20 +1,39 @@
 from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.chrome.options import Options
-# from selenium.webdriver.firefox.options import Options
+from selenium.webdriver.firefox.options import Options
 
 import time
 import codecs
 from bs4 import BeautifulSoup
 import json
 
+
+
 class seleniumFacebook():
 
     def __init__(self, **kwargs):
-        # self.u = "ivandaniel.arevalo884@comunidadunir.net"
-        self.u = "idarevalos@yahoo.com"
-        self.p = "TFFMKMGZEN"      
+        self.u = "ivandaniel.arevalo884@comunidadunir.net"
+        self.p = "TFFMKMGZEN"     
 
+        # self.CHROMEDRIVER_PATH = '/usr/local/bin/chromedriver'
+        self.CHROMEDRIVER_PATH = 'api/webdriver/geckodriver.exe'
+        self.WINDOW_SIZE = "1920,1080"
+
+        ## Google Chrome options
+        # self.chrome_options = Options()
+        # self.chrome_options.add_argument("--headless")
+        # self.chrome_options.add_argument("--window-size=%s" % self.WINDOW_SIZE)
+        # self.chrome_options.add_argument('--no-sandbox')
+
+        # self.navigator = webdriver.Chrome(executable_path = self.CHROMEDRIVER_PATH, chrome_options = self.chrome_options)
+
+        ## Firefox Options
+        self.options = Options()
+        self.options.headless = True
+        self.options.add_argument("--window-size=%s" % self.WINDOW_SIZE)
+        self.navigator = webdriver.Firefox(options=self.options, executable_path = self.CHROMEDRIVER_PATH)
+                
     def decodePathFacebook(self, path___):
         r = ''
         if path___.find('profile.php?id=') > 0:
@@ -26,49 +45,32 @@ class seleniumFacebook():
 
         return r
 
-    def getDataProfile(self, facebook_path):
+    # Retorna informacion del perfil del usuario
+    def getDataProfile(self, facebook_path, type = 'web'):
 
-        
-        CHROMEDRIVER_PATH = '/usr/local/bin/chromedriver'
-        # CHROMEDRIVER_PATH = 'C:/xampp/htdocs/idarevalos/unir/api/webdriver/geckodriver.exe'
-        WINDOW_SIZE = "1920,1080"
+        ## Autenticacion en Facebook, cuando la peticion es de web
+        if type == 'web':
 
-        ## Google Chrome options
-        chrome_options = Options()
-        chrome_options.add_argument("--headless")
-        chrome_options.add_argument("--window-size=%s" % WINDOW_SIZE)
-        chrome_options.add_argument('--no-sandbox')
+            self.navigator.get("http://www.facebook.com")
+            time.sleep(2) # time 1 seg
 
-        navigator = webdriver.Chrome(executable_path=CHROMEDRIVER_PATH, chrome_options=chrome_options)
-
-        ## Firefox Options
-        # options = Options()
-        # options.headless = True
-        # options.add_argument("--window-size=%s" % WINDOW_SIZE)
-        # navigator = webdriver.Firefox(options=options, executable_path=CHROMEDRIVER_PATH)
-               
-        
-        ## Autenticacion en Facebook
-        navigator.get("http://www.facebook.com")
-        time.sleep(2) # time 1 seg
-
-        username = navigator.find_element_by_id("email")
-        password = navigator.find_element_by_id("pass")
-        submit   = navigator.find_element_by_id("u_0_b")
-        username.send_keys(self.u)
-        password.send_keys(self.p)
-        submit.click()
+            username = self.navigator.find_element_by_id("email")
+            password = self.navigator.find_element_by_id("pass")
+            submit   = self.navigator.find_element_by_id("u_0_b")
+            username.send_keys(self.u)
+            password.send_keys(self.p)
+            submit.click()
         
         time.sleep(0.5) # time 1 seg
         profile_information = {} ## define el objeto donde se almacenan los datos
         
         # navegar en home del perfil
-        navigator.get('https://www.facebook.com/'+facebook_path) # 
+        self.navigator.get('https://www.facebook.com/'+facebook_path) # 
 
-        time.sleep(6) # time 1 seg
+        time.sleep(3) # time 1 seg
 
         ### START
-        source_code=navigator.page_source
+        source_code= self.navigator.page_source
         soup = BeautifulSoup(source_code, 'html.parser')
 
         name_user = soup.select('h1.gmql0nx0') 
@@ -77,8 +79,9 @@ class seleniumFacebook():
         name_user_sub = soup.select('div.obtkqiv7:nth-child(2) > div:nth-child(1) > span:nth-child(1)')
         profile_information['name_user_sub'] = self.processElementHtml(name_user_sub)
 
-        number_friends = soup.select('span.d2edcug0:nth-child(2)')
-        profile_information['number_friends'] = self.processElementHtml(number_friends)
+        number_friends = soup.select('span.e9vueds3:nth-child(2)')
+        number_friends = self.processElementHtml(number_friends)
+        profile_information['number_friends'] = self.cleanData('friends', number_friends)
    
 
         ## procesar informacion persolan
@@ -158,9 +161,15 @@ class seleniumFacebook():
                     
                 profile_information[at['name_target']] = str(img)
 
-        
-        ## END 
-        navigator.close()
+        # Cierro el navegador solo si es de web,
+        # si se corre proceso interno, no se cierra
+        if type == 'web':
+            self.navigator.close()
+
+        ## Guarda el resultado, solo cuando el nuevo perfil tiene informacion de amigos
+        if self.cleanData('friends', number_friends) > 0 or type == 'web':
+            self.saveResult(profile_information, 'info-profiles', facebook_path)
+
         return profile_information
         
     def processElementHtml(self, ele):
@@ -172,194 +181,115 @@ class seleniumFacebook():
             txt_r += str(element.get_text().replace('"','').replace("'",'').replace('/',''))+' '
         
         return txt_r
-
+    
     def saveResult(self, txt, folder, name_file):
-        file = codecs.open('data/'+folder+'/'+name_file,'w',"utf-8")
+        file = codecs.open('data/'+folder+'/'+name_file+'.txt','w',"utf-8")
         file.write(str(txt))
         file.close()
         return True
 
+    def cleanData(self, clean_to, txt_to_clean):
+        final_txt = ''
+
+        if clean_to == 'friends':
+            if 'Daniel' in txt_to_clean:
+                final_txt = txt_to_clean.replace('Daniel','')
+            else:
+                final_txt = txt_to_clean
+            
+            final_txt = final_txt.split(' ')
+                        
+            ## Recorre elementos con espacios
+            all_empty = True
+
+            for f_tx in final_txt:
+                if f_tx != '':
+                    final_txt = f_tx
+                    all_empty = False
+
+            ## Si esta vacio y no tiene amigos
+            if all_empty:
+                final_txt = '0'
+        
+            ## Comprobar si es un numero
+            if final_txt.isnumeric():
+                final_txt = int(final_txt)
+            else:
+                final_txt = 0
+
+        if clean_to == 'joined':
+            final_txt = txt_to_clean.split(' ')
+
+            if len(final_txt) == 6:
+
+                if final_txt[5].isnumeric():
+                    final_txt = int(final_txt[5])
+                else:
+                    final_txt = 0
+        
+                
+        return final_txt
+
+    ## Consulta perfiles de amigos de un perfil de facebook
     def start(self, facebook_path, limit):
         
-        # CHROMEDRIVER_PATH = '/usr/local/bin/chromedriver'
-        CHROMEDRIVER_PATH = 'C:/xampp/htdocs/idarevalos/unir/api/webdriver/geckodriver.exe'
-        WINDOW_SIZE = "1920,1080"
-
-        # Google Chrome options
-        # chrome_options = Options()
-        # chrome_options.add_argument("--headless")
-        # chrome_options.add_argument("--window-size=%s" % WINDOW_SIZE)
-        # chrome_options.add_argument('--no-sandbox')
-
-        # navigator = webdriver.Chrome(executable_path=CHROMEDRIVER_PATH, chrome_options=chrome_options)
-
-        ## Firefox Options
-        options = Options()
-        options.headless = True
-        options.add_argument("--window-size=%s" % WINDOW_SIZE)
-        navigator = webdriver.Firefox(options=options, executable_path=CHROMEDRIVER_PATH)
-
-        navigator.get("http://www.facebook.com")
+        self.navigator.get("http://www.facebook.com")
         time.sleep(1)
 
-        username = navigator.find_element_by_id("email")
-        password = navigator.find_element_by_id("pass")
-        submit   = navigator.find_element_by_id("u_0_b")
+        username = self.navigator.find_element_by_id("email")
+        password = self.navigator.find_element_by_id("pass")
+        submit   = self.navigator.find_element_by_id("u_0_b")
         username.send_keys(self.u)
         password.send_keys(self.p)
+
         # Step 4) Click Login
         submit.click()
         # time 1 seg
         time.sleep(1)
 
-        navigator.get('https://www.facebook.com/'+facebook_path+'/friends')
-        limit_scroll = 15
+        self.navigator.get('https://www.facebook.com/'+facebook_path+'/friends')
+        limit_scroll = 20
         for t in range(limit_scroll):
             time.sleep(0.5)
-            navigator.execute_script('window.scroll(0, '+str(1000*t)+')')    
+            self.navigator.execute_script('window.scroll(0, '+str(1000*t)+')')    
+
+        
+        ## extraccion de informacion con BS4
+        source_code= self.navigator.page_source
+        soup = BeautifulSoup(source_code, 'html.parser')
 
         time.sleep(6)
         li = []
         limit_friends = int(limit) 
 
+
         # insre links
         for lf in range(limit_friends):
-            path__ = '/html/body/div[1]/div/div[1]/div[1]/div[3]/div/div/div[1]/div[1]/div/div/div[4]/div/div/div/div/div/div/div/div[3]/div['+str(lf)+']/div[2]/div[1]/a' # a/span
             
-            if lf > 0:
-                friends = navigator.find_elements_by_xpath(path__)
-
-                # Recorrer los elementos encontrados
-                for f in friends:
-                    li.append(
-                        {
-                            "link": f.get_attribute('href')
-                        }
-                    )
-        
-        ## Recorrer los links creados y asignar name
-        for r in range(len(li)):
-            item = r+1 # Corresponde a la asignacion correcta de link + name
-
-            path__ = '/html/body/div[1]/div/div[1]/div[1]/div[3]/div/div/div[1]/div[1]/div/div/div[4]/div/div/div/div/div/div/div/div[3]/div['+str(item)+']/div[2]/div[1]/a/span' # a/span
+            item_search = lf + 1
+            item_find = soup.select('div.bp9cbjyn:nth-child('+str(item_search)+') > div:nth-child(2) > div:nth-child(1) > a:nth-child(1)')
             
-            fx = navigator.find_elements_by_xpath(path__)
-            # Recorrer los elementos encontrados
-            for f in fx:
-                li[r]['name'] = f.text
+            # Solo si existe elemento por consultar
+            if len(item_find) > 0:           
+                li.append(
+                    {
+                        "link": item_find[0]['href']
+                    }
+                )
                 
-        
-        # Guardar amigos general
+        li.append({"link":"https://www.facebook.com/"+facebook_path})
+
+        ## Guardar link de perfil de amigos
         self.saveResult(li, 'search-profiles', facebook_path)
-        li.append({"name":"","link":"https://www.facebook.com/"+facebook_path})
-
-        for k in li:
-
-            # if k['link'].find('profile.php') > 0:
-            #     navigator.get(k['link']+'&sk=about') # Informacion basica
-            # else:
-            #     navigator.get(k['link']+'/about_overview') # Informacion basica
-            
-            navigator.get(k['link']) # Informacion basica
-            time.sleep(5)
-
-            profile_information = {}
-            profile_information['me'] = self.decodePathFacebook(k['link'])
-            profile_information['friend'] = facebook_path
-
-
-            ### START
-            source_code=navigator.page_source
-            soup = BeautifulSoup(source_code, 'html.parser')
-
-            name_user = soup.select('h1.gmql0nx0') 
-            profile_information['name'] = self.processElementHtml(name_user)
-
-            name_user_sub = soup.select('div.obtkqiv7:nth-child(2) > div:nth-child(1) > span:nth-child(1)')
-            profile_information['name_user_sub'] = self.processElementHtml(name_user_sub)
-
-            number_friends = soup.select('span.d2edcug0:nth-child(2)')
-            profile_information['number_friends'] = self.processElementHtml(number_friends)
-    
-
-            ## procesar informacion persolan
-            attrs = [
-                {
-                    'selector':'span',
-                    'target': 'Se unió en:',
-                    'type':'txt',
-                    'name_target': 'joined_in'
-                },
-                {
-                    'selector':'span',
-                    'target': 'Estudió en',
-                    'type':'txt',
-                    'name_target': 'study_finish'
-                },
-                {
-                    'selector':'span',
-                    'target': 'Estudia en',
-                    'type':'txt',
-                    'name_target': 'study_actually'
-                },
-                {
-                    'selector':'span',
-                    'target': 'Vive en',
-                    'type':'txt',
-                    'name_target': 'live'
-                },
-                {
-                    'selector':'span',
-                    'target': 'seguidores',
-                    'type':'txt',
-                    'name_target': 'followers'
-                },
-                {
-                    'selector':'div.lpgh02oy:nth-child(2) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > ul:nth-child(1) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > span:nth-child(1)',
-                    'target': 'job',
-                    'type':'selector',
-                    'name_target': 'job'
-                }            
-            ]
-
-            for at in attrs:
-                if at['type'] == 'txt':
-                    for item in soup.select(at['selector']):
-                        ## recorriendo todos los elementos
-                        it = str(item.get_text())
-                        if at['target'] in it:
-                            profile_information[at['name_target']] = it.replace('"','').replace('/','')
-                else:
-                    item = soup.select(at['selector'])
-                    profile_information[at['name_target']] = self.processElementHtml(item)
-
-            
-            ## procesando los datos generados
-            ## obtener banderas de los datos que fueron obtenidos
-            save_data = False
-            if 'study_finish' in profile_information.keys():
-                save_data = True
-                if 'Estudia en' in profile_information['study_finish']:
-                    profile_information['flag_study_actually'] = 1
-                else:
-                    profile_information['flag_study_actually'] = 0
-            else:
-                profile_information['flag_study_actually'] = 0
-
-            if 'study_actually' in profile_information.keys():
-                profile_information['flag_study_actually'] = 1
-                save_data = True
-            elif'joined_in' in profile_information.keys():
-                save_data = True
-            elif'study_finish' in profile_information.keys():
-                profile_information['flag_study_actually'] = 0
-                save_data = True
-                
-
-            ## END             
-            if save_data:
-                self.saveResult(profile_information, 'info-profiles', self.decodePathFacebook(k['link']))
-            time.sleep(0.5)
         
-        time.sleep(1)
+        
+        # Extraer la informacion de cada perfil consultado
+        for k in li:
+            link_facebook = self.decodePathFacebook(k['link'])
+            self.getDataProfile(link_facebook, 'start_method')
+
+        ## Terminar proceso, cerrar navegador y responder
+        self.navigator.close()
+        time.sleep(0.5)
         return li
+        

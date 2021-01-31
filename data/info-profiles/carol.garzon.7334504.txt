@@ -1,0 +1,1 @@
+{'name': 'Carol Garzón(Mørënå) ', 'name_user_sub': '²¹~Enero~²⁰²¹Sebastián Arias😢💔²²~Julio~²⁰¹⁷Jhonny Rodríguez🥺💔 ⁰ Bebé ³👩\u200d👧💔Mis Ángeles ', 'number_friends': 2334, 'study_finish': 'Estudió en colegio departamental general santander', 'live': 'Vive en Sibaté', 'job': 'Trabaja en Facebook ', 'profile_image': 'none'}
