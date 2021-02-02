@@ -12,7 +12,7 @@ domains_allowed = ['http://ec2-54-84-79-47.compute-1.amazonaws.com']
 cors = CORS(app, resources={r"/*": {"origins": domains_allowed}}) # 
 
 # BASE = '/var/www/html/jd/'
-BASE = 'api/'
+BASE = 'data/'
 
 '''
 # RUTAS DE TEMPLATES
@@ -122,18 +122,15 @@ def valideIAModelFacebook(data):
 
     array_to_prediction = []
     # return array_to_prediction
-    cols = ['number_friends', 'followers','flag_study_actually','joined_in_since','live']
+    cols = ['number_friends', 'followers','joined_in_since','live','flag_study_actually']
 
     for c in cols:
         array_to_prediction.append(data[c])
         
-    ## ultimo append de prediccion
-    array_to_prediction.append(0)
 
     ## CLASES DEFINIDAS
-    group = ['Válido','No Válido']
+    group = ['Posiblemente Válido','Posiblemente No Válido']
     
-    # pkl_filename = BASE+'00_model_kmeans_supervise.pkl'
     pkl_filename = BASE+'00_model_kmeans_supervise.pkl'
     # Load from file
     with open(pkl_filename, 'rb') as file:

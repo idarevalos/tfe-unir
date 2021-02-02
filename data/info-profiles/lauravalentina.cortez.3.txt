@@ -1,0 +1,1 @@
+{'name': 'Notificaciones Laura ', 'name_user_sub': '🥰. ', 'number_friends': 2682, 'study_finish': 'Estudió en Colegio Distrital Ciudad De Montreal', 'followers': '1.572 seguidores', 'job': 'Estudió en Colegio Distrital Ciudad De Montreal ', 'profile_image': 'none'}

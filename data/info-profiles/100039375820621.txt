@@ -1,1 +1,1 @@
-{'name': 'Lorena Rodriiguez ', 'name_user_sub': ':(♡.  ', 'number_friends': 1, 'job': '', 'profile_image': 'none'}
+{'name': 'Notificaciones Lorena Rodriiguez ', 'name_user_sub': ':(♡.  ', 'number_friends': 1, 'job': '', 'profile_image': 'none'}

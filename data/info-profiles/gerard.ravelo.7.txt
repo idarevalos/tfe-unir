@@ -1,0 +1,1 @@
+{'name': 'Ge Rard ', 'name_user_sub': 'Concluyendo un sueño 🎥    ', 'number_friends': 2, 'study_finish': 'Estudió en jose maria obando', 'live': 'Vive en El Rosal (Cundinamarca)', 'job': 'Estudió en jose maria obando ', 'profile_image': 'none'}

@@ -1,1 +1,1 @@
-{'name': 'Camilo Diaz ', 'name_user_sub': ' ', 'number_friends': 990, 'study_finish': 'Estudió en la victoria I.E.D', 'live': 'Vive en Nueva York', 'job': 'El Colegio ', 'profile_image': 'none'}
+{'name': 'Notificaciones Camilo Diaz ', 'name_user_sub': ' ', 'number_friends': 990, 'study_finish': 'Estudió en la victoria I.E.D', 'live': 'Vive en Nueva York', 'job': 'El Colegio ', 'profile_image': 'none'}

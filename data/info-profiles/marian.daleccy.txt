@@ -1,1 +1,1 @@
-{'name': 'Marian Daleccy ', 'name_user_sub': 'Thu Morenitha Fav💗. ', 'number_friends': 1, 'followers': '1.403 seguidores', 'job': '1.403 seguidores ', 'profile_image': 'none'}
+{'name': 'Notificaciones Marian Daleccy ', 'name_user_sub': 'Thu Morenitha Fav💗. ', 'number_friends': 1, 'followers': '1.405 seguidores', 'job': '1.405 seguidores ', 'profile_image': 'none'}

@@ -1,0 +1,1 @@
+{'name': 'Notificaciones Rodríguez Isa ', 'name_user_sub': '💛🥀La sonrisa es mía pero la causa eres tu🖇️🖤 ', 'number_friends': 776, 'joined_in': 'Se unió en: Junio de 2018', 'study_finish': 'Estudió en I.E.D EL TRIUNFO', 'live': 'Vive en Mesitas, Cundinamarca, Colombia', 'job': 'Trabaja en Facebook ', 'profile_image': 'none'}

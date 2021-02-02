@@ -1,0 +1,1 @@
+{'name': 'Notificaciones Gissell Bustamante ', 'name_user_sub': '•🥰•  ', 'number_friends': 1593, 'study_finish': 'Estudió en coldeptal el tequendama', 'live': 'Vive en El Colegio', 'job': 'El Colegio ', 'profile_image': 'none'}

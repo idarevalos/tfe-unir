@@ -1,0 +1,1 @@
+{'name': 'Notificaciones Juliana Perdomo ', 'name_user_sub': '¡¡💥👆No me importa lo que la gente piense de mi,yo no me califico por la opinión de los demás👆💥!! ', 'number_friends': 1, 'job': '', 'profile_image': 'none'}

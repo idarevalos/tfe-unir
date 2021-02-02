@@ -9,7 +9,6 @@ from bs4 import BeautifulSoup
 import json
 
 
-
 class seleniumFacebook():
 
     def __init__(self, **kwargs):
