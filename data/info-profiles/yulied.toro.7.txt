@@ -1,1 +1,1 @@
-{'name': 'Notificaciones Julieth ', 'name_user_sub': '.🐢🍩. ', 'number_friends': 4947, 'followers': '5.628 seguidores', 'job': 'De Bogotá ', 'profile_image': 'none'}
+{'name': 'Notificaciones Julieth ', 'name_user_sub': '.🐢🍩. ', 'number_friends': 1, 'followers': '5.643 seguidores', 'job': 'De Bogotá ', 'profile_image': 'none'}

@@ -1,0 +1,1 @@
+{'name': 'Notificaciones Luisa Quenguan(Chäpärrä) ', 'name_user_sub': '🐧12~4~2020💙 😻Urbano Yulieth💛  ', 'number_friends': 1, 'study_finish': 'Estudió en institucion educativa fray placido', 'live': 'Vive en Mocoa', 'job': 'Trabaja en Me encanta la jodaaaaaaaa!!! ', 'profile_image': 'none'}

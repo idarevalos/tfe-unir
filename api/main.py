@@ -11,8 +11,8 @@ app = Flask(__name__)
 domains_allowed = ['http://ec2-54-84-79-47.compute-1.amazonaws.com']
 cors = CORS(app, resources={r"/*": {"origins": domains_allowed}}) # 
 
-BASE = '/var/www/html/jd/'
-# BASE = 'data/'
+# BASE = '/var/www/html/jd/'
+BASE = 'data/'
 
 '''
 # RUTAS DE TEMPLATES
@@ -137,6 +137,9 @@ def valideIAModelFacebook(data):
         pickle_model = pickle.load(file)
     
     Ypredict = pickle_model.predict([array_to_prediction])
+
+    
+
     return group[Ypredict[0]]
 
 '''
@@ -237,5 +240,5 @@ def cleanData(clean_to, txt_to_clean):
 
 
 # Inicializarlo
-# if __name__ == '__main__':
-#     app.run(debug=True, port=8080)
+if __name__ == '__main__':
+    app.run(debug=True, port=8080)

@@ -1,0 +1,1 @@
+{'name': 'Notificaciones Esnêîdêr Ubaque ', 'name_user_sub': '💛MI POLLITA🐣 💛#29💛 ', 'number_friends': 924, 'study_finish': 'Estudió en institucion educativa departamental pablo neruda', 'live': 'Vive en Soacha', 'job': 'Estudio ', 'profile_image': 'none'}

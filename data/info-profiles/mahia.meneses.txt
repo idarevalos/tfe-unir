@@ -1,0 +1,1 @@
+{'name': 'Notificaciones Meneses Mahia(Katerine) ', 'name_user_sub': '❤😻Rocío Mosquera 😻❤Manita😻❤ ', 'number_friends': 2264, 'joined_in': 'Se unió en: Septiembre de 2018', 'study_finish': 'Estudió en Institucion Educativa La Pamba', 'live': 'Vive en Popayán', 'job': 'Trabaja en dormir comer y vagar ', 'profile_image': 'none'}

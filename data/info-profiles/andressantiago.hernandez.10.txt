@@ -1,0 +1,1 @@
+{'name': 'Notificaciones Santiago Hernandez ', 'name_user_sub': 'sibate ', 'number_friends': 1025, 'study_finish': 'Estudió en Pablo Neruda', 'live': 'Vive en Sibaté', 'job': 'Trabaja en Estudar ', 'profile_image': 'none'}
