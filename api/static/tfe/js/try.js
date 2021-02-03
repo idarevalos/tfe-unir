@@ -1,6 +1,6 @@
 
-const url_api = 'http://localhost:8080/',
-// const url_api = 'http://ec2-54-84-79-47.compute-1.amazonaws.com/',
+// const url_api = 'http://localhost:8080/',
+const url_api = 'http://ec2-54-84-79-47.compute-1.amazonaws.com/',
 m = 'getDataProfile/'
 
 /**
@@ -21,7 +21,7 @@ $('#btn_search').on('click', function(){
         let pr = i.split('facebook.com/')
         queryProfile(pr[1]) // consutar el perfil
 
-        let h__ = `<div class="progress_div"><hr>${resources.progess.bar}<br><em>El proceso puede tartar unos segundos ...</em></div>`
+        let h__ = `<div class="progress_div"><hr>${resources.progess.bar}<br><em>El proceso puede tartar alrededor de 2 minutos ...</em></div>`
         $('#div_query').append(h__)
     }
 
@@ -41,7 +41,7 @@ $('#btn_search').on('click', function(){
 })
 
 function processResponde(data){
-    console.log(data)
+    
     $('#div_query').hide()
     $('#div_result').show()
     
@@ -61,7 +61,7 @@ function processResponde(data){
     </div>
     <div class="card-block">
         <div class="user-image">
-            <img src="${data['facebook_result']['profile_image']}" class="img-radius" alt="User-Profile-Image">
+            <img src="${data['facebook_result']['profile_image']}" onerror="this.src='static/tfe/img/profile.jpg'" class="img-radius" alt="User-Profile-Image">
         </div>
         <hr>
         <h6 class="f-w-600 m-t-25 m-b-10">${data['facebook_result']['name'].replace('Notificaciones','')}</h6>
@@ -94,6 +94,10 @@ function queryProfile(profile){
     }).catch(()=>{
         swal("Oh oh!",'Ha ocurrido un error inesperado, inténtelo más tarde por favor.','warning')
         $('#btn_search').html(resources.svg.btn_search)
+
+        setTimeout(()=>{
+            tryAgain()
+        },3000)
     })
 }
 

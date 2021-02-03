@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
     <link rel="stylesheet" href="{{ url_for('static',filename='tfe/css/cover.css') }}">
     <link rel="stylesheet" href="{{ url_for('static',filename='tfe/css/main_tfe.css') }}">
-
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css" integrity="sha512-HK5fgLBL+xu6dm/Ii3z4xhlSUyZgTT9tuc/hSrtw6uzJOvgRr2a9jyxxT1ely+B+xFAmJKVSTbpM/CuL7qxO8w==" crossorigin="anonymous" />
 
   </head>
   <body class="text-center">
@@ -23,16 +23,16 @@
       </header>
 
       <section role="main" class="inner cover" id="div_query">
-        <h1 class="cover-heading">Pruebe con un perfil de Facebook</h1>
-        <p class="lead">Identifique si es o no <b>VÁLIDO</b> para Facebook. </p>
+        <h1 class="cover-heading">Ingrese la dirección o URL del perfil de Facebook</h1>
+        <p class="lead">El resultado de la predicción mostrará si el perfil ingresado, es <code></em>Posiblemente Válido o Posiblemente No Válido </code></em> de acuerdo a las características que pueden extraerse del perfil de Facebook.</p>
         
         <div class="form-group">
             <label for="url_facebook">Ingrese la URL de su perfil en Facebook</label>
             <input class="form-control form-control-lg" id="input_url" type="text" placeholder="ejemplo: https://www.facebook.com/mi-perfil/">
-            <small class="form-text text-muted">Puede encontrar su perfil en el ícono de su perfil.</small>
+            <small class="form-text text-muted">Al ingresar la información en el campo anterior, está aceptando que esta aplicación web extraiga, almacene y procese los datos que se encuentan de forma pública en el perfil de Facebook.</small>
 
         </div>
-        <button type="button" class="btn btn-light" id="btn_search">Buscar 🔍
+        <button type="button" class="btn btn-light" id="btn_search">Buscar <i class="fas fa-search"></i>
         </button>
 
       </section>

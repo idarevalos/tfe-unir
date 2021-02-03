@@ -1,1 +1,1 @@
-{'name': 'Editmar Gutierrez ', 'name_user_sub': '💘🙏Juntos hasta que Dios nos los permita 🙏💘               💙AJCP💙 ', 'number_friends': 4855, 'followers': '1.471 seguidores', 'job': '', 'profile_image': 'none'}
+{'name': 'Notificaciones Editmar Gutierrez ', 'name_user_sub': '💘🙏Juntos hasta que Dios nos los permita 🙏💘               💙AJCP💙 ', 'number_friends': 4861, 'followers': '1.467 seguidores', 'job': '', 'profile_image': 'none'}

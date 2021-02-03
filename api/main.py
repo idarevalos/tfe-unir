@@ -11,8 +11,8 @@ app = Flask(__name__)
 domains_allowed = ['http://ec2-54-84-79-47.compute-1.amazonaws.com']
 cors = CORS(app, resources={r"/*": {"origins": domains_allowed}}) # 
 
-# BASE = '/var/www/html/jd/'
-BASE = 'data/'
+BASE = '/var/www/html/jd/'
+# BASE = 'data/'
 
 '''
 # RUTAS DE TEMPLATES
@@ -168,22 +168,27 @@ def readProfiles():
     ## recorrer todos los archivos
     for file in files: # 90:200
         c_file = codecs.open('data/info-profiles/'+file,'r',"utf-8")
-        txt_file = c_file.read().replace("'",'"')
-        # print(file)
+        txt_file = c_file.read().replace('"','*').replace("'",'"')
+
+        # Concatenando el nombre de perfil
+        # final_text = '{"profile":"'+str(file)+'", "info": '+txt_file+'}'
+        content.append(json.loads(txt_file)) ## Solo caracteristicas
+
         content.append(readProfilesProcessRow(json.loads(txt_file)))
+        
 
     return jsonify({
         "status":"success",
         "data": content,
         "count_files": len(files),
-        "saved" : saveResult(str(content).replace("'",''),'final_data','00_json_result_scraping.json')
+        "saved" : saveResult(str(content).replace("'",''),'final_data','00_json_result_scraping__ida.json')
     })
 
 '''
 # METODOS AUXILIARES
 '''
 def saveResult(txt, folder, name_file):
-        file = codecs.open('data/'+folder+'/'+name_file+'.txt','w',"utf-8")
+        file = codecs.open(BASE+'data/'+folder+'/'+name_file+'.txt','w',"utf-8")
         file.write(str(txt))
         file.close()
         return True
@@ -232,5 +237,5 @@ def cleanData(clean_to, txt_to_clean):
 
 
 # Inicializarlo
-if __name__ == '__main__':
-    app.run(debug=True, port=8080)
+# if __name__ == '__main__':
+#     app.run(debug=True, port=8080)
