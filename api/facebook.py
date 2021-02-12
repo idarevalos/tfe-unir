@@ -57,7 +57,8 @@ class seleniumFacebook():
 
             username = self.navigator.find_element_by_id("email")
             password = self.navigator.find_element_by_id("pass")
-            submit   = self.navigator.find_element_by_id("u_0_b")
+            submit   = self.navigator.find_element_by_name("login")
+
             username.send_keys(self.u)
             password.send_keys(self.p)
             submit.click()
@@ -239,7 +240,8 @@ class seleniumFacebook():
 
         username = self.navigator.find_element_by_id("email")
         password = self.navigator.find_element_by_id("pass")
-        submit   = self.navigator.find_element_by_id("u_0_b")
+        submit   = self.navigator.find_element_by_name("login")
+        
         username.send_keys(self.u)
         password.send_keys(self.p)
 

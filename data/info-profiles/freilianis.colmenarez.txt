@@ -1,0 +1,1 @@
+{'name': 'Freiliannys Colmenarez ', 'name_user_sub': '𝑱𝒐𝒔𝒆 𝒍𝒆𝒐𝒏𝒂𝒓𝒅𝒐💗🥺220220💗🥺𝑩𝒇𝒇𝒐 𝒚𝒐𝒉𝒂𝒏𝒅𝒆𝒓 𝒋𝒆𝒔𝒖𝒔💗🥺 ', 'number_friends': 3470, 'study_finish': 'Estudió en Colegio San Antonio de Padua', 'live': 'Vive en Barquisimeto', 'job': 'Estudió en Ucla Venezuela ', 'profile_image': 'none'}

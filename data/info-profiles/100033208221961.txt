@@ -1,0 +1,1 @@
+{'name': 'Juan Crowley ', 'name_user_sub': ' ', 'number_friends': 1, 'study_finish': 'Estudió en María mercedes carranza colegio', 'live': 'Vive en Bogotá', 'followers': '3.060 seguidores', 'job': 'Trabajó en Millonarios FC ', 'profile_image': 'none'}

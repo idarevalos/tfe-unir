@@ -73,6 +73,8 @@ function processResponde(data){
         ${processText(data['facebook_result']['job'],'p','txt_item','Dice que actualmente trabaja en: ')}
         ${processText(data['facebook_result']['live'],'p','txt_item')}
         ${processText(data['facebook_result']['study_finish'],'p','txt_item')}
+        ${processText(data['result_process_data']['count_normal_words'],'p','txt_item','Palabras en su Sub Nombre')}
+        ${processText(data['result_process_data']['count_emojis_caracters'],'p','txt_item','Emojis aprox.')}
         
         <div class="row justify-content-center user-social-link">
             <div class="col-auto"><a href="https://facebook.com/${data['facebook_path']}" target="_blank"> Visitar Perfil</a></div>

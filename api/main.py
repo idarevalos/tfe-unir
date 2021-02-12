@@ -12,7 +12,7 @@ domains_allowed = ['http://ec2-54-84-79-47.compute-1.amazonaws.com']
 cors = CORS(app, resources={r"/*": {"origins": domains_allowed}}) # 
 
 # BASE = '/var/www/html/jd/'
-BASE = 'data/'
+BASE = app.root_path
 
 '''
 # RUTAS DE TEMPLATES
@@ -56,7 +56,14 @@ def getDataProfile(facebook_path):
 # Lectura por filas de los perfiles almacenados en local
 # Para la extraccion de caracteristicas
 def readProfilesProcessRow(row_param = 0):
+
     
+    import nltk
+    from nltk.tokenize import RegexpTokenizer
+
+    allowed = RegexpTokenizer('[a-zA-Z0-9]\w+')
+    no_allowed = RegexpTokenizer('[^\x00-\x7F]')
+      
     new_row = {}
 
     ## Asignacion de Row con request cuando no se usa en funcion
@@ -105,6 +112,13 @@ def readProfilesProcessRow(row_param = 0):
         new_row['study_actually'] = 0
         new_row['flag_study_actually'] = 0
 
+    ## PLN Proceso
+    ## Procesar Json de Perfiles
+    text = row['name_user_sub']
+    new_row['count_normal_words'] = len(allowed.tokenize(text))       
+    new_row['count_emojis_caracters'] = len(no_allowed.tokenize(text))       
+    
+
     ## Remove rows
     new_row['name'] = 1
     new_row['me'] = 1
@@ -115,6 +129,7 @@ def readProfilesProcessRow(row_param = 0):
     ## RETORNO
     return new_row
 
+
 def valideIAModelFacebook(data):
     
     ## Import Module
@@ -122,16 +137,18 @@ def valideIAModelFacebook(data):
 
     array_to_prediction = []
     # return array_to_prediction
-    cols = ['number_friends', 'followers','joined_in_since','live','flag_study_actually']
+    cols = ['number_friends', 'followers','joined_in_since','live','flag_study_actually','count_normal_words','count_emojis_caracters']
 
     for c in cols:
         array_to_prediction.append(data[c])
         
 
     ## CLASES DEFINIDAS
-    group = ['Posiblemente Válido','Posiblemente No Válido']
+    group = ['Posiblemente Válido G1','Posiblemente No Válido G2','Posiblemente No Válido G3']
     
-    pkl_filename = BASE+'00_model_kmeans_supervise.pkl'
+    pkl_filename = BASE+'/00_model_kmeans_supervise.pkl'
+
+
     # Load from file
     with open(pkl_filename, 'rb') as file:
         pickle_model = pickle.load(file)
@@ -166,32 +183,30 @@ def getData(facebook_path, limit):
 @app.route('/readProfiles')
 def readProfiles():
     files = os.listdir('data/info-profiles/')
-    content = []
-    
+    content = []    
+
     ## recorrer todos los archivos
     for file in files: # 90:200
         c_file = codecs.open('data/info-profiles/'+file,'r',"utf-8")
-        txt_file = c_file.read().replace('"','*').replace("'",'"')
-
-        # Concatenando el nombre de perfil
-        # final_text = '{"profile":"'+str(file)+'", "info": '+txt_file+'}'
-        content.append(json.loads(txt_file)) ## Solo caracteristicas
-
-        content.append(readProfilesProcessRow(json.loads(txt_file)))
         
+        txt_file = c_file.read().replace('"','*').replace("'",'"').replace('\\','').replace('~','').replace('^','')
+                                
+        ## Production
+        content.append(readProfilesProcessRow(json.loads(txt_file)))
+    
 
     return jsonify({
         "status":"success",
         "data": content,
         "count_files": len(files),
-        "saved" : saveResult(str(content).replace("'",''),'final_data','00_json_result_scraping__ida.json')
+        "saved" : saveResult(str(content).replace("'",''),'final_data','00_json_result_scraping.json')
     })
 
 '''
 # METODOS AUXILIARES
 '''
 def saveResult(txt, folder, name_file):
-        file = codecs.open(BASE+'data/'+folder+'/'+name_file+'.txt','w',"utf-8")
+        file = codecs.open(BASE+'/../data/'+folder+'/'+name_file+'.txt','w',"utf-8")
         file.write(str(txt))
         file.close()
         return True

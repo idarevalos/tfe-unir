@@ -1,0 +1,1 @@
+{'name': 'Jesus Rodriguez ', 'name_user_sub': '. ', 'number_friends': 1, 'study_finish': 'Estudió en Unidad Educativa Colegio San Juan Bosco', 'followers': '759 seguidores', 'job': 'Estudió en Unidad Educativa Colegio San Juan Bosco ', 'profile_image': 'none'}

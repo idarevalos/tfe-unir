@@ -1,0 +1,1 @@
+{'name': 'Leomar Gordillo(Leo) ', 'name_user_sub': ' ', 'number_friends': 1, 'study_finish': 'Estudió en Liceo Bolivariano Cerritos Blancos', 'live': 'Vive en Barquisimeto', 'job': 'no trabajo mis padress me mantienenn <3 . (: ', 'profile_image': 'none'}

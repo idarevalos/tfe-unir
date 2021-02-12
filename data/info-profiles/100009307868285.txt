@@ -1,0 +1,1 @@
+{'name': 'Arianna Gonzalez ', 'name_user_sub': '🥴Avgc🥺 ', 'number_friends': 1, 'live': 'Vive en Barquisimeto', 'job': 'Trabaja en no trabajo solo estudio ', 'profile_image': 'none'}
