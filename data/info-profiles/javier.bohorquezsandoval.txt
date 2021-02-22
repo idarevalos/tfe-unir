@@ -1,1 +1,1 @@
-{'name': 'Notificaciones Diego Bohorquez ', 'name_user_sub': ' ', 'number_friends': 2, 'study_finish': 'Estudió en Institución Educativa Departamental General Santander', 'live': 'Vive en Sibaté', 'job': 'Estudió en Institución Educativa Departamental General Santander ', 'profile_image': 'none'}
+{'name': 'Diego Bohorquez ', 'name_user_sub': ' ', 'number_friends': 0, 'study_finish': 'Estudió en Institución Educativa Departamental General Santander', 'live': 'Vive en Sibaté', 'job': 'Estudió en Institución Educativa Departamental General Santander ', 'profile_image': 'none'}

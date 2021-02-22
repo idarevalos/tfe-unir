@@ -1,1 +1,1 @@
-{'name': 'Notificaciones Dritick Manuel ', 'name_user_sub': ' ', 'number_friends': 570, 'study_finish': 'Estudió en liceo samper uribe', 'live': 'Vive en Bogotá', 'job': 'Estudió en liceo samper uribe ', 'profile_image': 'https://scontent.fbog2-2.fna.fbcdn.net/v/t1.0-1/c0.0.200.200a/p200x200/103380093_125931579131122_7303445914278678225_o.jpg?_nc_cat=108&ccb=2&_nc_sid=7206a8&_nc_ohc=6dwijdaM1HkAX_kjcaT&_nc_ht=scontent.fbog2-2.fna&tp=27&oh=d7cb8cd11ab3da4fa3d121d1c6ebf0a6&oe=60392DE6'}
+{'name': '', 'name_user_sub': '', 'number_friends': 0, 'job': '', 'profile_image': 'none'}

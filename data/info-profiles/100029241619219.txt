@@ -1,1 +1,1 @@
-{'name': 'Santiago Cg ', 'name_user_sub': '👻~mejor amigo ~👻    (única cuenta )   🤑💸 ', 'number_friends': 1, 'joined_in': 'Se unió en: Octubre de 2018', 'job': 'Se unió en: Octubre de 2018 ', 'profile_image': 'https://scontent.fbog2-2.fna.fbcdn.net/v/t1.0-1/p200x200/121503695_425283765123007_7313154913978602044_n.jpg?_nc_cat=105&ccb=3&_nc_sid=7206a8&_nc_ohc=loB5GFpWjFkAX90wY6I&_nc_ht=scontent.fbog2-2.fna&tp=6&oh=c5a072d28e160dab4a0f715003e645dd&oe=604BFF01'}
+{'name': '', 'name_user_sub': '', 'number_friends': 0, 'job': '', 'profile_image': 'none'}

@@ -1,1 +1,1 @@
-{'name': 'AnGie Moreno ', 'name_user_sub': '.🤓🖕👑. ', 'number_friends': 4552, 'job': 'Trabaja en No Sea Sapo Mi Ñero. ', 'profile_image': 'https://scontent.fbog2-3.fna.fbcdn.net/v/t1.0-1/p200x200/147697354_701805240434425_4760779284505330983_o.jpg?_nc_cat=109&ccb=3&_nc_sid=7206a8&_nc_ohc=MgIEpfofqlsAX9sLqE6&_nc_ht=scontent.fbog2-3.fna&tp=6&oh=5c20e11881454e1c5c5ffeab9e1d5af7&oe=604B145B'}
+{'name': 'AnGie Moreno ', 'name_user_sub': '.🤓🖕👑. ', 'number_friends': 4547, 'job': 'Svera_Lacra ', 'profile_image': 'none'}

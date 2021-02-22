@@ -1,1 +1,1 @@
-{'name': 'Notificaciones Hernan Macias ', 'name_user_sub': ' ', 'number_friends': 113, 'study_finish': 'Estudió en Institución Educativa Departamental General Santander', 'job': 'jugador en Millonarios FC ', 'profile_image': 'none'}
+{'name': 'Hernan Macias ', 'name_user_sub': ' ', 'number_friends': 112, 'study_finish': 'Estudió en Institución Educativa Departamental General Santander', 'job': 'jugador en Millonarios FC ', 'profile_image': 'none'}

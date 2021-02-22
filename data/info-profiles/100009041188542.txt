@@ -1,1 +1,1 @@
-{'name': 'Steicy Timax ', 'name_user_sub': '👑💜 ', 'number_friends': 1, 'joined_in': 'Se unió en: Febrero de 2015', 'job': 'Se unió en: Febrero de 2015 ', 'profile_image': 'https://scontent.fbog6-1.fna.fbcdn.net/v/t1.0-1/c34.0.200.200a/p200x200/142506910_2674593466185333_3109924159200865033_o.jpg?_nc_cat=106&ccb=3&_nc_sid=7206a8&_nc_ohc=w-7iPf2RuS4AX8CY0JM&_nc_ht=scontent.fbog6-1.fna&tp=27&oh=073b6e5de113dd1e19876cc6ce3d1e2a&oe=604ABFE1'}
+{'name': '', 'name_user_sub': '', 'number_friends': 0, 'job': '', 'profile_image': 'none'}

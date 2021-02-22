@@ -1,1 +1,1 @@
-{'name': 'Tatis Payares(tatiana) ', 'name_user_sub': ' ', 'number_friends': 499, 'live': 'Vive en Bogotá', 'job': 'Trabaja en Facebook App ', 'profile_image': 'https://scontent.fbog2-2.fna.fbcdn.net/v/t1.0-1/p200x200/107030770_2771365563143928_2138417509877424722_o.jpg?_nc_cat=103&ccb=2&_nc_sid=7206a8&_nc_ohc=oNqjbfSbCWUAX9sZWOi&_nc_ht=scontent.fbog2-2.fna&tp=6&oh=191918fb7c0e121d13e41704f15719da&oe=603C44CC'}
+{'name': '', 'name_user_sub': '', 'number_friends': 0, 'job': '', 'profile_image': 'none'}

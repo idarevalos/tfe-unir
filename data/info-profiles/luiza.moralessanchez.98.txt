@@ -1,1 +1,1 @@
-{'name': 'Luiza Morales ', 'name_user_sub': '𝐌𝐞𝐣𝐨𝐫 𝐀𝐦𝐢𝐠𝐚🦊🧡🐝💙. ', 'number_friends': 1, 'job': 'Soltera ', 'profile_image': 'none'}
+{'name': 'Luiza Morales ', 'name_user_sub': '🦊🧡-🐝💙... ', 'number_friends': 1, 'job': 'Soltera ', 'profile_image': 'none'}

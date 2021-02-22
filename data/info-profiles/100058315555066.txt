@@ -1,1 +1,1 @@
-{'name': 'Notificaciones Karen Cortés ', 'name_user_sub': ' ', 'number_friends': 336, 'job': '', 'profile_image': 'none'}
+{'name': 'Karen Cortés ', 'name_user_sub': ' ', 'number_friends': 339, 'job': '', 'profile_image': 'none'}

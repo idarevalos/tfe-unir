@@ -1,1 +1,1 @@
-{'name': 'Karold Alvarado ', 'name_user_sub': '..❣️🐿️.. ', 'number_friends': 3113, 'study_finish': 'Estudió en Nosea Sapo Miso', 'followers': '1.337 seguidores', 'job': 'Estudió en Nosea Sapo Miso ', 'profile_image': 'https://scontent.fbog2-2.fna.fbcdn.net/v/t1.0-1/p200x200/143961353_283700349785874_145941590125211590_o.jpg?_nc_cat=105&ccb=3&_nc_sid=7206a8&_nc_ohc=K_RUUZg-R9AAX-ZCKNQ&_nc_ht=scontent.fbog2-2.fna&tp=6&oh=7794ed5a8cfa58fe0bab971766eaf7f2&oe=604BA048'}
+{'name': '', 'name_user_sub': '', 'number_friends': 0, 'job': '', 'profile_image': 'none'}

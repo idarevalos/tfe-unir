@@ -1,1 +1,1 @@
-{'name': 'Notificaciones Juanestevan Cristancho ', 'name_user_sub': 'La vida es una sola y hay que disfrutarla ', 'number_friends': 1, 'job': '', 'profile_image': 'https://scontent.fbog2-2.fna.fbcdn.net/v/t1.0-1/c0.0.200.200a/p200x200/135783089_186598023209517_6570905963077985372_n.jpg?_nc_cat=105&ccb=2&_nc_sid=7206a8&_nc_ohc=4Etpl8D9YowAX-Rzf1q&_nc_ht=scontent.fbog2-2.fna&tp=27&oh=3b556298e60654bbc5fcb4ad17518496&oe=60410184'}
+{'name': '', 'name_user_sub': '', 'number_friends': 0, 'job': '', 'profile_image': 'none'}

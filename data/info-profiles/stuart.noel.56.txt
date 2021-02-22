@@ -1,1 +1,1 @@
-{'name': 'Noel Stuart(Stuart) ', 'name_user_sub': ' ', 'number_friends': 3977, 'study_finish': 'Estudió en Republica de Costa Rica', 'job': 'Trabaja en Gran Valencia FC ', 'profile_image': 'https://scontent.fbog2-3.fna.fbcdn.net/v/t1.0-1/c0.12.200.200a/p200x200/120195067_1365059540356016_1955598708948294757_n.jpg?_nc_cat=111&ccb=3&_nc_sid=7206a8&_nc_ohc=2ENsEWWpJDIAX8gQp8_&_nc_ht=scontent.fbog2-3.fna&tp=27&oh=63298c257e5d81b79ffbe643ad7e7732&oe=604AAC98'}
+{'name': '', 'name_user_sub': '', 'number_friends': 0, 'job': '', 'profile_image': 'none'}

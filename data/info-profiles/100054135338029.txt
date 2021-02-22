@@ -1,1 +1,1 @@
-{'name': 'Notificaciones 丹尼爾丹尼爾 ', 'name_user_sub': '🎰 ', 'number_friends': 882, 'study_finish': 'Estudió en institucion educativa departamental pablo neruda', 'live': 'Vive en Bogotá', 'job': 'jugador en Independiente Santa Fe ', 'profile_image': 'none'}
+{'name': '丹尼爾丹尼爾 ', 'name_user_sub': '🎰 ', 'number_friends': 916, 'study_finish': 'Estudió en institucion educativa departamental pablo neruda', 'live': 'Vive en Bogotá', 'job': 'Trabaja en Independiente Santa Fe ', 'profile_image': 'none'}

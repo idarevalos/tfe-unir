@@ -1,1 +1,1 @@
-{'name': 'Deiver Daniel Alvarez ', 'name_user_sub': 'Rashell lo es todo💕😍 ', 'number_friends': 4997, 'study_finish': 'Estudió en ESCUELA SIMON BOLIVAR', 'live': 'Vive en Barquisimeto', 'followers': '269 seguidores', 'job': 'Ayudante de campo en Yo tmbn Ayudo en la casa & dpues mi Mama dice que no hago nada77 ', 'profile_image': 'none'}
+{'name': '', 'name_user_sub': '', 'number_friends': 0, 'job': '', 'profile_image': 'none'}

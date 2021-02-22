@@ -1,1 +1,1 @@
-{'name': 'Notificaciones Michelle Escalona ', 'name_user_sub': ' ', 'number_friends': 2858, 'study_finish': 'Estudió en L.B Agustin Rafael Andrade', 'job': 'Estudió en L.B Agustin Rafael Andrade ', 'profile_image': 'https://scontent.fbog2-1.fna.fbcdn.net/v/t1.0-1/c0.7.200.200a/p200x200/136693795_221269529491204_1293376994954636961_n.jpg?_nc_cat=106&ccb=2&_nc_sid=7206a8&_nc_ohc=mFgAQHZQk2UAX8rb8uS&_nc_ht=scontent.fbog2-1.fna&tp=27&oh=0cc06032890def0eff8bd1d0ff780c4e&oe=6041B298'}
+{'name': '', 'name_user_sub': '', 'number_friends': 0, 'job': '', 'profile_image': 'none'}

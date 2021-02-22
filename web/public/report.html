@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    <title>TFE idarevalos | Unir</title>
+</head>
+<body class="grey lighten-5">
+    <div class="container">
+        <button class="btn-small" onclick="readRouterProfiles()">Empezar</button> 
+        <div class="row">
+            <table>
+                <thead>
+                  <tr>
+                      <th>#</th>
+                      <th>Id Profile</th>
+                      <th>Image</th>
+                      <th>Clasificación</th>
+                      <th># Amigos</th>
+                      <th># Seguidores</th>
+                      <th>Emoticones en Perfil</th>
+                      <th>Link</th>
+                      <th>Confirmación Etiqueta</th>
+                  </tr>
+                </thead>
+        
+                <tbody id="table_body">
+                
+                </tbody>
+
+              </table>
+        </div>
+    </div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script>
+    /* Consulta de perfil */
+    const url = 'http://localhost:8080/',
+    method_readProfiles = 'getDataProfile/',
+    method_readDir = 'readRouterProfiles'
+
+    let count_render = 1
+    
+    /* Leer cada uno de los perfiles*/
+    function getDataProfile(profile, method){
+        
+        let url__ = url+method+profile,
+        html_report = '',
+        class_group = {
+                'G1, Posiblemente Válido' : 'green lighten-2',
+                'G2, Posiblemente No Válido' : 'red  lighten-2',
+                'G3, Posiblemente Válido' : 'orange lighten-4'
+            }
+
+
+        fetch(url__).then(response => response.json()).then(k => {
+            
+            // Renderizar informacion de prediccion de perfil
+            if (k['result_process_data']['number_friends'] > 0) {
+                let im = k['facebook_result']['profile_image'] == 'none' ? 'no' : 'si'
+
+                html_report += `
+                    <tr>
+                        <td>${count_render}</td>
+                        <td><a target="_blank" href="https://facebook.com/${k['facebook_path']}"> _xx${k['facebook_path'].slice(2,7)}_xx</a></td>                        
+                        <td><img alt="${im}" onerror="this.src='profile.jpg';" src="${k['facebook_result']['profile_image']}" width="100px"></td>
+                        <td class="${class_group[k['result_prediction']]}">${k['result_prediction']}</td>
+                        <td>${k['result_process_data']['number_friends']}</td>
+                        <td>${k['result_process_data']['followers']}</td>                        
+                        <td>${k['result_process_data']['count_emojis_caracters']}</td>
+                        <td>https://facebook.com/${k['facebook_path']}</td>
+                        <td></td>
+                    </tr>
+                ` 
+
+                count_render = count_render + 1
+            }          
+            
+            $('#table_body').append(html_report)
+            
+        })
+        
+     
+    }
+
+    /* Leer los archivos del directorio de perfiles */
+    function readRouterProfiles(){
+
+        let url__ = url+method_readDir,
+        limit_profiles = 50,
+        process_profile = []
+
+        fetch(url__).then(response => response.json()).then(data => {
+            // Procesar perfiles
+            if (data.status == 'success') {
+
+                /* procesar each */
+                for (let index = 0; index < limit_profiles; index++) {
+                    
+                    let P = data['files'],
+                    rand_profile = Math.round((Math.random()*P.length)),
+                    value_profile = P[rand_profile].slice(0, P[rand_profile].length - 4)
+                    
+                    // incluir los que no se han procesado
+                    if (!process_profile.includes(value_profile)) {
+                        process_profile.push(value_profile)
+                    }
+
+                }
+            }
+            
+            // renderizar
+            initRequest(process_profile)
+        })
+        
+    }
+
+    /* Enviar peticion de datos */
+    function initRequest(p){
+        let limit_t = p.length,
+        v_item = 0,
+        loop = setInterval(() => {
+            
+            // Procesar consulta de perfil
+            if (p[v_item]) {
+                getDataProfile(p[v_item], method_readProfiles)    
+            }else{
+                // die interval
+                clearInterval(loop)
+            }
+
+            v_item = v_item + 1
+        }, 5000);
+
+        
+    }
+
+</script>
+</body>
+</html>

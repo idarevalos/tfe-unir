@@ -1,1 +1,1 @@
-{'name': 'Milë Mëndözä(Solo creo en mi Dios) ', 'name_user_sub': 'Que Sea Eterno Todo Lo Que Nos Hace Feliz 😘 ', 'number_friends': 1, 'job': '', 'profile_image': 'https://scontent.fbog2-1.fna.fbcdn.net/v/t1.0-1/c0.0.200.200a/p200x200/135287691_1339907903010288_2270329957087109980_n.jpg?_nc_cat=102&ccb=2&_nc_sid=7206a8&_nc_ohc=YRQ8cRUhEpsAX88bNJM&_nc_ht=scontent.fbog2-1.fna&tp=27&oh=8b9294f9ff20ca4f5ebdf72d56581d0a&oe=603949A3'}
+{'name': '', 'name_user_sub': '', 'number_friends': 0, 'job': '', 'profile_image': 'none'}

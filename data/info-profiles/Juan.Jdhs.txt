@@ -1,1 +1,1 @@
-{'name': 'Juan De Diios H Salazar ', 'name_user_sub': 'Chamo � ', 'number_friends': 1, 'followers': '88 seguidores', 'job': 'De Maracay ', 'profile_image': 'https://scontent.fbog2-1.fna.fbcdn.net/v/t1.0-1/p200x200/147060051_4016989391697172_94705144694376460_o.jpg?_nc_cat=100&ccb=3&_nc_sid=7206a8&_nc_ohc=zWvNcx1e_z0AX-ukLZV&_nc_ht=scontent.fbog2-1.fna&tp=6&oh=225890ceecfc51b9fb73e78a24debc54&oe=6048F564'}
+{'name': '', 'name_user_sub': '', 'number_friends': 0, 'job': '', 'profile_image': 'none'}

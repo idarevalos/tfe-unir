@@ -8,7 +8,7 @@ import json
 import codecs
 
 app = Flask(__name__)
-domains_allowed = ['http://ec2-54-84-79-47.compute-1.amazonaws.com']
+domains_allowed = ['http://ec2-54-84-79-47.compute-1.amazonaws.com','http://idarevalos.co/*']
 cors = CORS(app, resources={r"/*": {"origins": domains_allowed}}) # 
 
 # BASE = '/var/www/html/jd/'
@@ -95,8 +95,8 @@ def readProfilesProcessRow(row_param = 0):
         new_row['joined_in_since'] = (2021 - cleanData('joined', row['joined_in']))
 
     else:
-        new_row['joined_in'] = 0
-        new_row['joined_in_since'] = 0
+        new_row['joined_in'] = 1
+        new_row['joined_in_since'] = 1
 
     ## Live
     if 'live' in row:
@@ -144,7 +144,7 @@ def valideIAModelFacebook(data):
         
 
     ## CLASES DEFINIDAS
-    group = ['Posiblemente Válido G1','Posiblemente No Válido G2','Posiblemente No Válido G3']
+    group = ['G1, Posiblemente Válido','G2, Posiblemente No Válido','G3, Posiblemente Válido']
     
     pkl_filename = BASE+'/00_model_kmeans_supervise.pkl'
 
@@ -252,6 +252,15 @@ def cleanData(clean_to, txt_to_clean):
     
             
     return final_txt
+
+@app.route('/readRouterProfiles')
+def readRouterProfiles():
+    files = os.listdir('data/info-profiles/')
+    
+    return jsonify({
+        "status":"success",
+        "files": files
+    })
 
 
 # Inicializarlo

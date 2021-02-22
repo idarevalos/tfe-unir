@@ -1,1 +1,1 @@
-{'name': 'Notificaciones Mörä ÄńGëlä ', 'name_user_sub': ' ', 'number_friends': 1, 'job': '', 'profile_image': 'none'}
+{'name': 'Mörä ÄńGëlä ', 'name_user_sub': ' ', 'number_friends': 1, 'job': '', 'profile_image': 'https://scontent.fbog2-1.fna.fbcdn.net/v/t1.0-1/p200x200/146690006_253270186318783_4038695084870607221_n.jpg?_nc_cat=100&ccb=3&_nc_sid=7206a8&_nc_ohc=HgIRFVWAmLQAX93HjJo&_nc_ht=scontent.fbog2-1.fna&tp=6&oh=d99aba06680b3dfcdf4f4a7bf8b74874&oe=604F80B9'}

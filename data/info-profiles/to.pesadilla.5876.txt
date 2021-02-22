@@ -1,1 +1,1 @@
-{'name': 'Notificaciones Antonio Arteaga ', 'name_user_sub': ' ', 'number_friends': 576, 'job': '', 'profile_image': 'none'}
+{'name': '', 'name_user_sub': '', 'number_friends': 0, 'job': '', 'profile_image': 'none'}

@@ -1,1 +1,1 @@
-{'name': 'Notificaciones Laura Daza ', 'name_user_sub': '♡.😭💔21~01~21💔😭Sebas:(😭. ', 'number_friends': 2172, 'live': 'Vive en Sibaté', 'job': 'Vive en Sibaté ', 'profile_image': 'none'}
+{'name': 'Laura Daza ', 'name_user_sub': '♡.😭💔21~01~21💔😭Sebas:(😭. ', 'number_friends': 1, 'live': 'Vive en Sibaté', 'job': 'Vive en Sibaté ', 'profile_image': 'none'}

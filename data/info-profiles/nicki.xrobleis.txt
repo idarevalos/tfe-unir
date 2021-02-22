@@ -1,1 +1,1 @@
-{'name': 'Nicki XRobleis ', 'name_user_sub': '-𝐀𝐧𝐝 𝐡𝐞𝐲, 𝐲𝐨𝐮, 𝐃𝐨𝐧𝐭 𝐲𝐨𝐮 𝐭𝐡𝐢𝐧𝐤 𝐢𝐭𝐬 𝐤𝐢𝐧𝐝 𝐨𝐟 𝐜𝐮𝐭𝐞..? ', 'number_friends': 128, 'live': 'Vive en El Hoyo De Puta, Monte Plata, Dominican Republic', 'job': 'Trabaja en Minecraft ', 'profile_image': 'none'}
+{'name': 'Nicki XRobleis ', 'name_user_sub': '-𝐀𝐧𝐝 𝐡𝐞𝐲, 𝐲𝐨𝐮, 𝐃𝐨𝐧𝐭 𝐲𝐨𝐮 𝐭𝐡𝐢𝐧𝐤 𝐢𝐭𝐬 𝐤𝐢𝐧𝐝 𝐨𝐟 𝐜𝐮𝐭𝐞..? ', 'number_friends': 127, 'live': 'Vive en El Hoyo De Puta, Monte Plata, Dominican Republic', 'job': 'Trabaja en Minecraft ', 'profile_image': 'none'}

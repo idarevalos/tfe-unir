@@ -1,1 +1,1 @@
-{'name': 'Estefania Tonys ', 'name_user_sub': 'Amor de mi vida💛.           °🐘° ', 'number_friends': 1, 'job': 'Soltera ', 'profile_image': 'none'}
+{'name': 'Notificaciones Estefania Tonys ', 'name_user_sub': 'Amor de mi vida💛.           °🐘° ', 'number_friends': 1, 'job': 'Soltera ', 'profile_image': 'none'}

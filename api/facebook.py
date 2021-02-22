@@ -14,8 +14,14 @@ BASE = ''
 class seleniumFacebook():
 
     def __init__(self, **kwargs):
-        self.u = "ivandaniel.arevalo884@comunidadunir.net"
-        self.p = "TFFMKMGZEN"     
+        # self.u = "ivandaniel.arevalo884@comunidadunir.net"
+        # self.p = "TFFMKMGZEN"    
+        self.u = "idarevalos@yahoo.com"
+        # self.u = "juntostecnico40@gmail.com"
+        # self.u = "idarevalos@outlook.es"
+        
+        self.p = "7aK5umESBPKLZRz"   
+         
 
         # self.CHROMEDRIVER_PATH = '/usr/local/bin/chromedriver'
         self.CHROMEDRIVER_PATH = 'api/webdriver/geckodriver.exe'

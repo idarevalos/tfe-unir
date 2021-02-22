@@ -1,1 +1,1 @@
-{'name': 'Notificaciones Arianna Suarez Matiz ', 'name_user_sub': 'la vida me ha enseñado a ser una mujer que no se le arrodilla a nadie... y nadie es nadie 😘😘😘 ', 'number_friends': 1, 'joined_in': 'Se unió en: Agosto de 2008', 'job': 'Se unió en: Agosto de 2008 ', 'profile_image': 'none'}
+{'name': 'Arianna Suarez Matiz ', 'name_user_sub': 'la vida me ha enseñado a ser una mujer que no se le arrodilla a nadie... y nadie es nadie 😘😘😘 ', 'number_friends': 1, 'job': 'Se unió en agosto de 2008 ', 'profile_image': 'none'}

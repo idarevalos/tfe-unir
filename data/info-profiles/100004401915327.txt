@@ -1,1 +1,1 @@
-{'name': 'Notificaciones Juan Jimenez ', 'name_user_sub': '⚽🏆MICRO🏆⚽°   °°💜🐯😻°°   🌈Laura Arias 🌈 🌹💕 🥺 M Amiga 🥺💕🌹  ', 'number_friends': 1, 'job': '', 'profile_image': 'none'}
+{'name': 'Juan Jimenez ', 'name_user_sub': '⚽🏆MICRO🏆⚽°   °°💜🐯😻°°🌹💕 🥺 M Amiga 🥺💕🌹  ', 'number_friends': 1, 'job': '', 'profile_image': 'none'}

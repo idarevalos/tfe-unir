@@ -1,1 +1,1 @@
-{'name': 'Robleisiutu Fanss(robleixking) ', 'name_user_sub': ' ', 'number_friends': 1, 'job': '', 'profile_image': 'https://scontent.fbog2-2.fna.fbcdn.net/v/t1.0-1/p200x200/143522220_198593718681245_2122382680654987122_n.jpg?_nc_cat=103&ccb=2&_nc_sid=7206a8&_nc_ohc=2ZxoQYjGmJkAX_Ov_Sk&_nc_ht=scontent.fbog2-2.fna&tp=6&oh=941422ed4b03f8d9ed3fd44d87050ff5&oe=603A43E0'}
+{'name': '', 'name_user_sub': '', 'number_friends': 0, 'job': '', 'profile_image': 'none'}

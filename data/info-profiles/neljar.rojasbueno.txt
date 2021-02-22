@@ -1,1 +1,1 @@
-{'name': 'Notificaciones Neljar Rojas Bueno ', 'name_user_sub': ' ', 'number_friends': 1, 'live': 'Vive en Medellín', 'job': 'Vive en Medellín ', 'profile_image': 'https://scontent.fbog2-2.fna.fbcdn.net/v/t1.0-1/p200x200/89034336_222008675597355_6080579604051918848_o.jpg?_nc_cat=103&ccb=2&_nc_sid=7206a8&_nc_ohc=eeBE9MY7KH0AX-PMrYd&_nc_ht=scontent.fbog2-2.fna&tp=6&oh=91090581413854b5b19cd66e3f2cd8f3&oe=603DFA44'}
+{'name': '', 'name_user_sub': '', 'number_friends': 0, 'job': '', 'profile_image': 'none'}

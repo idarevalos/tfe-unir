@@ -1,1 +1,1 @@
-{'name': 'Notificaciones Vale Xtomi ', 'name_user_sub': ' ', 'number_friends': 170, 'job': '', 'profile_image': 'https://scontent.fbog2-2.fna.fbcdn.net/v/t1.0-1/p200x200/126426953_179990273764459_5101639201032278665_n.jpg?_nc_cat=107&ccb=2&_nc_sid=7206a8&_nc_ohc=ITwdv94LfeMAX84FmTl&_nc_ht=scontent.fbog2-2.fna&tp=6&oh=5e75c66b46c59d1ead904ce9f8bfe425&oe=603785F0'}
+{'name': '', 'name_user_sub': '', 'number_friends': 0, 'job': '', 'profile_image': 'none'}

@@ -1,1 +1,1 @@
-{'name': 'Notificaciones Nayibe Romero(Nayis) ', 'name_user_sub': '♥️🥺⚽~🥰😍👫♥️ ', 'number_friends': 1, 'study_finish': 'Estudió en I.E.D LA VICTORIA', 'live': 'Vive en Bogotá', 'job': 'Trabaja en IED LA VICTORIA ', 'profile_image': 'none'}
+{'name': '', 'name_user_sub': '', 'number_friends': 0, 'job': '', 'profile_image': 'none'}

@@ -1,1 +1,1 @@
-{'name': 'Notificaciones Ximena Celis ', 'name_user_sub': '💖. ', 'number_friends': 2, 'job': '', 'profile_image': 'https://scontent.fbog6-1.fna.fbcdn.net/v/t1.0-1/p200x200/120482492_196080921879419_2677845885695835472_n.jpg?_nc_cat=102&ccb=2&_nc_sid=7206a8&_nc_ohc=O0-mXYcfSSIAX8yCi-X&_nc_ht=scontent.fbog6-1.fna&tp=6&oh=2d2f53dfe530b841cf7f199e37e697e3&oe=603F4A50'}
+{'name': '', 'name_user_sub': '', 'number_friends': 0, 'job': '', 'profile_image': 'none'}

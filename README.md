@@ -15,3 +15,8 @@ Mediante técnicas de Inteligencia Artificial, aplicando algoritmos de aprendiza
 # Recursos usados
 [Google Firebase] (https://firebase.google.com/docs/hosting/)
 [Amazon Web Services - Lambda] (https://aws.amazon.com/es/lambda/)
+
+## Recursos adicionales en la construcción de modelos
+[Valor optimo de K] (https://jarroba.com/seleccion-del-numero-optimo-clusters/)
+[Método de Gap] (https://github.com/RicardoMoya/OptimalNumClusters/blob/master/Gap.py)
+

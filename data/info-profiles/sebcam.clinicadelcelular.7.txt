@@ -1,1 +1,1 @@
-{'name': 'Notificaciones Seb Cam Clinica Del Celular ', 'name_user_sub': ' ', 'number_friends': 2676, 'live': 'Vive en Sibaté', 'job': 'Vive en Sibaté ', 'profile_image': 'https://scontent.fbog2-2.fna.fbcdn.net/v/t1.0-1/s200x200/109261979_115223843596639_6946838925398361138_o.jpg?_nc_cat=105&ccb=2&_nc_sid=7206a8&_nc_ohc=oiFJAwKWkVIAX9OOKg0&_nc_ht=scontent.fbog2-2.fna&tp=7&oh=20fcf2e7b1fe145577eaab67e52e1054&oe=603FA1AD'}
+{'name': '', 'name_user_sub': '', 'number_friends': 0, 'job': '', 'profile_image': 'none'}

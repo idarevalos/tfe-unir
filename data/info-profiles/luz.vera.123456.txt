@@ -1,1 +1,1 @@
-{'name': 'Luni Ta ', 'name_user_sub': 'Mejor Amigo🥺🐨😻.°070221🥺🦁⚓°Mi Amor Bonito🥺🦁⚓Me haces muy feliz🦁⚓👫17🥺🐾Novia🐾🥺 ', 'number_friends': 1, 'job': '', 'profile_image': 'none'}
+{'name': 'Luni Ta ', 'name_user_sub': '•Jeisson❤️🐿️•Mejor Amigo🥺🐨😻.°070221🥺🦁⚓°Mi Amor Bonito🥺🦁⚓17🥺🐾Novia😻 ', 'number_friends': 1, 'job': '', 'profile_image': 'none'}

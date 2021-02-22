@@ -1,1 +1,1 @@
-{'name': 'Notificaciones Stïck Rämïrëz ', 'name_user_sub': ' ', 'number_friends': 706, 'job': '', 'profile_image': 'none'}
+{'name': 'Stïck Rämïrëz ', 'name_user_sub': ' ', 'number_friends': 801, 'job': '', 'profile_image': 'none'}
