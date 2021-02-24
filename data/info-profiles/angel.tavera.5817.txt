@@ -1,1 +1,0 @@
-{'name': 'Angel Tavera ', 'name_user_sub': '💲Esperando El Día De Mi Suerte💸. ', 'number_friends': 4937, 'followers': '1.597 seguidores', 'job': 'Soltero ', 'profile_image': 'none'}

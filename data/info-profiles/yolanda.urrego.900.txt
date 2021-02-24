@@ -1,1 +1,0 @@
-{'name': 'Notificaciones Yolanda Urrego ', 'name_user_sub': ' ', 'number_friends': 299, 'job': '', 'profile_image': 'none'}

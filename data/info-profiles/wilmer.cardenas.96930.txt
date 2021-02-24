@@ -1,1 +1,0 @@
-{'name': 'Notificaciones Alexander Cárdenas ', 'name_user_sub': ' ', 'number_friends': 1698, 'live': 'Vive en Bogotá', 'job': 'Vive en Bogotá ', 'profile_image': 'none'}

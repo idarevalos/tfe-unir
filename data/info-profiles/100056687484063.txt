@@ -1,1 +1,0 @@
-{'name': 'Notificaciones Alejandro Arias ', 'name_user_sub': ' ', 'number_friends': 118, 'job': '', 'profile_image': 'none'}

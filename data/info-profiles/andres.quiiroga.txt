@@ -1,1 +1,0 @@
-{'name': 'Notificaciones Andres Quiiroga ', 'name_user_sub': ' ', 'number_friends': 2, 'study_finish': 'Estudió en Colegio Mariano Santamaria', 'followers': '243 seguidores', 'job': 'Estudió en Colegio Mariano Santamaria ', 'profile_image': 'none'}

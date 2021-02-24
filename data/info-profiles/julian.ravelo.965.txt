@@ -1,1 +1,0 @@
-{'name': 'Notificaciones Ju Lian ', 'name_user_sub': ' ', 'number_friends': 4954, 'study_finish': 'Estudió en Universidad Nacional Abierta Y  A Distancia Unad', 'live': 'Vive en El Rosal (Cundinamarca)', 'job': 'Trabaja en no trabajo yo estudio ', 'profile_image': 'none'}

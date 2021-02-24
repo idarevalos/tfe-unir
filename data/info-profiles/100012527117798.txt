@@ -1,1 +1,0 @@
-{'name': 'Notificaciones Yuri Catalina Diaz(Mariana) ', 'name_user_sub': '💙✨J.C.P.G✨💙 ', 'number_friends': 1, 'joined_in': 'Se unió en: Junio de 2016', 'job': 'Se unió en: Junio de 2016 ', 'profile_image': 'none'}

@@ -1,1 +1,0 @@
-{'name': 'Guevara Diaz Vane ', 'name_user_sub': 'NO acepto solicitudes sin foto de perfil UwU. ', 'number_friends': 1, 'study_finish': 'Estudió en Institución Educativa Departamental General Santander', 'live': 'Vive en Sibaté', 'job': 'Estudiar en Institución Educativa Departamental General Santander ', 'profile_image': 'none'}

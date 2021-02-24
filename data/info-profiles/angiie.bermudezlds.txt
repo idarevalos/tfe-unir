@@ -1,1 +1,0 @@
-{'name': 'AnGie Moreno ', 'name_user_sub': '.🤓🖕👑. ', 'number_friends': 4547, 'job': 'Svera_Lacra ', 'profile_image': 'none'}

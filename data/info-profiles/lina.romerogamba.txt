@@ -1,1 +1,0 @@
-{'name': 'Notificaciones Lina Romero ', 'name_user_sub': ' ', 'number_friends': 1644, 'study_finish': 'Estudió en Gimnasio Campestre Educación Dinámica', 'live': 'Vive en Mesitas, Cundinamarca, Colombia', 'job': 'Estudió en Gimnasio Campestre Educación Dinámica ', 'profile_image': 'none'}

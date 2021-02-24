@@ -1,1 +1,0 @@
-{'name': 'Alexandra Taminche ', 'name_user_sub': ' ', 'number_friends': 423, 'study_finish': 'Estudió en Miguel Grau Seminario', 'live': 'Vive en Lima', 'job': 'Trabaja en Facebook ', 'profile_image': 'none'}

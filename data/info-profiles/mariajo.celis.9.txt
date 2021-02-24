@@ -1,1 +1,0 @@
-{'name': 'Maria ', 'name_user_sub': 'hay personas con las que solo coincidimos un momento:3. ', 'number_friends': 1, 'study_finish': 'Estudió en Institución Educativa Las Villas Sede Libertadores', 'live': 'Vive en Soacha', 'followers': '1.317 seguidores', 'job': 'Trabaja en No Trabajo, A Mi Me Mantienen <3 ', 'profile_image': 'none'}

@@ -1,1 +1,0 @@
-{'name': 'Notificaciones La Novida De Peppa Pig Dos ', 'name_user_sub': 'soy nicki pero también soy la novia de peppa pig ', 'number_friends': 68, 'live': 'Vive en Nueva York', 'job': 'Vive en Nueva York ', 'profile_image': 'none'}

@@ -1,1 +1,0 @@
-{'name': 'Ka Ren ', 'name_user_sub': 'PULPITO🐙  ', 'number_friends': 4555, 'study_finish': 'Estudió en institucion educativa de llorente', 'live': 'Vive en Llorente, Narino, Colombia', 'job': 'Estudió en institucion educativa de llorente ', 'profile_image': 'none'}

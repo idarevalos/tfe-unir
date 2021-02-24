@@ -1,1 +1,0 @@
-{'name': 'Notificaciones Nicol Poveda ', 'name_user_sub': '💔🐛💚.MAMIGA👭🐇.14°01°21😻🐇💌.210121💔⚽  ', 'number_friends': 607, 'study_finish': 'Estudió en Colegio General Santander', 'live': 'Vive en Sibaté', 'job': 'Trabaja en Nada ', 'profile_image': 'none'}

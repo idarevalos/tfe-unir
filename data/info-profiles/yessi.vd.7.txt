@@ -1,1 +1,0 @@
-{'name': 'Notificaciones Yessica Vásquez ', 'name_user_sub': 'Siempre humildes y amables, pacientes, tolerantes unos con otros en amor.Efesios 4:2 ', 'number_friends': 620, 'live': 'Vive en Bogotá', 'job': 'Vive en Bogotá ', 'profile_image': 'none'}

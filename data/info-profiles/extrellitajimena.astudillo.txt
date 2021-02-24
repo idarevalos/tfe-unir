@@ -1,1 +1,0 @@
-{'name': 'Notificaciones Laura Jimena ', 'name_user_sub': '🛹💙. ', 'number_friends': 1, 'job': '', 'profile_image': 'none'}

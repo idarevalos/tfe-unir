@@ -1,1 +1,0 @@
-{'name': 'Notificaciones Jeimy Bohorquez ', 'name_user_sub': ' ', 'number_friends': 641, 'study_finish': 'Estudió en Institución Educativa Departamental General Santander', 'live': 'Vive en Sibaté', 'job': 'Estudió en Institución Educativa Departamental General Santander ', 'profile_image': 'none'}

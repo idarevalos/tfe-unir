@@ -1,1 +1,0 @@
-{'name': 'Dayana Duarte ', 'name_user_sub': '😻🥺Ositoo🐙🍔. .🥰Mejor Amigo🐝🍟. . 💜MiRayitoDeLuz🐉.. Boba Hptaa🥺🐢. . 🐷Mii Bebe💟 💚🐊 ', 'number_friends': 1847, 'study_finish': 'Estudió en ciudad de villavicencio', 'job': 'Estudió en ciudad de villavicencio ', 'profile_image': 'none'}

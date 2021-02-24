@@ -1,1 +1,0 @@
-{'name': 'Notificaciones Catalina Posada Monsalve ', 'name_user_sub': '💛🐼🌠 ', 'number_friends': 1, 'joined_in': 'Se unió en: Noviembre de 2016', 'job': 'Se unió en: Noviembre de 2016 ', 'profile_image': 'none'}

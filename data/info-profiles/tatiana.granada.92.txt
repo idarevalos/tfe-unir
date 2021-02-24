@@ -1,1 +1,0 @@
-{'name': 'Tatiana Duarte ', 'name_user_sub': '🥺-𝓽𝓮 𝓪𝓶𝓪𝓻𝓮 𝓹𝓸𝓻 𝓽𝓸𝓭𝓪 𝓵𝓪 𝓿𝓲𝓭𝓪😩.03-12-2020😻🐧🖇. ', 'number_friends': 4904, 'joined_in': 'Se unió en: Septiembre de 2017', 'live': 'Vive en Bogotá', 'job': 'Vive en Bogotá ', 'profile_image': 'none'}

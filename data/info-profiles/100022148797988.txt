@@ -1,1 +1,0 @@
-{'name': 'Notificaciones Jôhân Pârrâgâ ', 'name_user_sub': ' ', 'number_friends': 1461, 'study_finish': 'Estudió en colegio departamental general santander', 'live': 'Vive en Sibaté', 'job': 'Trabaja en Facebook App ', 'profile_image': 'none'}

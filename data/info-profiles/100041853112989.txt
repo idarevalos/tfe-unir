@@ -1,1 +1,0 @@
-{'name': 'Leo Sanchez ', 'name_user_sub': ' ', 'number_friends': 4183, 'study_finish': 'Estudió en UNILATINA', 'live': 'Vive en Bogotá', 'followers': '1467 seguidores', 'job': 'Estudió en UNILATINA ', 'profile_image': 'none'}

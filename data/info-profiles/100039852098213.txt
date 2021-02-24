@@ -1,1 +1,0 @@
-{'name': 'Notificaciones Dilan Rodriguez ', 'name_user_sub': ' ', 'number_friends': 295, 'study_finish': 'Estudió en colegio departamental de sibate', 'live': 'Vive en Sibaté', 'job': 'Estudió en colegio departamental de sibate ', 'profile_image': 'none'}

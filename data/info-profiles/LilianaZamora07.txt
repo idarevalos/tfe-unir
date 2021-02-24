@@ -1,1 +1,0 @@
-{'name': 'Notificaciones Liliana Zamora(LiZa) ', 'name_user_sub': ' ', 'number_friends': 2624, 'joined_in': 'Se unió en: Agosto de 2012', 'study_finish': 'Estudió en I. E. D La Victoria', 'live': 'Vive en La Victoria, Cundinamarca, Colombia', 'followers': '1.270 seguidores', 'job': 'Estudió en SENA - Centro de Formación en Actividad Física y Cultura ', 'profile_image': 'none'}

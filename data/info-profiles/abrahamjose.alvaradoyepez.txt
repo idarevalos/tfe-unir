@@ -1,1 +1,0 @@
-{'name': 'Abrahám Alvarado ', 'name_user_sub': 'bienvenidos a mi perfil ', 'number_friends': 1183, 'study_finish': 'Estudió en Liceo Armando Reveron', 'live': 'Vive en Barquisimeto', 'job': 'Catcher en MLB ', 'profile_image': 'none'}

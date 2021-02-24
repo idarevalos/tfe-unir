@@ -1,1 +1,0 @@
-{'name': 'Annie Mariie ', 'name_user_sub': '║▌│ █│║║││█║║█║τσdσs lσs Dεяεcнσs яεsεяvαdσs..✨  .     .      **         🌕 *    .       🌎     ', 'number_friends': 1, 'job': '', 'profile_image': 'none'}

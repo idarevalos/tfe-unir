@@ -1,1 +1,0 @@
-{'name': 'Johan Rodríguez ', 'name_user_sub': 'Millonarios 💙💙 ', 'number_friends': 0, 'study_finish': 'Estudió en Institución Educativa Las Villas Sede Libertadores', 'live': 'Vive en Soacha', 'job': 'Estudió en Institución Educativa Las Villas Sede Libertadores ', 'profile_image': 'none'}

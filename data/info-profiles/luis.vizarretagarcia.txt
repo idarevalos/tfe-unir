@@ -1,1 +1,0 @@
-{'name': 'Luis Vizarreta Garcia ', 'name_user_sub': ' ', 'number_friends': 342, 'study_finish': 'Estudió en CASA ABIERTA DE NAZARETH', 'live': 'Vive en Lima', 'job': 'Trabaja en Trabajo las 24 hrs en tu corazon ', 'profile_image': 'none'}

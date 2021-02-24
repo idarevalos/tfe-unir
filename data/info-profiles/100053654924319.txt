@@ -1,1 +1,0 @@
-{'name': 'Geraldinee ', 'name_user_sub': '³⁰ 🦒👭💗.⁰¹🖇️💗.🐨💜. ', 'number_friends': 1, 'study_finish': 'Estudió en institucion educativa compartir soacha', 'live': 'Vive en Soacha', 'followers': '744 seguidores', 'job': 'Trabajó en Facebook ', 'profile_image': 'none'}

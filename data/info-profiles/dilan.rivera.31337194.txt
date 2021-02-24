@@ -1,1 +1,0 @@
-{'name': 'Notificaciones Dilan Rivera ', 'name_user_sub': ' 😤 ', 'number_friends': 1, 'study_finish': 'Estudió en Colegio Militar Manuel', 'live': 'Vive en Bogotá', 'followers': '1.362 seguidores', 'job': 'Estudió en Colegio Militar Manuel ', 'profile_image': 'none'}

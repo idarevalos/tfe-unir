@@ -1,1 +1,0 @@
-{'name': 'Notificaciones Ximena Parra ', 'name_user_sub': ' ', 'number_friends': 4510, 'joined_in': 'Se unió en: Abril de 2018', 'study_finish': 'Estudió en Colegio Mariano Santamaria', 'job': 'Estudió en Colegio Mariano Santamaria ', 'profile_image': 'none'}

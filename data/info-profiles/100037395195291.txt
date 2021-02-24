@@ -1,1 +1,0 @@
-{'name': 'Roland RZ(Street workout) ', 'name_user_sub': '👺Oakley👺 ', 'number_friends': 3834, 'study_finish': 'Estudió en Almirante  Padilla  PROM 98 - 2000', 'live': 'Vive en Bogotá', 'job': 'Barista en Club Atlético Nacional Oficial ', 'profile_image': 'none'}

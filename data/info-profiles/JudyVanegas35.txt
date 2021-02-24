@@ -1,1 +1,0 @@
-{'name': 'Judy Vanegas ', 'name_user_sub': '♡♡♡ ', 'number_friends': 2, 'study_finish': 'Estudió en I.E.D LA VICTORIA', 'live': 'Vive en Mesitas, Cundinamarca, Colombia', 'job': 'Estudió en I.E.D LA VICTORIA ', 'profile_image': 'none'}

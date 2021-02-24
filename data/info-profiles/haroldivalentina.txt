@@ -1,1 +1,0 @@
-{'name': 'Notificaciones Ĥäřöld Ďäv̇ïd Ťöřřëŝ ', 'name_user_sub': '🐙☄️✨Vïvïš🐙☄️✨ ', 'number_friends': 1686, 'study_finish': 'Estudió en I.E.D LAS VILLAS', 'live': 'Vive en Bogotá', 'job': 'Atlético nacional en Yo trabajo en la vagancia y qe? ', 'profile_image': 'none'}

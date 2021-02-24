@@ -1,1 +1,0 @@
-{'name': 'Notificaciones Rubian Diaz ', 'name_user_sub': ' ', 'number_friends': 42, 'job': '', 'profile_image': 'none'}

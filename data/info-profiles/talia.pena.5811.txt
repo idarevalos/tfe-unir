@@ -1,1 +1,0 @@
-{'name': 'Pëñä Țhälïă ', 'name_user_sub': '               ♧                      ♧                             ♧ ', 'number_friends': 0, 'job': '', 'profile_image': 'none'}

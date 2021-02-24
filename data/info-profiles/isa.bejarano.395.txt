@@ -1,1 +1,0 @@
-{'name': 'Notificaciones Isa Bejarano ', 'name_user_sub': ' ', 'number_friends': 1, 'study_finish': 'Estudió en I.E.D LA VICTORIA', 'live': 'Vive en Mesitas, Cundinamarca, Colombia', 'followers': '548 seguidores', 'job': 'Trabaja en no trabajo solo estudio ', 'profile_image': 'none'}

@@ -1,1 +1,0 @@
-{'name': 'Notificaciones Leidy Caterin Pte Alayon(Yeyi) ', 'name_user_sub': 'DIOS NO SE OLVIDA DE ESA ORACIÓN QUE HICISTE AQUEL DÍA, CUANDO TUS LÁGRIMAS ERAN MÁS QUE TUS PALABRAS ', 'number_friends': 1, 'joined_in': 'Se unió en: Mayo de 2012', 'job': 'Se unió en: Mayo de 2012 ', 'profile_image': 'none'}

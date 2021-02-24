@@ -1,1 +1,0 @@
-{'name': 'Ådri Cruz ', 'name_user_sub': '-sɪᴇᴍᴘʀᴇ sᴇʀᴀs ᴍɪ ɢʀᴀɴ ᴀᴘᴏʏᴏ-💚🐢-🐧💗-🦄🤍 ', 'number_friends': 1, 'live': 'Vive en Bogotá', 'followers': '438 seguidores', 'job': 'Vive en Bogotá ', 'profile_image': 'none'}
