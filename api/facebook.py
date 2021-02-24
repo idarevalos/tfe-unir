@@ -15,9 +15,8 @@ class seleniumFacebook():
 
     def __init__(self, **kwargs):
         self.u = "ivandaniel.arevalo884@comunidadunir.net"
-        self.p = "TFFMKMGZEN"    
-        
-        # self.p = "xxxxxxxxxxxxxxxxx"   
+        self.p = "xxxxxxxxxxxxxxxxx"    
+         
          
         self.CHROMEDRIVER_PATH = '/usr/local/bin/chromedriver'
         # self.CHROMEDRIVER_PATH = 'api/webdriver/geckodriver.exe'
