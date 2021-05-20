@@ -17,7 +17,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 2,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -25,8 +25,8 @@
     "live": 0,
     "study_actually": 0,
     "flag_study_actually": 0,
-    "count_normal_words": 3,
-    "count_emojis_caracters": 8,
+    "count_normal_words": 0,
+    "count_emojis_caracters": 0,
     "name": 1,
     "me": 1,
     "friend": 1,
@@ -42,8 +42,8 @@
     "live": 0,
     "study_actually": 0,
     "flag_study_actually": 0,
-    "count_normal_words": 4,
-    "count_emojis_caracters": 20,
+    "count_normal_words": 2,
+    "count_emojis_caracters": 18,
     "name": 1,
     "me": 1,
     "friend": 1,
@@ -85,7 +85,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 1117,
+    "number_friends": 1119,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -238,7 +238,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 1562,
+    "number_friends": 1580,
     "followers": 0,
     "job": 1,
     "joined_in": 2013,
@@ -272,7 +272,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 4969,
+    "number_friends": 4986,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -358,7 +358,7 @@
   },
   {
     "number_friends": 827,
-    "followers": 82,
+    "followers": 0,
     "job": 1,
     "joined_in": 1,
     "joined_in_since": 1,
@@ -493,14 +493,14 @@
     "study_finish": 1
   },
   {
-    "number_friends": 1,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
-    "joined_in": 2014,
-    "joined_in_since": 7,
-    "live": 1,
-    "study_actually": 1,
-    "flag_study_actually": 1,
+    "joined_in": 1,
+    "joined_in_since": 1,
+    "live": 0,
+    "study_actually": 0,
+    "flag_study_actually": 0,
     "count_normal_words": 0,
     "count_emojis_caracters": 0,
     "name": 1,
@@ -545,7 +545,7 @@
   },
   {
     "number_friends": 1,
-    "followers": 1285,
+    "followers": 1297,
     "job": 1,
     "joined_in": 2014,
     "joined_in_since": 7,
@@ -595,12 +595,12 @@
     "study_finish": 1
   },
   {
-    "number_friends": 499,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
     "joined_in_since": 1,
-    "live": 1,
+    "live": 0,
     "study_actually": 0,
     "flag_study_actually": 0,
     "count_normal_words": 0,
@@ -1037,7 +1037,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 1,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -1088,8 +1088,8 @@
     "study_finish": 1
   },
   {
-    "number_friends": 4957,
-    "followers": 589,
+    "number_friends": 4960,
+    "followers": 0,
     "job": 1,
     "joined_in": 1,
     "joined_in_since": 1,
@@ -1173,16 +1173,16 @@
     "study_finish": 1
   },
   {
-    "number_friends": 1,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
     "joined_in_since": 1,
-    "live": 1,
+    "live": 0,
     "study_actually": 0,
     "flag_study_actually": 0,
-    "count_normal_words": 1,
-    "count_emojis_caracters": 2,
+    "count_normal_words": 0,
+    "count_emojis_caracters": 0,
     "name": 1,
     "me": 1,
     "friend": 1,
@@ -1224,7 +1224,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 2499,
+    "number_friends": 2500,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -1258,7 +1258,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 1,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -1266,8 +1266,8 @@
     "live": 0,
     "study_actually": 0,
     "flag_study_actually": 0,
-    "count_normal_words": 1,
-    "count_emojis_caracters": 1,
+    "count_normal_words": 0,
+    "count_emojis_caracters": 0,
     "name": 1,
     "me": 1,
     "friend": 1,
@@ -1479,7 +1479,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 1352,
+    "number_friends": 1374,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -1598,16 +1598,16 @@
     "study_finish": 1
   },
   {
-    "number_friends": 1024,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
     "joined_in_since": 1,
-    "live": 1,
+    "live": 0,
     "study_actually": 0,
     "flag_study_actually": 0,
-    "count_normal_words": 10,
-    "count_emojis_caracters": 9,
+    "count_normal_words": 0,
+    "count_emojis_caracters": 0,
     "name": 1,
     "me": 1,
     "friend": 1,
@@ -1802,7 +1802,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 1,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -1810,8 +1810,8 @@
     "live": 0,
     "study_actually": 0,
     "flag_study_actually": 0,
-    "count_normal_words": 1,
-    "count_emojis_caracters": 1,
+    "count_normal_words": 0,
+    "count_emojis_caracters": 0,
     "name": 1,
     "me": 1,
     "friend": 1,
@@ -1819,7 +1819,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 3395,
+    "number_friends": 3392,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -1836,16 +1836,16 @@
     "study_finish": 1
   },
   {
-    "number_friends": 1,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
     "joined_in_since": 1,
-    "live": 1,
+    "live": 0,
     "study_actually": 0,
     "flag_study_actually": 0,
     "count_normal_words": 0,
-    "count_emojis_caracters": 9,
+    "count_emojis_caracters": 0,
     "name": 1,
     "me": 1,
     "friend": 1,
@@ -2074,16 +2074,16 @@
     "study_finish": 1
   },
   {
-    "number_friends": 2441,
-    "followers": 196,
+    "number_friends": 1,
+    "followers": 0,
     "job": 1,
     "joined_in": 1,
     "joined_in_since": 1,
     "live": 1,
     "study_actually": 0,
     "flag_study_actually": 0,
-    "count_normal_words": 3,
-    "count_emojis_caracters": 2,
+    "count_normal_words": 8,
+    "count_emojis_caracters": 5,
     "name": 1,
     "me": 1,
     "friend": 1,
@@ -2142,7 +2142,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 4,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -2363,8 +2363,8 @@
     "study_finish": 1
   },
   {
-    "number_friends": 1950,
-    "followers": 96,
+    "number_friends": 1952,
+    "followers": 100,
     "job": 1,
     "joined_in": 1,
     "joined_in_since": 1,
@@ -2397,12 +2397,12 @@
     "study_finish": 1
   },
   {
-    "number_friends": 0,
+    "number_friends": 924,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
     "joined_in_since": 1,
-    "live": 0,
+    "live": 1,
     "study_actually": 0,
     "flag_study_actually": 0,
     "count_normal_words": 0,
@@ -2601,11 +2601,11 @@
     "study_finish": 1
   },
   {
-    "number_friends": 1,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
-    "joined_in": 2017,
-    "joined_in_since": 4,
+    "joined_in": 1,
+    "joined_in_since": 1,
     "live": 0,
     "study_actually": 0,
     "flag_study_actually": 0,
@@ -2636,7 +2636,7 @@
   },
   {
     "number_friends": 5000,
-    "followers": 707,
+    "followers": 728,
     "job": 1,
     "joined_in": 1,
     "joined_in_since": 1,
@@ -2992,7 +2992,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 1695,
+    "number_friends": 1698,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -3128,12 +3128,12 @@
     "study_finish": 1
   },
   {
-    "number_friends": 785,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
     "joined_in_since": 1,
-    "live": 1,
+    "live": 0,
     "study_actually": 0,
     "flag_study_actually": 0,
     "count_normal_words": 0,
@@ -3145,16 +3145,16 @@
     "study_finish": 1
   },
   {
-    "number_friends": 1,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
-    "joined_in": 2018,
-    "joined_in_since": 3,
+    "joined_in": 1,
+    "joined_in_since": 1,
     "live": 0,
     "study_actually": 0,
     "flag_study_actually": 0,
-    "count_normal_words": 4,
-    "count_emojis_caracters": 5,
+    "count_normal_words": 0,
+    "count_emojis_caracters": 0,
     "name": 1,
     "me": 1,
     "friend": 1,
@@ -3298,8 +3298,8 @@
     "study_finish": 1
   },
   {
-    "number_friends": 1,
-    "followers": 1125,
+    "number_friends": 0,
+    "followers": 0,
     "job": 1,
     "joined_in": 1,
     "joined_in_since": 1,
@@ -3307,7 +3307,7 @@
     "study_actually": 0,
     "flag_study_actually": 0,
     "count_normal_words": 0,
-    "count_emojis_caracters": 44,
+    "count_emojis_caracters": 0,
     "name": 1,
     "me": 1,
     "friend": 1,
@@ -3672,7 +3672,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 2,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -3680,8 +3680,8 @@
     "live": 0,
     "study_actually": 0,
     "flag_study_actually": 0,
-    "count_normal_words": 12,
-    "count_emojis_caracters": 18,
+    "count_normal_words": 0,
+    "count_emojis_caracters": 0,
     "name": 1,
     "me": 1,
     "friend": 1,
@@ -3706,15 +3706,15 @@
     "study_finish": 1
   },
   {
-    "number_friends": 1782,
-    "followers": 420,
+    "number_friends": 0,
+    "followers": 0,
     "job": 1,
     "joined_in": 1,
     "joined_in_since": 1,
-    "live": 1,
+    "live": 0,
     "study_actually": 0,
     "flag_study_actually": 0,
-    "count_normal_words": 2,
+    "count_normal_words": 0,
     "count_emojis_caracters": 0,
     "name": 1,
     "me": 1,
@@ -3842,7 +3842,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 0,
+    "number_friends": 1,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -3876,8 +3876,8 @@
     "study_finish": 1
   },
   {
-    "number_friends": 4915,
-    "followers": 3180,
+    "number_friends": 4909,
+    "followers": 3194,
     "job": 1,
     "joined_in": 1,
     "joined_in_since": 1,
@@ -4047,6 +4047,23 @@
   },
   {
     "number_friends": 1,
+    "followers": 0,
+    "job": 1,
+    "joined_in": 1,
+    "joined_in_since": 1,
+    "live": 0,
+    "study_actually": 0,
+    "flag_study_actually": 0,
+    "count_normal_words": 0,
+    "count_emojis_caracters": 0,
+    "name": 1,
+    "me": 1,
+    "friend": 1,
+    "name_user_sub": 1,
+    "study_finish": 1
+  },
+  {
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -4318,8 +4335,8 @@
     "study_finish": 1
   },
   {
-    "number_friends": 4688,
-    "followers": 1265,
+    "number_friends": 4708,
+    "followers": 1310,
     "job": 1,
     "joined_in": 1,
     "joined_in_since": 1,
@@ -4352,7 +4369,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 808,
+    "number_friends": 809,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -4420,7 +4437,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 127,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -4573,16 +4590,16 @@
     "study_finish": 1
   },
   {
-    "number_friends": 4704,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
     "joined_in_since": 1,
-    "live": 1,
-    "study_actually": 1,
-    "flag_study_actually": 1,
-    "count_normal_words": 13,
-    "count_emojis_caracters": 11,
+    "live": 0,
+    "study_actually": 0,
+    "flag_study_actually": 0,
+    "count_normal_words": 0,
+    "count_emojis_caracters": 0,
     "name": 1,
     "me": 1,
     "friend": 1,
@@ -4624,7 +4641,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 2858,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -4658,8 +4675,8 @@
     "study_finish": 1
   },
   {
-    "number_friends": 708,
-    "followers": 29,
+    "number_friends": 750,
+    "followers": 53,
     "job": 1,
     "joined_in": 1,
     "joined_in_since": 1,
@@ -4743,7 +4760,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 1,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -4751,8 +4768,8 @@
     "live": 0,
     "study_actually": 0,
     "flag_study_actually": 0,
-    "count_normal_words": 1,
-    "count_emojis_caracters": 7,
+    "count_normal_words": 0,
+    "count_emojis_caracters": 0,
     "name": 1,
     "me": 1,
     "friend": 1,
@@ -4760,7 +4777,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 1,
+    "number_friends": 2191,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -4769,7 +4786,7 @@
     "study_actually": 0,
     "flag_study_actually": 0,
     "count_normal_words": 14,
-    "count_emojis_caracters": 5,
+    "count_emojis_caracters": 8,
     "name": 1,
     "me": 1,
     "friend": 1,
@@ -4904,8 +4921,8 @@
     "live": 0,
     "study_actually": 0,
     "flag_study_actually": 0,
-    "count_normal_words": 2,
-    "count_emojis_caracters": 5,
+    "count_normal_words": 0,
+    "count_emojis_caracters": 0,
     "name": 1,
     "me": 1,
     "friend": 1,
@@ -4913,16 +4930,16 @@
     "study_finish": 1
   },
   {
-    "number_friends": 514,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
     "joined_in_since": 1,
-    "live": 1,
+    "live": 0,
     "study_actually": 0,
     "flag_study_actually": 0,
-    "count_normal_words": 3,
-    "count_emojis_caracters": 14,
+    "count_normal_words": 0,
+    "count_emojis_caracters": 0,
     "name": 1,
     "me": 1,
     "friend": 1,
@@ -4947,7 +4964,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 113,
+    "number_friends": 112,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -5066,12 +5083,12 @@
     "study_finish": 1
   },
   {
-    "number_friends": 4999,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
     "joined_in_since": 1,
-    "live": 1,
+    "live": 0,
     "study_actually": 0,
     "flag_study_actually": 0,
     "count_normal_words": 0,
@@ -5287,7 +5304,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 2052,
+    "number_friends": 2054,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -5355,16 +5372,16 @@
     "study_finish": 1
   },
   {
-    "number_friends": 4855,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
     "joined_in_since": 1,
-    "live": 1,
+    "live": 0,
     "study_actually": 0,
     "flag_study_actually": 0,
-    "count_normal_words": 11,
-    "count_emojis_caracters": 5,
+    "count_normal_words": 0,
+    "count_emojis_caracters": 0,
     "name": 1,
     "me": 1,
     "friend": 1,
@@ -5440,7 +5457,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 992,
+    "number_friends": 1005,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -5448,8 +5465,8 @@
     "live": 0,
     "study_actually": 0,
     "flag_study_actually": 0,
-    "count_normal_words": 6,
-    "count_emojis_caracters": 3,
+    "count_normal_words": 1,
+    "count_emojis_caracters": 34,
     "name": 1,
     "me": 1,
     "friend": 1,
@@ -5678,7 +5695,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 272,
+    "number_friends": 1,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -5746,7 +5763,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 172,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -5797,7 +5814,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 380,
+    "number_friends": 379,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -5883,6 +5900,23 @@
   },
   {
     "number_friends": 1,
+    "followers": 2602,
+    "job": 1,
+    "joined_in": 1,
+    "joined_in_since": 1,
+    "live": 0,
+    "study_actually": 0,
+    "flag_study_actually": 0,
+    "count_normal_words": 0,
+    "count_emojis_caracters": 0,
+    "name": 1,
+    "me": 1,
+    "friend": 1,
+    "name_user_sub": 1,
+    "study_finish": 1
+  },
+  {
+    "number_friends": 1,
     "followers": 0,
     "job": 1,
     "joined_in": 2020,
@@ -5917,6 +5951,23 @@
   },
   {
     "number_friends": 0,
+    "followers": 0,
+    "job": 1,
+    "joined_in": 1,
+    "joined_in_since": 1,
+    "live": 1,
+    "study_actually": 0,
+    "flag_study_actually": 0,
+    "count_normal_words": 1,
+    "count_emojis_caracters": 2,
+    "name": 1,
+    "me": 1,
+    "friend": 1,
+    "name_user_sub": 1,
+    "study_finish": 1
+  },
+  {
+    "number_friends": 1,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -6205,7 +6256,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 100,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -6256,16 +6307,16 @@
     "study_finish": 1
   },
   {
-    "number_friends": 1,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
-    "joined_in": 2018,
-    "joined_in_since": 3,
+    "joined_in": 1,
+    "joined_in_since": 1,
     "live": 0,
     "study_actually": 0,
     "flag_study_actually": 0,
-    "count_normal_words": 4,
-    "count_emojis_caracters": 31,
+    "count_normal_words": 0,
+    "count_emojis_caracters": 0,
     "name": 1,
     "me": 1,
     "friend": 1,
@@ -6290,7 +6341,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 571,
+    "number_friends": 587,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -6494,8 +6545,8 @@
     "study_finish": 1
   },
   {
-    "number_friends": 2940,
-    "followers": 972,
+    "number_friends": 2967,
+    "followers": 980,
     "job": 1,
     "joined_in": 1,
     "joined_in_since": 1,
@@ -6528,16 +6579,16 @@
     "study_finish": 1
   },
   {
-    "number_friends": 2434,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
     "joined_in_since": 1,
-    "live": 1,
+    "live": 0,
     "study_actually": 0,
     "flag_study_actually": 0,
-    "count_normal_words": 6,
-    "count_emojis_caracters": 26,
+    "count_normal_words": 0,
+    "count_emojis_caracters": 0,
     "name": 1,
     "me": 1,
     "friend": 1,
@@ -6596,16 +6647,16 @@
     "study_finish": 1
   },
   {
-    "number_friends": 1,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
     "joined_in_since": 1,
-    "live": 1,
+    "live": 0,
     "study_actually": 0,
     "flag_study_actually": 0,
-    "count_normal_words": 3,
-    "count_emojis_caracters": 5,
+    "count_normal_words": 0,
+    "count_emojis_caracters": 0,
     "name": 1,
     "me": 1,
     "friend": 1,
@@ -6715,7 +6766,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 0,
+    "number_friends": 1,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -6723,8 +6774,8 @@
     "live": 0,
     "study_actually": 0,
     "flag_study_actually": 0,
-    "count_normal_words": 0,
-    "count_emojis_caracters": 0,
+    "count_normal_words": 7,
+    "count_emojis_caracters": 12,
     "name": 1,
     "me": 1,
     "friend": 1,
@@ -6749,12 +6800,12 @@
     "study_finish": 1
   },
   {
-    "number_friends": 289,
-    "followers": 28,
+    "number_friends": 0,
+    "followers": 0,
     "job": 1,
     "joined_in": 1,
     "joined_in_since": 1,
-    "live": 1,
+    "live": 0,
     "study_actually": 0,
     "flag_study_actually": 0,
     "count_normal_words": 0,
@@ -6818,7 +6869,7 @@
   },
   {
     "number_friends": 4766,
-    "followers": 1908,
+    "followers": 1912,
     "job": 1,
     "joined_in": 1,
     "joined_in_since": 1,
@@ -6851,16 +6902,16 @@
     "study_finish": 1
   },
   {
-    "number_friends": 0,
-    "followers": 0,
+    "number_friends": 4982,
+    "followers": 88,
     "job": 1,
     "joined_in": 1,
     "joined_in_since": 1,
-    "live": 0,
+    "live": 1,
     "study_actually": 0,
     "flag_study_actually": 0,
     "count_normal_words": 0,
-    "count_emojis_caracters": 0,
+    "count_emojis_caracters": 2,
     "name": 1,
     "me": 1,
     "friend": 1,
@@ -7038,16 +7089,16 @@
     "study_finish": 1
   },
   {
-    "number_friends": 2,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
     "joined_in_since": 1,
-    "live": 1,
+    "live": 0,
     "study_actually": 0,
     "flag_study_actually": 0,
-    "count_normal_words": 8,
-    "count_emojis_caracters": 22,
+    "count_normal_words": 0,
+    "count_emojis_caracters": 0,
     "name": 1,
     "me": 1,
     "friend": 1,
@@ -7123,7 +7174,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 1622,
+    "number_friends": 2,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -7415,8 +7466,8 @@
     "number_friends": 1,
     "followers": 0,
     "job": 1,
-    "joined_in": 2008,
-    "joined_in_since": 13,
+    "joined_in": 1,
+    "joined_in_since": 1,
     "live": 0,
     "study_actually": 0,
     "flag_study_actually": 0,
@@ -7531,16 +7582,16 @@
     "study_finish": 1
   },
   {
-    "number_friends": 433,
-    "followers": 58,
+    "number_friends": 0,
+    "followers": 0,
     "job": 1,
     "joined_in": 1,
     "joined_in_since": 1,
-    "live": 1,
+    "live": 0,
     "study_actually": 0,
     "flag_study_actually": 0,
-    "count_normal_words": 10,
-    "count_emojis_caracters": 2,
+    "count_normal_words": 0,
+    "count_emojis_caracters": 0,
     "name": 1,
     "me": 1,
     "friend": 1,
@@ -7599,7 +7650,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 1693,
+    "number_friends": 1698,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -7939,7 +7990,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 201,
+    "number_friends": 204,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -8041,7 +8092,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 344,
+    "number_friends": 343,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -8313,7 +8364,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 1,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -8517,7 +8568,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 3337,
+    "number_friends": 3453,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -8525,8 +8576,8 @@
     "live": 1,
     "study_actually": 0,
     "flag_study_actually": 0,
-    "count_normal_words": 8,
-    "count_emojis_caracters": 3,
+    "count_normal_words": 6,
+    "count_emojis_caracters": 4,
     "name": 1,
     "me": 1,
     "friend": 1,
@@ -8636,15 +8687,15 @@
     "study_finish": 1
   },
   {
-    "number_friends": 1,
-    "followers": 1235,
+    "number_friends": 0,
+    "followers": 0,
     "job": 1,
     "joined_in": 1,
     "joined_in_since": 1,
     "live": 0,
     "study_actually": 0,
     "flag_study_actually": 0,
-    "count_normal_words": 1,
+    "count_normal_words": 0,
     "count_emojis_caracters": 0,
     "name": 1,
     "me": 1,
@@ -8840,7 +8891,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 1694,
+    "number_friends": 2053,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -8848,8 +8899,8 @@
     "live": 1,
     "study_actually": 0,
     "flag_study_actually": 0,
-    "count_normal_words": 11,
-    "count_emojis_caracters": 3,
+    "count_normal_words": 13,
+    "count_emojis_caracters": 7,
     "name": 1,
     "me": 1,
     "friend": 1,
@@ -8857,7 +8908,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 3729,
+    "number_friends": 3742,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -8866,7 +8917,7 @@
     "study_actually": 0,
     "flag_study_actually": 0,
     "count_normal_words": 4,
-    "count_emojis_caracters": 5,
+    "count_emojis_caracters": 2,
     "name": 1,
     "me": 1,
     "friend": 1,
@@ -9129,7 +9180,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 134,
+    "number_friends": 136,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -9214,16 +9265,16 @@
     "study_finish": 1
   },
   {
-    "number_friends": 1,
-    "followers": 273,
+    "number_friends": 0,
+    "followers": 0,
     "job": 1,
     "joined_in": 1,
     "joined_in_since": 1,
-    "live": 1,
+    "live": 0,
     "study_actually": 0,
     "flag_study_actually": 0,
-    "count_normal_words": 13,
-    "count_emojis_caracters": 9,
+    "count_normal_words": 0,
+    "count_emojis_caracters": 0,
     "name": 1,
     "me": 1,
     "friend": 1,
@@ -9265,12 +9316,12 @@
     "study_finish": 1
   },
   {
-    "number_friends": 1724,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
     "joined_in_since": 1,
-    "live": 1,
+    "live": 0,
     "study_actually": 0,
     "flag_study_actually": 0,
     "count_normal_words": 0,
@@ -9367,6 +9418,23 @@
     "study_finish": 1
   },
   {
+    "number_friends": 3283,
+    "followers": 569,
+    "job": 1,
+    "joined_in": 1,
+    "joined_in_since": 1,
+    "live": 0,
+    "study_actually": 0,
+    "flag_study_actually": 0,
+    "count_normal_words": 0,
+    "count_emojis_caracters": 0,
+    "name": 1,
+    "me": 1,
+    "friend": 1,
+    "name_user_sub": 1,
+    "study_finish": 1
+  },
+  {
     "number_friends": 2,
     "followers": 0,
     "job": 1,
@@ -9401,7 +9469,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 0,
+    "number_friends": 1,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -9690,7 +9758,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 1,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -9698,8 +9766,8 @@
     "live": 0,
     "study_actually": 0,
     "flag_study_actually": 0,
-    "count_normal_words": 10,
-    "count_emojis_caracters": 7,
+    "count_normal_words": 0,
+    "count_emojis_caracters": 0,
     "name": 1,
     "me": 1,
     "friend": 1,
@@ -9775,12 +9843,12 @@
     "study_finish": 1
   },
   {
-    "number_friends": 2,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
     "joined_in_since": 1,
-    "live": 1,
+    "live": 0,
     "study_actually": 0,
     "flag_study_actually": 0,
     "count_normal_words": 0,
@@ -9860,12 +9928,12 @@
     "study_finish": 1
   },
   {
-    "number_friends": 570,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
     "joined_in_since": 1,
-    "live": 1,
+    "live": 0,
     "study_actually": 0,
     "flag_study_actually": 0,
     "count_normal_words": 0,
@@ -10098,12 +10166,12 @@
     "study_finish": 1
   },
   {
-    "number_friends": 416,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
     "joined_in_since": 1,
-    "live": 1,
+    "live": 0,
     "study_actually": 0,
     "flag_study_actually": 0,
     "count_normal_words": 0,
@@ -10166,7 +10234,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 3690,
+    "number_friends": 3713,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -10200,7 +10268,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 0,
+    "number_friends": 1847,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -10208,8 +10276,8 @@
     "live": 0,
     "study_actually": 0,
     "flag_study_actually": 0,
-    "count_normal_words": 0,
-    "count_emojis_caracters": 0,
+    "count_normal_words": 8,
+    "count_emojis_caracters": 15,
     "name": 1,
     "me": 1,
     "friend": 1,
@@ -10218,7 +10286,7 @@
   },
   {
     "number_friends": 1,
-    "followers": 769,
+    "followers": 777,
     "job": 1,
     "joined_in": 1,
     "joined_in_since": 1,
@@ -10234,16 +10302,16 @@
     "study_finish": 1
   },
   {
-    "number_friends": 0,
-    "followers": 0,
+    "number_friends": 1,
+    "followers": 902,
     "job": 1,
     "joined_in": 1,
     "joined_in_since": 1,
-    "live": 0,
+    "live": 1,
     "study_actually": 0,
     "flag_study_actually": 0,
     "count_normal_words": 0,
-    "count_emojis_caracters": 0,
+    "count_emojis_caracters": 52,
     "name": 1,
     "me": 1,
     "friend": 1,
@@ -10336,16 +10404,16 @@
     "study_finish": 1
   },
   {
-    "number_friends": 0,
+    "number_friends": 1,
     "followers": 0,
     "job": 1,
-    "joined_in": 1,
-    "joined_in_since": 1,
+    "joined_in": 2016,
+    "joined_in_since": 5,
     "live": 0,
     "study_actually": 0,
     "flag_study_actually": 0,
-    "count_normal_words": 0,
-    "count_emojis_caracters": 0,
+    "count_normal_words": 6,
+    "count_emojis_caracters": 7,
     "name": 1,
     "me": 1,
     "friend": 1,
@@ -10387,16 +10455,16 @@
     "study_finish": 1
   },
   {
-    "number_friends": 1640,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
     "joined_in_since": 1,
-    "live": 1,
+    "live": 0,
     "study_actually": 0,
     "flag_study_actually": 0,
-    "count_normal_words": 10,
-    "count_emojis_caracters": 1,
+    "count_normal_words": 0,
+    "count_emojis_caracters": 0,
     "name": 1,
     "me": 1,
     "friend": 1,
@@ -10404,7 +10472,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 1,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -10523,8 +10591,8 @@
     "study_finish": 1
   },
   {
-    "number_friends": 4906,
-    "followers": 2086,
+    "number_friends": 4902,
+    "followers": 2090,
     "job": 1,
     "joined_in": 1,
     "joined_in_since": 1,
@@ -10744,7 +10812,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 2307,
+    "number_friends": 2305,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -10778,8 +10846,8 @@
     "study_finish": 1
   },
   {
-    "number_friends": 1464,
-    "followers": 1172,
+    "number_friends": 1463,
+    "followers": 1171,
     "job": 1,
     "joined_in": 1,
     "joined_in_since": 1,
@@ -10846,7 +10914,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 2,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -11169,7 +11237,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 4998,
+    "number_friends": 4999,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -11288,7 +11356,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 1,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -11356,7 +11424,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 1,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -11424,7 +11492,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 1,
+    "number_friends": 2218,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -11594,7 +11662,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 3138,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -11602,8 +11670,8 @@
     "live": 0,
     "study_actually": 0,
     "flag_study_actually": 0,
-    "count_normal_words": 4,
-    "count_emojis_caracters": 14,
+    "count_normal_words": 0,
+    "count_emojis_caracters": 0,
     "name": 1,
     "me": 1,
     "friend": 1,
@@ -11815,7 +11883,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 864,
+    "number_friends": 885,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -11866,7 +11934,41 @@
     "study_finish": 1
   },
   {
-    "number_friends": 0,
+    "number_friends": 331,
+    "followers": 0,
+    "job": 1,
+    "joined_in": 2017,
+    "joined_in_since": 4,
+    "live": 1,
+    "study_actually": 0,
+    "flag_study_actually": 0,
+    "count_normal_words": 1,
+    "count_emojis_caracters": 0,
+    "name": 1,
+    "me": 1,
+    "friend": 1,
+    "name_user_sub": 1,
+    "study_finish": 1
+  },
+  {
+    "number_friends": 753,
+    "followers": 0,
+    "job": 1,
+    "joined_in": 1,
+    "joined_in_since": 1,
+    "live": 1,
+    "study_actually": 0,
+    "flag_study_actually": 0,
+    "count_normal_words": 0,
+    "count_emojis_caracters": 0,
+    "name": 1,
+    "me": 1,
+    "friend": 1,
+    "name_user_sub": 1,
+    "study_finish": 1
+  },
+  {
+    "number_friends": 1772,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -11874,42 +11976,8 @@
     "live": 0,
     "study_actually": 0,
     "flag_study_actually": 0,
-    "count_normal_words": 0,
-    "count_emojis_caracters": 0,
-    "name": 1,
-    "me": 1,
-    "friend": 1,
-    "name_user_sub": 1,
-    "study_finish": 1
-  },
-  {
-    "number_friends": 736,
-    "followers": 0,
-    "job": 1,
-    "joined_in": 1,
-    "joined_in_since": 1,
-    "live": 1,
-    "study_actually": 0,
-    "flag_study_actually": 0,
-    "count_normal_words": 0,
-    "count_emojis_caracters": 0,
-    "name": 1,
-    "me": 1,
-    "friend": 1,
-    "name_user_sub": 1,
-    "study_finish": 1
-  },
-  {
-    "number_friends": 1768,
-    "followers": 0,
-    "job": 1,
-    "joined_in": 1,
-    "joined_in_since": 1,
-    "live": 1,
-    "study_actually": 0,
-    "flag_study_actually": 0,
-    "count_normal_words": 6,
-    "count_emojis_caracters": 33,
+    "count_normal_words": 2,
+    "count_emojis_caracters": 52,
     "name": 1,
     "me": 1,
     "friend": 1,
@@ -12019,7 +12087,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 927,
+    "number_friends": 919,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -12104,7 +12172,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 2,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -12138,11 +12206,11 @@
     "study_finish": 1
   },
   {
-    "number_friends": 1,
-    "followers": 0,
+    "number_friends": 2,
+    "followers": 102,
     "job": 1,
-    "joined_in": 1,
-    "joined_in_since": 1,
+    "joined_in": 2012,
+    "joined_in_since": 9,
     "live": 1,
     "study_actually": 0,
     "flag_study_actually": 0,
@@ -12291,7 +12359,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 112,
+    "number_friends": 118,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -12325,7 +12393,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 864,
+    "number_friends": 863,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -12342,16 +12410,16 @@
     "study_finish": 1
   },
   {
-    "number_friends": 1,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
     "joined_in_since": 1,
-    "live": 1,
+    "live": 0,
     "study_actually": 0,
     "flag_study_actually": 0,
-    "count_normal_words": 3,
-    "count_emojis_caracters": 6,
+    "count_normal_words": 0,
+    "count_emojis_caracters": 0,
     "name": 1,
     "me": 1,
     "friend": 1,
@@ -12393,8 +12461,8 @@
     "study_finish": 1
   },
   {
-    "number_friends": 1912,
-    "followers": 32,
+    "number_friends": 1910,
+    "followers": 0,
     "job": 1,
     "joined_in": 1,
     "joined_in_since": 1,
@@ -12427,7 +12495,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 1106,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -12495,16 +12563,16 @@
     "study_finish": 1
   },
   {
-    "number_friends": 1,
+    "number_friends": 158,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
     "joined_in_since": 1,
-    "live": 0,
+    "live": 1,
     "study_actually": 0,
     "flag_study_actually": 0,
-    "count_normal_words": 5,
-    "count_emojis_caracters": 6,
+    "count_normal_words": 1,
+    "count_emojis_caracters": 4,
     "name": 1,
     "me": 1,
     "friend": 1,
@@ -12750,12 +12818,12 @@
     "study_finish": 1
   },
   {
-    "number_friends": 1,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
     "joined_in_since": 1,
-    "live": 1,
+    "live": 0,
     "study_actually": 0,
     "flag_study_actually": 0,
     "count_normal_words": 0,
@@ -12818,16 +12886,16 @@
     "study_finish": 1
   },
   {
-    "number_friends": 4917,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
     "joined_in_since": 1,
-    "live": 1,
+    "live": 0,
     "study_actually": 0,
     "flag_study_actually": 0,
-    "count_normal_words": 16,
-    "count_emojis_caracters": 7,
+    "count_normal_words": 0,
+    "count_emojis_caracters": 0,
     "name": 1,
     "me": 1,
     "friend": 1,
@@ -13464,57 +13532,6 @@
     "study_finish": 1
   },
   {
-    "number_friends": 257,
-    "followers": 0,
-    "job": 1,
-    "joined_in": 1,
-    "joined_in_since": 1,
-    "live": 1,
-    "study_actually": 0,
-    "flag_study_actually": 0,
-    "count_normal_words": 0,
-    "count_emojis_caracters": 0,
-    "name": 1,
-    "me": 1,
-    "friend": 1,
-    "name_user_sub": 1,
-    "study_finish": 1
-  },
-  {
-    "number_friends": 0,
-    "followers": 0,
-    "job": 1,
-    "joined_in": 1,
-    "joined_in_since": 1,
-    "live": 0,
-    "study_actually": 0,
-    "flag_study_actually": 0,
-    "count_normal_words": 0,
-    "count_emojis_caracters": 0,
-    "name": 1,
-    "me": 1,
-    "friend": 1,
-    "name_user_sub": 1,
-    "study_finish": 1
-  },
-  {
-    "number_friends": 1,
-    "followers": 0,
-    "job": 1,
-    "joined_in": 1,
-    "joined_in_since": 1,
-    "live": 0,
-    "study_actually": 0,
-    "flag_study_actually": 0,
-    "count_normal_words": 0,
-    "count_emojis_caracters": 0,
-    "name": 1,
-    "me": 1,
-    "friend": 1,
-    "name_user_sub": 1,
-    "study_finish": 1
-  },
-  {
     "number_friends": 0,
     "followers": 0,
     "job": 1,
@@ -13557,7 +13574,58 @@
     "live": 0,
     "study_actually": 0,
     "flag_study_actually": 0,
-    "count_normal_words": 8,
+    "count_normal_words": 0,
+    "count_emojis_caracters": 0,
+    "name": 1,
+    "me": 1,
+    "friend": 1,
+    "name_user_sub": 1,
+    "study_finish": 1
+  },
+  {
+    "number_friends": 0,
+    "followers": 0,
+    "job": 1,
+    "joined_in": 1,
+    "joined_in_since": 1,
+    "live": 0,
+    "study_actually": 0,
+    "flag_study_actually": 0,
+    "count_normal_words": 0,
+    "count_emojis_caracters": 0,
+    "name": 1,
+    "me": 1,
+    "friend": 1,
+    "name_user_sub": 1,
+    "study_finish": 1
+  },
+  {
+    "number_friends": 0,
+    "followers": 0,
+    "job": 1,
+    "joined_in": 1,
+    "joined_in_since": 1,
+    "live": 0,
+    "study_actually": 0,
+    "flag_study_actually": 0,
+    "count_normal_words": 0,
+    "count_emojis_caracters": 0,
+    "name": 1,
+    "me": 1,
+    "friend": 1,
+    "name_user_sub": 1,
+    "study_finish": 1
+  },
+  {
+    "number_friends": 0,
+    "followers": 0,
+    "job": 1,
+    "joined_in": 1,
+    "joined_in_since": 1,
+    "live": 0,
+    "study_actually": 0,
+    "flag_study_actually": 0,
+    "count_normal_words": 0,
     "count_emojis_caracters": 0,
     "name": 1,
     "me": 1,
@@ -13583,12 +13651,12 @@
     "study_finish": 1
   },
   {
-    "number_friends": 875,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
     "joined_in_since": 1,
-    "live": 1,
+    "live": 0,
     "study_actually": 0,
     "flag_study_actually": 0,
     "count_normal_words": 0,
@@ -13787,7 +13855,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 272,
+    "number_friends": 273,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -13821,8 +13889,8 @@
     "study_finish": 1
   },
   {
-    "number_friends": 1298,
-    "followers": 377,
+    "number_friends": 1308,
+    "followers": 401,
     "job": 1,
     "joined_in": 1,
     "joined_in_since": 1,
@@ -13899,6 +13967,23 @@
     "flag_study_actually": 0,
     "count_normal_words": 7,
     "count_emojis_caracters": 3,
+    "name": 1,
+    "me": 1,
+    "friend": 1,
+    "name_user_sub": 1,
+    "study_finish": 1
+  },
+  {
+    "number_friends": 4695,
+    "followers": 5624,
+    "job": 1,
+    "joined_in": 1,
+    "joined_in_since": 1,
+    "live": 1,
+    "study_actually": 0,
+    "flag_study_actually": 0,
+    "count_normal_words": 0,
+    "count_emojis_caracters": 0,
     "name": 1,
     "me": 1,
     "friend": 1,
@@ -13991,16 +14076,16 @@
     "study_finish": 1
   },
   {
-    "number_friends": 1,
-    "followers": 1507,
+    "number_friends": 0,
+    "followers": 0,
     "job": 1,
     "joined_in": 1,
     "joined_in_since": 1,
     "live": 0,
     "study_actually": 0,
     "flag_study_actually": 0,
-    "count_normal_words": 5,
-    "count_emojis_caracters": 13,
+    "count_normal_words": 0,
+    "count_emojis_caracters": 0,
     "name": 1,
     "me": 1,
     "friend": 1,
@@ -14042,7 +14127,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 1,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -14144,12 +14229,12 @@
     "study_finish": 1
   },
   {
-    "number_friends": 128,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
     "joined_in_since": 1,
-    "live": 1,
+    "live": 0,
     "study_actually": 0,
     "flag_study_actually": 0,
     "count_normal_words": 0,
@@ -14161,8 +14246,8 @@
     "study_finish": 1
   },
   {
-    "number_friends": 1,
-    "followers": 279,
+    "number_friends": 0,
+    "followers": 278,
     "job": 1,
     "joined_in": 1,
     "joined_in_since": 1,
@@ -14297,8 +14382,8 @@
     "study_finish": 1
   },
   {
-    "number_friends": 3113,
-    "followers": 1337,
+    "number_friends": 0,
+    "followers": 0,
     "job": 1,
     "joined_in": 1,
     "joined_in_since": 1,
@@ -14306,7 +14391,7 @@
     "study_actually": 0,
     "flag_study_actually": 0,
     "count_normal_words": 0,
-    "count_emojis_caracters": 4,
+    "count_emojis_caracters": 0,
     "name": 1,
     "me": 1,
     "friend": 1,
@@ -14501,11 +14586,11 @@
     "study_finish": 1
   },
   {
-    "number_friends": 3510,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
-    "joined_in": 2019,
-    "joined_in_since": 2,
+    "joined_in": 1,
+    "joined_in_since": 1,
     "live": 0,
     "study_actually": 0,
     "flag_study_actually": 0,
@@ -14705,7 +14790,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 1032,
+    "number_friends": 1038,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -14722,12 +14807,12 @@
     "study_finish": 1
   },
   {
-    "number_friends": 509,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
     "joined_in_since": 1,
-    "live": 1,
+    "live": 0,
     "study_actually": 0,
     "flag_study_actually": 0,
     "count_normal_words": 0,
@@ -14858,7 +14943,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 2,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -14866,8 +14951,8 @@
     "live": 0,
     "study_actually": 0,
     "flag_study_actually": 0,
-    "count_normal_words": 3,
-    "count_emojis_caracters": 12,
+    "count_normal_words": 0,
+    "count_emojis_caracters": 0,
     "name": 1,
     "me": 1,
     "friend": 1,
@@ -15096,7 +15181,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 1,
+    "number_friends": 3568,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -15164,7 +15249,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 4743,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -15232,7 +15317,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 785,
+    "number_friends": 784,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -15436,7 +15521,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 1,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -15444,8 +15529,8 @@
     "live": 0,
     "study_actually": 0,
     "flag_study_actually": 0,
-    "count_normal_words": 8,
-    "count_emojis_caracters": 19,
+    "count_normal_words": 0,
+    "count_emojis_caracters": 0,
     "name": 1,
     "me": 1,
     "friend": 1,
@@ -15589,7 +15674,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 520,
+    "number_friends": 521,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -15742,16 +15827,16 @@
     "study_finish": 1
   },
   {
-    "number_friends": 354,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
     "joined_in_since": 1,
-    "live": 1,
+    "live": 0,
     "study_actually": 0,
     "flag_study_actually": 0,
-    "count_normal_words": 14,
-    "count_emojis_caracters": 1,
+    "count_normal_words": 0,
+    "count_emojis_caracters": 0,
     "name": 1,
     "me": 1,
     "friend": 1,
@@ -15827,11 +15912,11 @@
     "study_finish": 1
   },
   {
-    "number_friends": 2,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
-    "joined_in": 2018,
-    "joined_in_since": 3,
+    "joined_in": 1,
+    "joined_in_since": 1,
     "live": 0,
     "study_actually": 0,
     "flag_study_actually": 0,
@@ -15913,7 +15998,7 @@
   },
   {
     "number_friends": 1,
-    "followers": 1371,
+    "followers": 1396,
     "job": 1,
     "joined_in": 1,
     "joined_in_since": 1,
@@ -16099,7 +16184,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 2698,
+    "number_friends": 2706,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -16150,7 +16235,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 2758,
+    "number_friends": 2756,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -16235,7 +16320,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 828,
+    "number_friends": 829,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -16354,7 +16439,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 4260,
+    "number_friends": 4353,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -16405,7 +16490,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 1,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -16413,8 +16498,8 @@
     "live": 0,
     "study_actually": 0,
     "flag_study_actually": 0,
-    "count_normal_words": 6,
-    "count_emojis_caracters": 22,
+    "count_normal_words": 9,
+    "count_emojis_caracters": 11,
     "name": 1,
     "me": 1,
     "friend": 1,
@@ -16490,7 +16575,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 59,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -16626,16 +16711,16 @@
     "study_finish": 1
   },
   {
-    "number_friends": 1,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
     "joined_in_since": 1,
-    "live": 1,
+    "live": 0,
     "study_actually": 0,
     "flag_study_actually": 0,
-    "count_normal_words": 7,
-    "count_emojis_caracters": 6,
+    "count_normal_words": 0,
+    "count_emojis_caracters": 0,
     "name": 1,
     "me": 1,
     "friend": 1,
@@ -16648,10 +16733,10 @@
     "job": 1,
     "joined_in": 1,
     "joined_in_since": 1,
-    "live": 0,
+    "live": 1,
     "study_actually": 0,
     "flag_study_actually": 0,
-    "count_normal_words": 0,
+    "count_normal_words": 7,
     "count_emojis_caracters": 0,
     "name": 1,
     "me": 1,
@@ -16694,8 +16779,8 @@
     "study_finish": 1
   },
   {
-    "number_friends": 2594,
-    "followers": 364,
+    "number_friends": 2612,
+    "followers": 377,
     "job": 1,
     "joined_in": 1,
     "joined_in_since": 1,
@@ -16864,12 +16949,12 @@
     "study_finish": 1
   },
   {
-    "number_friends": 433,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
     "joined_in_since": 1,
-    "live": 1,
+    "live": 0,
     "study_actually": 0,
     "flag_study_actually": 0,
     "count_normal_words": 0,
@@ -16983,16 +17068,16 @@
     "study_finish": 1
   },
   {
-    "number_friends": 2473,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
     "joined_in_since": 1,
-    "live": 1,
+    "live": 0,
     "study_actually": 0,
     "flag_study_actually": 0,
     "count_normal_words": 0,
-    "count_emojis_caracters": 3,
+    "count_emojis_caracters": 0,
     "name": 1,
     "me": 1,
     "friend": 1,
@@ -17306,7 +17391,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 965,
+    "number_friends": 978,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -17357,15 +17442,15 @@
     "study_finish": 1
   },
   {
-    "number_friends": 1417,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
-    "joined_in": 2011,
-    "joined_in_since": 10,
-    "live": 1,
+    "joined_in": 1,
+    "joined_in_since": 1,
+    "live": 0,
     "study_actually": 0,
     "flag_study_actually": 0,
-    "count_normal_words": 3,
+    "count_normal_words": 0,
     "count_emojis_caracters": 0,
     "name": 1,
     "me": 1,
@@ -17578,12 +17663,12 @@
     "study_finish": 1
   },
   {
-    "number_friends": 1,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
     "joined_in_since": 1,
-    "live": 1,
+    "live": 0,
     "study_actually": 0,
     "flag_study_actually": 0,
     "count_normal_words": 0,
@@ -17612,12 +17697,12 @@
     "study_finish": 1
   },
   {
-    "number_friends": 1,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
     "joined_in_since": 1,
-    "live": 1,
+    "live": 0,
     "study_actually": 0,
     "flag_study_actually": 0,
     "count_normal_words": 0,
@@ -17646,7 +17731,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 438,
+    "number_friends": 444,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -17748,7 +17833,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 718,
+    "number_friends": 733,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -17782,7 +17867,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 4838,
+    "number_friends": 4866,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -18003,7 +18088,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 621,
+    "number_friends": 602,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -18071,7 +18156,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 857,
+    "number_friends": 859,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -18275,16 +18360,16 @@
     "study_finish": 1
   },
   {
-    "number_friends": 474,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
     "joined_in_since": 1,
-    "live": 1,
+    "live": 0,
     "study_actually": 0,
     "flag_study_actually": 0,
-    "count_normal_words": 2,
-    "count_emojis_caracters": 1,
+    "count_normal_words": 0,
+    "count_emojis_caracters": 0,
     "name": 1,
     "me": 1,
     "friend": 1,
@@ -18326,7 +18411,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 443,
+    "number_friends": 453,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -18360,7 +18445,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 1590,
+    "number_friends": 1589,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -18513,14 +18598,14 @@
     "study_finish": 1
   },
   {
-    "number_friends": 538,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
-    "joined_in": 2015,
-    "joined_in_since": 6,
-    "live": 1,
-    "study_actually": 1,
-    "flag_study_actually": 1,
+    "joined_in": 1,
+    "joined_in_since": 1,
+    "live": 0,
+    "study_actually": 0,
+    "flag_study_actually": 0,
     "count_normal_words": 0,
     "count_emojis_caracters": 0,
     "name": 1,
@@ -18547,7 +18632,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 676,
+    "number_friends": 681,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -18598,7 +18683,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 779,
+    "number_friends": 789,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -19159,7 +19244,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 1069,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -19176,7 +19261,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 1,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -19363,12 +19448,12 @@
     "study_finish": 1
   },
   {
-    "number_friends": 974,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
     "joined_in_since": 1,
-    "live": 1,
+    "live": 0,
     "study_actually": 0,
     "flag_study_actually": 0,
     "count_normal_words": 0,
@@ -19482,7 +19567,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 0,
+    "number_friends": 1,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -19516,7 +19601,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 1,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -19533,16 +19618,16 @@
     "study_finish": 1
   },
   {
-    "number_friends": 5000,
-    "followers": 3685,
+    "number_friends": 4999,
+    "followers": 3867,
     "job": 1,
     "joined_in": 1,
     "joined_in_since": 1,
     "live": 1,
     "study_actually": 0,
     "flag_study_actually": 0,
-    "count_normal_words": 2,
-    "count_emojis_caracters": 20,
+    "count_normal_words": 3,
+    "count_emojis_caracters": 19,
     "name": 1,
     "me": 1,
     "friend": 1,
@@ -19618,8 +19703,8 @@
     "study_finish": 1
   },
   {
-    "number_friends": 4996,
-    "followers": 639,
+    "number_friends": 4994,
+    "followers": 653,
     "job": 1,
     "joined_in": 1,
     "joined_in_since": 1,
@@ -19627,7 +19712,7 @@
     "study_actually": 0,
     "flag_study_actually": 0,
     "count_normal_words": 0,
-    "count_emojis_caracters": 2,
+    "count_emojis_caracters": 8,
     "name": 1,
     "me": 1,
     "friend": 1,
@@ -19720,16 +19805,16 @@
     "study_finish": 1
   },
   {
-    "number_friends": 992,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
     "joined_in_since": 1,
-    "live": 1,
+    "live": 0,
     "study_actually": 0,
     "flag_study_actually": 0,
-    "count_normal_words": 9,
-    "count_emojis_caracters": 8,
+    "count_normal_words": 0,
+    "count_emojis_caracters": 0,
     "name": 1,
     "me": 1,
     "friend": 1,
@@ -19737,16 +19822,16 @@
     "study_finish": 1
   },
   {
-    "number_friends": 4836,
-    "followers": 117,
+    "number_friends": 0,
+    "followers": 0,
     "job": 1,
-    "joined_in": 2018,
-    "joined_in_since": 3,
-    "live": 1,
+    "joined_in": 1,
+    "joined_in_since": 1,
+    "live": 0,
     "study_actually": 0,
     "flag_study_actually": 0,
-    "count_normal_words": 7,
-    "count_emojis_caracters": 17,
+    "count_normal_words": 0,
+    "count_emojis_caracters": 0,
     "name": 1,
     "me": 1,
     "friend": 1,
@@ -19805,12 +19890,12 @@
     "study_finish": 1
   },
   {
-    "number_friends": 0,
+    "number_friends": 1767,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
     "joined_in_since": 1,
-    "live": 0,
+    "live": 1,
     "study_actually": 0,
     "flag_study_actually": 0,
     "count_normal_words": 0,
@@ -20111,7 +20196,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 2353,
+    "number_friends": 2352,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -20145,7 +20230,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 611,
+    "number_friends": 625,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -20230,16 +20315,16 @@
     "study_finish": 1
   },
   {
-    "number_friends": 215,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
-    "joined_in": 2017,
-    "joined_in_since": 4,
+    "joined_in": 1,
+    "joined_in_since": 1,
     "live": 0,
     "study_actually": 0,
     "flag_study_actually": 0,
     "count_normal_words": 0,
-    "count_emojis_caracters": 1,
+    "count_emojis_caracters": 0,
     "name": 1,
     "me": 1,
     "friend": 1,
@@ -20315,8 +20400,8 @@
     "study_finish": 1
   },
   {
-    "number_friends": 952,
-    "followers": 597,
+    "number_friends": 982,
+    "followers": 870,
     "job": 1,
     "joined_in": 1,
     "joined_in_since": 1,
@@ -20417,8 +20502,8 @@
     "study_finish": 1
   },
   {
-    "number_friends": 952,
-    "followers": 199,
+    "number_friends": 996,
+    "followers": 202,
     "job": 1,
     "joined_in": 1,
     "joined_in_since": 1,
@@ -20502,7 +20587,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 3977,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -20553,7 +20638,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 1,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -20570,7 +20655,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 574,
+    "number_friends": 571,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -20689,7 +20774,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 832,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -20791,16 +20876,16 @@
     "study_finish": 1
   },
   {
-    "number_friends": 165,
+    "number_friends": 166,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
     "joined_in_since": 1,
-    "live": 1,
+    "live": 0,
     "study_actually": 0,
     "flag_study_actually": 0,
-    "count_normal_words": 0,
-    "count_emojis_caracters": 17,
+    "count_normal_words": 6,
+    "count_emojis_caracters": 19,
     "name": 1,
     "me": 1,
     "friend": 1,
@@ -20961,16 +21046,16 @@
     "study_finish": 1
   },
   {
-    "number_friends": 0,
-    "followers": 0,
+    "number_friends": 4332,
+    "followers": 3,
     "job": 1,
     "joined_in": 1,
     "joined_in_since": 1,
     "live": 0,
     "study_actually": 0,
     "flag_study_actually": 0,
-    "count_normal_words": 0,
-    "count_emojis_caracters": 0,
+    "count_normal_words": 8,
+    "count_emojis_caracters": 23,
     "name": 1,
     "me": 1,
     "friend": 1,
@@ -21216,6 +21301,23 @@
     "study_finish": 1
   },
   {
+    "number_friends": 2503,
+    "followers": 0,
+    "job": 1,
+    "joined_in": 1,
+    "joined_in_since": 1,
+    "live": 1,
+    "study_actually": 0,
+    "flag_study_actually": 0,
+    "count_normal_words": 0,
+    "count_emojis_caracters": 0,
+    "name": 1,
+    "me": 1,
+    "friend": 1,
+    "name_user_sub": 1,
+    "study_finish": 1
+  },
+  {
     "number_friends": 1,
     "followers": 0,
     "job": 1,
@@ -21369,12 +21471,12 @@
     "study_finish": 1
   },
   {
-    "number_friends": 1,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
-    "joined_in": 2014,
-    "joined_in_since": 7,
-    "live": 1,
+    "joined_in": 1,
+    "joined_in_since": 1,
+    "live": 0,
     "study_actually": 0,
     "flag_study_actually": 0,
     "count_normal_words": 0,
@@ -21505,16 +21607,16 @@
     "study_finish": 1
   },
   {
-    "number_friends": 657,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
     "joined_in_since": 1,
-    "live": 1,
+    "live": 0,
     "study_actually": 0,
     "flag_study_actually": 0,
-    "count_normal_words": 2,
-    "count_emojis_caracters": 14,
+    "count_normal_words": 0,
+    "count_emojis_caracters": 0,
     "name": 1,
     "me": 1,
     "friend": 1,
@@ -21658,8 +21760,8 @@
     "study_finish": 1
   },
   {
-    "number_friends": 4998,
-    "followers": 1886,
+    "number_friends": 1,
+    "followers": 1891,
     "job": 1,
     "joined_in": 2015,
     "joined_in_since": 6,
@@ -21879,7 +21981,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 0,
+    "number_friends": 1,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -21887,8 +21989,8 @@
     "live": 0,
     "study_actually": 0,
     "flag_study_actually": 0,
-    "count_normal_words": 0,
-    "count_emojis_caracters": 0,
+    "count_normal_words": 10,
+    "count_emojis_caracters": 9,
     "name": 1,
     "me": 1,
     "friend": 1,
@@ -21981,16 +22083,16 @@
     "study_finish": 1
   },
   {
-    "number_friends": 1702,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
     "joined_in_since": 1,
-    "live": 1,
+    "live": 0,
     "study_actually": 0,
     "flag_study_actually": 0,
-    "count_normal_words": 9,
-    "count_emojis_caracters": 11,
+    "count_normal_words": 0,
+    "count_emojis_caracters": 0,
     "name": 1,
     "me": 1,
     "friend": 1,
@@ -22066,7 +22168,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 1,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -22074,8 +22176,8 @@
     "live": 0,
     "study_actually": 0,
     "flag_study_actually": 0,
-    "count_normal_words": 2,
-    "count_emojis_caracters": 2,
+    "count_normal_words": 0,
+    "count_emojis_caracters": 0,
     "name": 1,
     "me": 1,
     "friend": 1,
@@ -22168,7 +22270,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 1,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
@@ -22176,8 +22278,8 @@
     "live": 0,
     "study_actually": 0,
     "flag_study_actually": 0,
-    "count_normal_words": 10,
-    "count_emojis_caracters": 11,
+    "count_normal_words": 0,
+    "count_emojis_caracters": 0,
     "name": 1,
     "me": 1,
     "friend": 1,
@@ -22185,16 +22287,16 @@
     "study_finish": 1
   },
   {
-    "number_friends": 2,
-    "followers": 1998,
+    "number_friends": 0,
+    "followers": 0,
     "job": 1,
     "joined_in": 1,
     "joined_in_since": 1,
     "live": 0,
     "study_actually": 0,
     "flag_study_actually": 0,
-    "count_normal_words": 1,
-    "count_emojis_caracters": 6,
+    "count_normal_words": 0,
+    "count_emojis_caracters": 0,
     "name": 1,
     "me": 1,
     "friend": 1,
@@ -22355,7 +22457,7 @@
     "study_finish": 1
   },
   {
-    "number_friends": 1,
+    "number_friends": 0,
     "followers": 0,
     "job": 1,
     "joined_in": 1,
