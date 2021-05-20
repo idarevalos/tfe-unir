@@ -1,6 +1,6 @@
 
-// const url_api = 'http://localhost:8080/',
-const url_api = 'http://ec2-54-84-79-47.compute-1.amazonaws.com/',
+const url_api = 'http://localhost:8080/',
+// const url_api = 'http://ec2-54-84-79-47.compute-1.amazonaws.com/',
 m = 'getDataProfile/'
 
 /**

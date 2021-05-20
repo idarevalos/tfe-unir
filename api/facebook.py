@@ -1,40 +1,39 @@
 from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.chrome.options import Options
-# from selenium.webdriver.firefox.options import Options
+# from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.firefox.options import Options
 
 import time
 import codecs
 from bs4 import BeautifulSoup
 import json
 
-BASE = '/var/www/html/jd/'
-# BASE = ''
+# BASE = '/var/www/html/jd/'
+BASE = ''
 
 class seleniumFacebook():
 
     def __init__(self, **kwargs):
         self.u = "ivandaniel.arevalo884@comunidadunir.net"
-        self.p = "xxxxxxxxxxxxxxxxx"    
+        self.p = "TFFMKMGZEN"    
          
          
-        self.CHROMEDRIVER_PATH = '/usr/local/bin/chromedriver'
-        # self.CHROMEDRIVER_PATH = 'api/webdriver/geckodriver.exe'
+        # self.CHROMEDRIVER_PATH = '/usr/local/bin/chromedriver'
+        self.CHROMEDRIVER_PATH = 'api/webdriver/geckodriver.exe'
         self.WINDOW_SIZE = "1920,1080"
 
         ## Google Chrome options
-        self.chrome_options = Options()
-        self.chrome_options.add_argument("--headless")
-        self.chrome_options.add_argument("--window-size=%s" % self.WINDOW_SIZE)
-        self.chrome_options.add_argument('--no-sandbox')
-
-        self.navigator = webdriver.Chrome(executable_path = self.CHROMEDRIVER_PATH, chrome_options = self.chrome_options)
+        # self.chrome_options = Options()
+        # self.chrome_options.add_argument("--headless")
+        # self.chrome_options.add_argument("--window-size=%s" % self.WINDOW_SIZE)
+        # self.chrome_options.add_argument('--no-sandbox')
+        # self.navigator = webdriver.Chrome(executable_path = self.CHROMEDRIVER_PATH, chrome_options = self.chrome_options)
 
         ## Firefox Options
-        # self.options = Options()
-        # self.options.headless = True
-        # self.options.add_argument("--window-size=%s" % self.WINDOW_SIZE)
-        # self.navigator = webdriver.Firefox(options=self.options, executable_path = self.CHROMEDRIVER_PATH)
+        self.options = Options()
+        self.options.headless = False
+        self.options.add_argument("--window-size=%s" % self.WINDOW_SIZE)
+        self.navigator = webdriver.Firefox(options=self.options, executable_path = self.CHROMEDRIVER_PATH)
                 
     def decodePathFacebook(self, path___):
         r = ''

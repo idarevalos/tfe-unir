@@ -11,8 +11,8 @@ app = Flask(__name__)
 domains_allowed = ['http://ec2-54-84-79-47.compute-1.amazonaws.com','http://idarevalos.co/*']
 cors = CORS(app, resources={r"/*": {"origins": domains_allowed}}) # 
 
-BASE = '/var/www/html/jd/'
-# BASE = app.root_path
+# BASE = '/var/www/html/jd/'
+BASE = app.root_path
 
 '''
 # RUTAS DE TEMPLATES
@@ -264,5 +264,5 @@ def readRouterProfiles():
 
 
 # Inicializarlo
-# if __name__ == '__main__':
-#     app.run(debug=True, port=8080)
+if __name__ == '__main__':
+    app.run(debug=True, port=8080)
