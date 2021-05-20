@@ -144,7 +144,7 @@ def valideIAModelFacebook(data):
         
 
     ## CLASES DEFINIDAS
-    group = ['G1, Posiblemente Válido','G2, Posiblemente No Válido','G3, Posiblemente Válido']
+    group = ['G1, Posiblemente Válido','G2, Posiblemente No Válido']
     
     pkl_filename = BASE+'/00_model_kmeans_supervise.pkl'
 
